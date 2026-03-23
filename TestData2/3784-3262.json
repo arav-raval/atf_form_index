@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 10.242,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.4025
+    ],
+    "jitter_slop": 1.1619,
+    "overflow_prob": 0.04
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "399613",
+    "serial": "3784-3262",
+    "pdf_file": "3784-3262.pdf"
+  },
+  "buyer": {
+    "last": "Villarreal",
+    "first": "Sara",
+    "middle": "T.",
+    "street": "675 Steven Burg Suite 705",
+    "city": "New Emilymouth",
+    "state": "MA",
+    "zip": "93725",
+    "county": "Port Brianshire",
+    "dob": "02/20/1962",
+    "birth_place": "South Teresachester, GU",
+    "height": "4'3\"",
+    "weight": 185,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "514-94-7914",
+    "id_type": "Tribal ID",
+    "id_expiration": "07/24/2031"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "2-86-63745"
+  },
+  "seller": "Nathan Holmes",
+  "cert_date": "08/09/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Canik",
+      "model": "TP9 Elite Combat",
+      "serial": "3784-3262",
+      "type": "Pistol",
+      "caliber": "9mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

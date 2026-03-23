@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Chokladboll/OpenType-TT/Chokladboll.ttf",
+    "base_font_size": 9.806,
+    "ink_color_rgb": [
+      0.4119,
+      0.1536,
+      0.028
+    ],
+    "jitter_slop": 1.0615,
+    "overflow_prob": 0.0519
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "06074",
+    "serial": "NAL906",
+    "pdf_file": "NAL906.pdf"
+  },
+  "buyer": {
+    "last": "Parks II",
+    "first": "Mark",
+    "middle": "NMN",
+    "street": "875 Brown Flats Apt. 110",
+    "city": "Cunninghamborough",
+    "state": "HI",
+    "zip": "70078",
+    "county": "Omarburgh",
+    "dob": "06/05/1997",
+    "birth_place": "Brownview, NH",
+    "height": "5'6\"",
+    "weight": 127,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "844-95-4315",
+    "id_type": "State ID Card",
+    "id_expiration": "10/01/2034"
+  },
+  "dealer": {
+    "name": "Bell Firearms & Range",
+    "ffl": "7-51-57306"
+  },
+  "seller": "Anna Matthews",
+  "cert_date": "06/06/2026",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "FN America",
+      "model": "Five-seveN",
+      "serial": "NAL906",
+      "type": "Pistol",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

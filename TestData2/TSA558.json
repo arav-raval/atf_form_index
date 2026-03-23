@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Smartcarol/OpenType-TT/SMARTCAROL.ttf",
+    "base_font_size": 11.047,
+    "ink_color_rgb": [
+      0.0082,
+      0.0082,
+      0.0082
+    ],
+    "jitter_slop": 1.8976,
+    "overflow_prob": 0.0424
+  },
+  "form": {
+    "year": "1985",
+    "transaction_number": "43685",
+    "serial": "TSA558",
+    "pdf_file": "TSA558.pdf"
+  },
+  "buyer": {
+    "last": "Hawkins III",
+    "first": "Debra",
+    "middle": "NMN",
+    "street": "3486 Sarah Village Apt. 073",
+    "city": "Morenofurt",
+    "state": "SC",
+    "zip": "62805",
+    "county": "Irwinview",
+    "dob": "01/03/1966",
+    "birth_place": "Lake Catherineville, OH",
+    "height": "6'8\"",
+    "weight": 145,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": true,
+    "ssn_written": null,
+    "id_type": "Driver's License",
+    "id_expiration": "12/20/2032"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "6-81-90432"
+  },
+  "seller": "Jessica Johnston",
+  "cert_date": "11/25/2025",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "CZ-USA",
+      "model": "75 B Omega",
+      "serial": "TSA558",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

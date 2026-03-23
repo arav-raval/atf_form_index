@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/LookingGlassScript/OpenType-TT/LookingGlassScript.ttf",
+    "base_font_size": 9.916,
+    "ink_color_rgb": [
+      0.0771,
+      0.0771,
+      0.0771
+    ],
+    "jitter_slop": 0.815,
+    "overflow_prob": 0.0978
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "094547",
+    "serial": "V303947",
+    "pdf_file": "V303947.pdf"
+  },
+  "buyer": {
+    "last": "Morgan Jr.",
+    "first": "Jorge",
+    "middle": "NMN",
+    "street": "68606 Ashley Union Suite 759",
+    "city": "South Aliceview",
+    "state": "IA",
+    "zip": "29289",
+    "county": "Reillyborough",
+    "dob": "06/03/1993",
+    "birth_place": "South Jessicaville, WV",
+    "height": "6'0\"",
+    "weight": 108,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": null,
+    "id_type": "State ID Card",
+    "id_expiration": "03/12/2031"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "2-62-20672"
+  },
+  "seller": "Benjamin Andrews",
+  "cert_date": "10/17/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "1100 Sporting",
+      "serial": "V303947",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "NO"
+    }
+  ],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Homesick/OpenType-TT/Homesick.ttf",
+    "base_font_size": 12.794,
+    "ink_color_rgb": [
+      0.464,
+      0.464,
+      0.464
+    ],
+    "jitter_slop": 0.8085,
+    "overflow_prob": 0.0462
+  },
+  "form": {
+    "year": "2007",
+    "transaction_number": "604391",
+    "serial": "16W65321",
+    "pdf_file": "16W65321.pdf"
+  },
+  "buyer": {
+    "last": "Henderson",
+    "first": "Jennifer",
+    "middle": "G.",
+    "street": "5006 Victoria Crest",
+    "city": "Robertfurt",
+    "state": "NM",
+    "zip": "21944",
+    "county": "West Joe",
+    "dob": "01/26/2001",
+    "birth_place": "Kylefort, NM",
+    "height": "4'1\"",
+    "weight": 169,
+    "sex": "Male",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Passport Card",
+    "id_expiration": "07/12/2032"
+  },
+  "dealer": {
+    "name": "Miller & Sons Sporting Goods",
+    "ffl": "7-18-14195"
+  },
+  "seller": "Frank Turner",
+  "cert_date": "02/24/2026",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P 45",
+      "serial": "16W65321",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

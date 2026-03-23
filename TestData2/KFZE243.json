@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Geneva.ttf",
+    "base_font_size": 10.829,
+    "ink_color_rgb": [
+      0.04,
+      0.04,
+      0.7696
+    ],
+    "jitter_slop": 1.1186,
+    "overflow_prob": 0.026
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "4880",
+    "serial": "KFZE243",
+    "pdf_file": "KFZE243.pdf"
+  },
+  "buyer": {
+    "last": "Young",
+    "first": "Nathan",
+    "middle": "NMN",
+    "street": "53698 Jennifer Dam",
+    "city": "North Markland",
+    "state": "TX",
+    "zip": "98153",
+    "county": "Lake Andreaborough",
+    "dob": "04/09/1987",
+    "birth_place": "Christophertown, HI",
+    "height": "6'5\"",
+    "weight": 147,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "923-58-5748",
+    "id_type": "Passport Card",
+    "id_expiration": "01/18/2031"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "7-92-94302"
+  },
+  "seller": "Robert Vega",
+  "cert_date": "10/24/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "FN America",
+      "model": "FNX-45 Tactical",
+      "serial": "KFZE243",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

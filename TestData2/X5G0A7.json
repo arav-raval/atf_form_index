@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Spoonery/OpenType-TT/Spoonery.ttf",
+    "base_font_size": 8.317,
+    "ink_color_rgb": [
+      0.0197,
+      0.0197,
+      0.0197
+    ],
+    "jitter_slop": 2.2334,
+    "overflow_prob": 0.0567
+  },
+  "form": {
+    "year": "2007",
+    "transaction_number": "7391",
+    "serial": "X5G0A7",
+    "pdf_file": "X5G0A7.pdf"
+  },
+  "buyer": {
+    "last": "Lang II",
+    "first": "Hector",
+    "middle": "NMN",
+    "street": "499 Bianca Curve",
+    "city": "New Greg",
+    "state": "MI",
+    "zip": "78309",
+    "county": "Tuckerhaven",
+    "dob": "09/28/1993",
+    "birth_place": "Port Taylor, OR",
+    "height": "5'2\"",
+    "weight": 90,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": true,
+    "ssn_written": null,
+    "id_type": "State ID Card",
+    "id_expiration": "07/20/2028"
+  },
+  "dealer": {
+    "name": "Jordan Defense Supply",
+    "ffl": "1-56-65766"
+  },
+  "seller": "Andrea Wheeler",
+  "cert_date": "07/21/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP Full Size",
+      "serial": "X5G0A7",
+      "type": "Pistol",
+      "caliber": ".40 S&W"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

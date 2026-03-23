@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Marker/OpenType-TT/Marker.ttf",
+    "base_font_size": 11.831,
+    "ink_color_rgb": [
+      0.0127,
+      0.0066,
+      0.6102
+    ],
+    "jitter_slop": 0.9757,
+    "overflow_prob": 0.0504
+  },
+  "form": {
+    "year": "1985",
+    "transaction_number": "3929514",
+    "serial": "9452N264201",
+    "pdf_file": "9452N264201.pdf"
+  },
+  "buyer": {
+    "last": "Gibson III",
+    "first": "Joshua",
+    "middle": "NMN",
+    "street": "462 Christopher Spurs Suite 098",
+    "city": "Cindyborough",
+    "state": "CA",
+    "zip": "05822",
+    "county": "Stephenshire",
+    "dob": "09/08/1948",
+    "birth_place": "Lake Catherine, FL",
+    "height": "4'5\"",
+    "weight": 245,
+    "sex": "Female",
+    "race": "AMER. INDIAN",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Military ID",
+    "id_expiration": "06/22/2033"
+  },
+  "dealer": {
+    "name": "North David Gun Shop",
+    "ffl": "7-79-64505"
+  },
+  "seller": "Jenna Taylor",
+  "cert_date": "05/03/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Mossberg",
+      "model": "MVP Patrol",
+      "serial": "9452N264201",
+      "type": "Rifle",
+      "caliber": ".30-06 Springfield"
+    },
+    {
+      "manufacturer": "Walther Arms",
+      "model": "PPK/S Stainless",
+      "serial": "726RC9947",
+      "type": "Pistol",
+      "caliber": ".40 S&W"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

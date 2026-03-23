@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Sintix/OpenType-TT/Sintix.ttf",
+    "base_font_size": 7.159,
+    "ink_color_rgb": [
+      0.0678,
+      0.0022,
+      0.6556
+    ],
+    "jitter_slop": 2.3173,
+    "overflow_prob": 0.0277
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "7612109",
+    "serial": "BP0152",
+    "pdf_file": "BP0152.pdf"
+  },
+  "buyer": {
+    "last": "Davis II",
+    "first": "Arthur",
+    "middle": "NMN",
+    "street": "5019 Miller Rue Apt. 465",
+    "city": "Simonhaven",
+    "state": "NV",
+    "zip": "45099",
+    "county": "Brandttown",
+    "dob": "10/05/1963",
+    "birth_place": "Port David, RI",
+    "height": "5'8\"",
+    "weight": 152,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "721-97-2369",
+    "id_type": "Passport Card",
+    "id_expiration": "12/18/2030"
+  },
+  "dealer": {
+    "name": "Jasonville Gun Shop",
+    "ffl": "7-16-16754"
+  },
+  "seller": "Heather Adams",
+  "cert_date": "07/09/2026",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "RP9",
+      "serial": "BP0152",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

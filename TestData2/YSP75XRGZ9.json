@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/SuperSweet/OpenType-TT/Super Sweet.ttf",
+    "base_font_size": 11.225,
+    "ink_color_rgb": [
+      0.0358,
+      0.0181,
+      0.7232
+    ],
+    "jitter_slop": 1.6571,
+    "overflow_prob": 0.0713
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "30681",
+    "serial": "YSP75XRGZ9",
+    "pdf_file": "YSP75XRGZ9.pdf"
+  },
+  "buyer": {
+    "last": "Medina Jr.",
+    "first": "Shannon",
+    "middle": "NMN",
+    "street": "212 Hanson Island Apt. 774",
+    "city": "North Michael",
+    "state": "OR",
+    "zip": "33169",
+    "county": "Sarahfort",
+    "dob": "12/25/1952",
+    "birth_place": "Gonzaleston, MT",
+    "height": "6'10\"",
+    "weight": 151,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "663-19-2648",
+    "id_type": "Military ID",
+    "id_expiration": "08/23/2031"
+  },
+  "dealer": {
+    "name": "Olson & Sons Sporting Goods",
+    "ffl": "7-77-77563"
+  },
+  "seller": "Carlos Anderson",
+  "cert_date": "09/09/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Daniel Defense",
+      "model": "DDM4 V7",
+      "serial": "YSP75XRGZ9",
+      "type": "Rifle",
+      "caliber": ".30-06 Springfield"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "NO"
+    }
+  ],
+  "nics": {}
+}

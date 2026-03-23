@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/StoryMarker/OpenType-TT/Story Marker.ttf",
+    "base_font_size": 7.88,
+    "ink_color_rgb": [
+      0.0192,
+      0.037,
+      0.7435
+    ],
+    "jitter_slop": 0.6478,
+    "overflow_prob": 0.0971
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "6806",
+    "serial": "23E02907",
+    "pdf_file": "23E02907.pdf"
+  },
+  "buyer": {
+    "last": "Wang Sr.",
+    "first": "Courtney",
+    "middle": "NMN",
+    "street": "25336 Kristen Mill Suite 040",
+    "city": "West Lauren",
+    "state": "FM",
+    "zip": "31786",
+    "county": "Wagnerburgh",
+    "dob": "02/02/1960",
+    "birth_place": "Lake Justinmouth, AL",
+    "height": "4'10\"",
+    "weight": 148,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "838-57-2554",
+    "id_type": "Driver's License",
+    "id_expiration": "04/12/2031"
+  },
+  "dealer": {
+    "name": "Brown Defense Supply",
+    "ffl": "4-82-93834"
+  },
+  "seller": "James Robbins",
+  "cert_date": "08/13/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Anderson Manufacturing",
+      "model": "AM-10 308",
+      "serial": "23E02907",
+      "type": "Rifle",
+      "caliber": "6.5 Creedmoor"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

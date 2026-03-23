@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Panda/OpenType-TT/Panda.ttf",
+    "base_font_size": 10.167,
+    "ink_color_rgb": [
+      0.0112,
+      0.0112,
+      0.0112
+    ],
+    "jitter_slop": 1.31,
+    "overflow_prob": 0.0682
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "335597",
+    "serial": "19S20112",
+    "pdf_file": "19S20112.pdf"
+  },
+  "buyer": {
+    "last": "Carson II",
+    "first": "Pamela",
+    "middle": "K.",
+    "street": "096 Daniel Circle Suite 842",
+    "city": "East Joseph",
+    "state": "FM",
+    "zip": "49043",
+    "county": "Port Sabrina",
+    "dob": "05/07/1991",
+    "birth_place": "West Johnville, FL",
+    "height": "5'10\"",
+    "weight": 140,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "738-77-7016",
+    "id_type": "Military ID",
+    "id_expiration": "08/17/2027"
+  },
+  "dealer": {
+    "name": "Garner Firearms & Range",
+    "ffl": "1-94-72667"
+  },
+  "seller": "Michael Griffin",
+  "cert_date": "05/19/2021",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Winchester Repeating",
+      "model": "SXP Defender",
+      "serial": "19S20112",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    },
+    {
+      "manufacturer": "Mossberg",
+      "model": "Maverick 88",
+      "serial": "20B36415",
+      "type": "Shotgun",
+      "caliber": "20 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

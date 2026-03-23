@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/BrownSugar/OpenType-TT/BrownSugar.ttf",
+    "base_font_size": 10.802,
+    "ink_color_rgb": [
+      0.0154,
+      0.0286,
+      0.7281
+    ],
+    "jitter_slop": 0.7997,
+    "overflow_prob": 0.0201
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "275126",
+    "serial": "NBX78582",
+    "pdf_file": "NBX78582.pdf"
+  },
+  "buyer": {
+    "last": "Choi Sr.",
+    "first": "Mikayla",
+    "middle": "A.",
+    "street": "1714 Nichols Forges Suite 082",
+    "city": "North Christineview",
+    "state": "OK",
+    "zip": "89844",
+    "county": "North Emilymouth",
+    "dob": "02/22/1959",
+    "birth_place": "Rodriguezshire, CT",
+    "height": "5'6\"",
+    "weight": 218,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "839-47-7586",
+    "id_type": "Military ID",
+    "id_expiration": "04/11/2034"
+  },
+  "dealer": {
+    "name": "Meyer Defense Supply",
+    "ffl": "1-70-71755"
+  },
+  "seller": "Franklin Nguyen",
+  "cert_date": "02/19/2025",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Walther Arms",
+      "model": "Q5 Match SF",
+      "serial": "NBX78582",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

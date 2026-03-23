@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/MarkerDoodle/OpenType-TT/Marker Doodle.ttf",
+    "base_font_size": 7.472,
+    "ink_color_rgb": [
+      0.3834,
+      0.3834,
+      0.3834
+    ],
+    "jitter_slop": 1.5586,
+    "overflow_prob": 0.0593
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "41560",
+    "serial": "MCYURMTRLNAH",
+    "pdf_file": "MCYURMTRLNAH.pdf"
+  },
+  "buyer": {
+    "last": "Harding Jr.",
+    "first": "Ricky",
+    "middle": "NMN",
+    "street": "780 Berry Corner Apt. 187",
+    "city": "Larsonshire",
+    "state": "PA",
+    "zip": "51162",
+    "county": "East Daniel",
+    "dob": "03/27/1986",
+    "birth_place": "Woodhaven, IN",
+    "height": "6'4\"",
+    "weight": 142,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "365-17-6676",
+    "id_type": "Military ID",
+    "id_expiration": "05/16/2028"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "8-10-83686"
+  },
+  "seller": "Julie Donaldson",
+  "cert_date": "11/25/2026",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kel-Tec",
+      "model": "PMR-30",
+      "serial": "MCYURMTRLNAH",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

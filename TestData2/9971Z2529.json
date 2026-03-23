@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Verdana.ttf",
+    "base_font_size": 7.039,
+    "ink_color_rgb": [
+      0.0426,
+      0.0426,
+      0.0426
+    ],
+    "jitter_slop": 1.3566,
+    "overflow_prob": 0.0266
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "8749877",
+    "serial": "9971Z2529",
+    "pdf_file": "9971Z2529.pdf"
+  },
+  "buyer": {
+    "last": "Leon II",
+    "first": "Jason",
+    "middle": "NMN",
+    "street": "351 Meyer Shores",
+    "city": "Richardhaven",
+    "state": "CA",
+    "zip": "09471",
+    "county": "New Johnport",
+    "dob": "06/10/1969",
+    "birth_place": "New Andrewmouth, RI",
+    "height": "5'8\"",
+    "weight": 143,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "262-30-1669",
+    "id_type": "Driver's License",
+    "id_expiration": "06/14/2031"
+  },
+  "dealer": {
+    "name": "North Deborah Gun Shop",
+    "ffl": "3-39-17525"
+  },
+  "seller": "Jonathan Tapia",
+  "cert_date": "06/02/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Diamondback Firearms",
+      "model": "DB9",
+      "serial": "9971Z2529",
+      "type": "Pistol",
+      "caliber": ".40 S&W"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

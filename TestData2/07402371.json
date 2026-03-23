@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Hemlock/OpenType-TT/Hemlok.ttf",
+    "base_font_size": 9.338,
+    "ink_color_rgb": [
+      0.1108,
+      0.1108,
+      0.1108
+    ],
+    "jitter_slop": 0.7229,
+    "overflow_prob": 0.0932
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "458901",
+    "serial": "07402371",
+    "pdf_file": "07402371.pdf"
+  },
+  "buyer": {
+    "last": "Russell Sr.",
+    "first": "Cristian",
+    "middle": "Alan",
+    "street": "77107 Marshall Lodge",
+    "city": "Catherinechester",
+    "state": "KY",
+    "zip": "71962",
+    "county": "Turnertown",
+    "dob": "10/26/1949",
+    "birth_place": "North Anthonychester, ND",
+    "height": "6'8\"",
+    "weight": 171,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Tribal ID",
+    "id_expiration": "08/22/2031"
+  },
+  "dealer": {
+    "name": "Hicks & Sons Sporting Goods",
+    "ffl": "7-33-25767"
+  },
+  "seller": "Pamela Hawkins",
+  "cert_date": "03/28/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "XD-40",
+      "serial": "07402371",
+      "type": "Pistol",
+      "caliber": "10mm Auto"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "YES"
+    }
+  ],
+  "nics": {}
+}

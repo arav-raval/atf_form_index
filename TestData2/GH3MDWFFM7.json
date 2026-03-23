@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Vamfired/OpenType-TT/Vamfired.ttf",
+    "base_font_size": 8.775,
+    "ink_color_rgb": [
+      0.0549,
+      0.0549,
+      0.0549
+    ],
+    "jitter_slop": 1.037,
+    "overflow_prob": 0.0751
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "1547509",
+    "serial": "GH3MDWFFM7",
+    "pdf_file": "GH3MDWFFM7.pdf"
+  },
+  "buyer": {
+    "last": "Davis II",
+    "first": "Connor",
+    "middle": "NMN",
+    "street": "5456 Edward Route",
+    "city": "Clinechester",
+    "state": "MP",
+    "zip": "24263",
+    "county": "Coleport",
+    "dob": "08/14/1957",
+    "birth_place": "Josephmouth, MD",
+    "height": "5'2\"",
+    "weight": 240,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "841-60-2807",
+    "id_type": "Military ID",
+    "id_expiration": "11/17/2026"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "9-44-37138"
+  },
+  "seller": "Stephanie Brown",
+  "cert_date": "01/09/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Canik",
+      "model": "TP9SA",
+      "serial": "GH3MDWFFM7",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

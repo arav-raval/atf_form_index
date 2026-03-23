@@ -1,0 +1,139 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 8.109,
+    "ink_color_rgb": [
+      0.0145,
+      0.0145,
+      0.0145
+    ],
+    "jitter_slop": 1.6615,
+    "overflow_prob": 0.0294
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "6879",
+    "serial": "ZYVA437",
+    "pdf_file": "ZYVA437.pdf"
+  },
+  "buyer": {
+    "last": "Carlson",
+    "first": "Steve",
+    "middle": "NMN",
+    "street": "82686 Jeffery Stravenue",
+    "city": "Allenview",
+    "state": "PR",
+    "zip": "56971",
+    "county": "Michellemouth",
+    "dob": "10/25/1969",
+    "birth_place": "Lake Tammyland, AL",
+    "height": "5'3\"",
+    "weight": 161,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "518-46-5508",
+    "id_type": "Tribal ID",
+    "id_expiration": "12/13/2027"
+  },
+  "dealer": {
+    "name": "Reese & Sons Sporting Goods",
+    "ffl": "6-80-33174"
+  },
+  "seller": "Susan Estes",
+  "cert_date": "04/17/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "V3 Tac-13",
+      "serial": "ZYVA437",
+      "type": "Shotgun",
+      "caliber": ".410 Bore"
+    },
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Pathfinder",
+      "serial": "0EG0EV9DPS",
+      "type": "Revolver",
+      "caliber": ".44 Magnum"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "NO"
+    }
+  ],
+  "nics": {
+    "required": false,
+    "exemption": "Q23_state_permit",
+    "permit_type": "Handgun Purchase Permit",
+    "permit_number": "IU511583",
+    "permit_issued": "07/2018",
+    "permit_expires": "07/2029"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 11.238,
+    "ink_color_rgb": [
+      0.0041,
+      0.0041,
+      0.0041
+    ],
+    "jitter_slop": 0.4894,
+    "overflow_prob": 0.1207
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "5201281",
+    "serial": "09Z0882",
+    "pdf_file": "09Z0882.pdf"
+  },
+  "buyer": {
+    "last": "Nash",
+    "first": "Emily",
+    "middle": "M.",
+    "street": "744 Barton Ports Suite 395",
+    "city": "Lewismouth",
+    "state": "OR",
+    "zip": "52603",
+    "county": "New Jessica",
+    "dob": "02/07/1965",
+    "birth_place": "South Raymondchester, PR",
+    "height": "5'7\"",
+    "weight": 211,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "367-29-7590",
+    "id_type": "Driver's License",
+    "id_expiration": "03/08/2032"
+  },
+  "dealer": {
+    "name": "Hinton Defense Supply",
+    "ffl": "7-20-87444"
+  },
+  "seller": "Kevin Hunt",
+  "cert_date": "12/06/2023",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Winchester Repeating",
+      "model": "Model 70 Super Grade",
+      "serial": "09Z0882",
+      "type": "Rifle",
+      "caliber": ".223 Rem/5.56mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

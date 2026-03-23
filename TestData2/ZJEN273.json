@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Arial Italic.ttf",
+    "base_font_size": 9.325,
+    "ink_color_rgb": [
+      0.0357,
+      0.0357,
+      0.0357
+    ],
+    "jitter_slop": 1.6802,
+    "overflow_prob": 0.1322
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "7087",
+    "serial": "ZJEN273",
+    "pdf_file": "ZJEN273.pdf"
+  },
+  "buyer": {
+    "last": "Griffith Sr.",
+    "first": "Phillip",
+    "middle": "NMN",
+    "street": "951 Clark Shoals Suite 358",
+    "city": "West Maryland",
+    "state": "AZ",
+    "zip": "62487",
+    "county": "Austinland",
+    "dob": "07/24/1958",
+    "birth_place": "New Michele, AR",
+    "height": "4'9\"",
+    "weight": 99,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "970-55-4984",
+    "id_type": "Driver's License",
+    "id_expiration": "09/05/2032"
+  },
+  "dealer": {
+    "name": "Ayers Firearms & Range",
+    "ffl": "5-20-80810"
+  },
+  "seller": "Elizabeth Miller",
+  "cert_date": "08/13/2025",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Canik",
+      "model": "TP9SF",
+      "serial": "ZJEN273",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

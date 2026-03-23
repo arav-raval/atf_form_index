@@ -1,0 +1,73 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Norway/OpenType-TT/Norway.ttf",
+    "base_font_size": 11.435,
+    "ink_color_rgb": [
+      0.0039,
+      0.0026,
+      0.5347
+    ],
+    "jitter_slop": 1.3327,
+    "overflow_prob": 0.0982
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "0641065",
+    "serial": "8777X19395",
+    "pdf_file": "8777X19395.pdf"
+  },
+  "buyer": {
+    "last": "Fischer Sr.",
+    "first": "Christopher",
+    "middle": "NMN",
+    "street": "48901 Megan Via",
+    "city": "Matthewtown",
+    "state": "AK",
+    "zip": "02579",
+    "county": "South Nathanton",
+    "dob": "09/03/1949",
+    "birth_place": "Gonzalezfort, CO",
+    "height": "4'7\"",
+    "weight": 197,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "132-24-6577",
+    "id_type": "Tribal ID",
+    "id_expiration": "09/07/2030"
+  },
+  "dealer": {
+    "name": "Taylor Defense Supply",
+    "ffl": "1-30-64680"
+  },
+  "seller": "James Hernandez",
+  "cert_date": "11/11/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Winchester Repeating",
+      "model": "SX4 Field",
+      "serial": "8777X19395",
+      "type": "Shotgun",
+      "caliber": ".410 Bore"
+    },
+    {
+      "manufacturer": "Remington Arms",
+      "model": "RP9",
+      "serial": "10H60435",
+      "type": "Pistol",
+      "caliber": ".22 LR"
+    },
+    {
+      "manufacturer": "Palmetto State Armory",
+      "model": "AK-V",
+      "serial": "122FD2950",
+      "type": "Rifle",
+      "caliber": ".223 Rem/5.56mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

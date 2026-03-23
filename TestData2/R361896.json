@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Barnyard/OpenType-TT/Barnyard.ttf",
+    "base_font_size": 13.5,
+    "ink_color_rgb": [
+      0.0088,
+      0.0449,
+      0.54
+    ],
+    "jitter_slop": 0.8352,
+    "overflow_prob": 0.0303
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "0432153",
+    "serial": "R361896",
+    "pdf_file": "R361896.pdf"
+  },
+  "buyer": {
+    "last": "Lynn Sr.",
+    "first": "Maureen",
+    "middle": "Keith",
+    "street": "007 Bowman Lakes Suite 580",
+    "city": "Keyton",
+    "state": "HI",
+    "zip": "81067",
+    "county": "Sanchezport",
+    "dob": "04/24/1984",
+    "birth_place": "Beckychester, PA",
+    "height": "4'1\"",
+    "weight": 128,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "692-15-9290",
+    "id_type": "State ID Card",
+    "id_expiration": "07/28/2027"
+  },
+  "dealer": {
+    "name": "Marshall Firearms & Range",
+    "ffl": "8-72-39521"
+  },
+  "seller": "Sean Byrd",
+  "cert_date": "08/12/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Winchester Repeating",
+      "model": "SXP Defender",
+      "serial": "R361896",
+      "type": "Shotgun",
+      "caliber": ".410 Bore"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

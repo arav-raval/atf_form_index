@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 9.058,
+    "ink_color_rgb": [
+      0.078,
+      0.078,
+      0.078
+    ],
+    "jitter_slop": 0.9366,
+    "overflow_prob": 0.086
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "5148",
+    "serial": "H7K7W3L9X7",
+    "pdf_file": "H7K7W3L9X7.pdf"
+  },
+  "buyer": {
+    "last": "Nguyen",
+    "first": "Jordan",
+    "middle": "NMN",
+    "street": "416 Luis Square Suite 754",
+    "city": "North Bruceshire",
+    "state": "PR",
+    "zip": "05196",
+    "county": "New Meghan",
+    "dob": "03/08/1958",
+    "birth_place": "West Amanda, KY",
+    "height": "6'11\"",
+    "weight": 103,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "760-44-7024",
+    "id_type": "State ID Card",
+    "id_expiration": "07/08/2026"
+  },
+  "dealer": {
+    "name": "Moore Defense Supply",
+    "ffl": "7-66-29734"
+  },
+  "seller": "Gregory Paul",
+  "cert_date": "09/18/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Beretta USA",
+      "model": "92FS Inox",
+      "serial": "H7K7W3L9X7",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

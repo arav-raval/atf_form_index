@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Sourdough/OpenType-TT/Sourdough.ttf",
+    "base_font_size": 9.773,
+    "ink_color_rgb": [
+      0.0341,
+      0.0341,
+      0.0341
+    ],
+    "jitter_slop": 0.6802,
+    "overflow_prob": 0.0478
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "1613",
+    "serial": "NR02403",
+    "pdf_file": "NR02403.pdf"
+  },
+  "buyer": {
+    "last": "Marsh Sr.",
+    "first": "Keith",
+    "middle": "Alisha",
+    "street": "9281 Pamela Light Suite 991",
+    "city": "Fordport",
+    "state": "KS",
+    "zip": "24402",
+    "county": "East Tracy",
+    "dob": "05/28/1952",
+    "birth_place": "Warrenshire, TX",
+    "height": "6'0\"",
+    "weight": 90,
+    "sex": "Male",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "517-57-3489",
+    "id_type": "Driver's License",
+    "id_expiration": "03/17/2025"
+  },
+  "dealer": {
+    "name": "East Maria Gun Shop",
+    "ffl": "9-48-81015"
+  },
+  "seller": "Julie Jones",
+  "cert_date": "05/22/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Colt Manufacturing",
+      "model": "Government 1911",
+      "serial": "NR02403",
+      "type": "Pistol",
+      "caliber": "9x18mm Makarov"
+    },
+    {
+      "manufacturer": "Palmetto State Armory",
+      "model": "PA-10",
+      "serial": "7642-8290",
+      "type": "Rifle",
+      "caliber": ".308 Win/7.62mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

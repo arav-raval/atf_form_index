@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Sequel/OpenType-TT/Sequel Italic.ttf",
+    "base_font_size": 9.469,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.2201
+    ],
+    "jitter_slop": 0.7714,
+    "overflow_prob": 0.0871
+  },
+  "form": {
+    "year": "2007",
+    "transaction_number": "9004113",
+    "serial": "100UU6551",
+    "pdf_file": "100UU6551.pdf"
+  },
+  "buyer": {
+    "last": "Price Jr.",
+    "first": "Raymond",
+    "middle": "NMN",
+    "street": "59568 Carrie Lodge",
+    "city": "Lake Joe",
+    "state": "RI",
+    "zip": "87909",
+    "county": "Jonesshire",
+    "dob": "11/28/1993",
+    "birth_place": "East Sharon, WV",
+    "height": "4'2\"",
+    "weight": 196,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "State ID Card",
+    "id_expiration": "12/16/2025"
+  },
+  "dealer": {
+    "name": "Snyder & Sons Sporting Goods",
+    "ffl": "8-48-59954"
+  },
+  "seller": "Justin Brown",
+  "cert_date": "04/17/2023",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Axis II XP",
+      "serial": "100UU6551",
+      "type": "Rifle",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

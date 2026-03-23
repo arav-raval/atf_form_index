@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Manttiss/OpenType-TT/Manttiss Rough.ttf",
+    "base_font_size": 10.467,
+    "ink_color_rgb": [
+      0.0265,
+      0.0265,
+      0.0265
+    ],
+    "jitter_slop": 1.4,
+    "overflow_prob": 0.0826
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "574063",
+    "serial": "064FD2576",
+    "pdf_file": "064FD2576.pdf"
+  },
+  "buyer": {
+    "last": "Dean Jr.",
+    "first": "Mary",
+    "middle": "NMN",
+    "street": "49888 Norman Unions Apt. 075",
+    "city": "East Patrick",
+    "state": "DE",
+    "zip": "36913",
+    "county": "Priceville",
+    "dob": "02/08/1996",
+    "birth_place": "Coletown, ME",
+    "height": "6'2\"",
+    "weight": 183,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Military ID",
+    "id_expiration": "01/04/2030"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "1-75-71132"
+  },
+  "seller": "Jesse Yu",
+  "cert_date": "07/17/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kahr Arms",
+      "model": "CM9",
+      "serial": "064FD2576",
+      "type": "Pistol",
+      "caliber": "10mm Auto"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "NO"
+    }
+  ],
+  "nics": {}
+}

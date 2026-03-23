@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Violet/OpenType-TT/Violet.ttf",
+    "base_font_size": 9.56,
+    "ink_color_rgb": [
+      0.0598,
+      0.0002,
+      0.7321
+    ],
+    "jitter_slop": 0.4,
+    "overflow_prob": 0.0248
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "0768",
+    "serial": "B02594131",
+    "pdf_file": "B02594131.pdf"
+  },
+  "buyer": {
+    "last": "Marquez III",
+    "first": "Sarah",
+    "middle": "NMN",
+    "street": "87646 Jon Hills",
+    "city": "Herringberg",
+    "state": "DC",
+    "zip": "71001",
+    "county": "West Thomastown",
+    "dob": "02/20/1977",
+    "birth_place": "Rivaston, AZ",
+    "height": "5'11\"",
+    "weight": 141,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "248-59-6257",
+    "id_type": "State ID Card",
+    "id_expiration": "04/19/2031"
+  },
+  "dealer": {
+    "name": "Johnston & Sons Sporting Goods",
+    "ffl": "5-43-59525"
+  },
+  "seller": "Carolyn Harris",
+  "cert_date": "02/20/2026",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Taurus International",
+      "model": "G2C",
+      "serial": "B02594131",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    },
+    {
+      "manufacturer": "Mossberg",
+      "model": "590 Shockwave",
+      "serial": "87151230",
+      "type": "Shotgun",
+      "caliber": "20 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

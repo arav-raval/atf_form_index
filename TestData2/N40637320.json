@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "helv",
+    "font_file": null,
+    "base_font_size": 6.985,
+    "ink_color_rgb": [
+      0.0402,
+      0.0402,
+      0.0402
+    ],
+    "jitter_slop": 0.3333,
+    "overflow_prob": 0.0624
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "98437",
+    "serial": "N40637320",
+    "pdf_file": "N40637320.pdf"
+  },
+  "buyer": {
+    "last": "Rowe Sr.",
+    "first": "Gary",
+    "middle": "NMN",
+    "street": "78730 Hubbard Trail",
+    "city": "Port Laurenmouth",
+    "state": "MI",
+    "zip": "12140",
+    "county": "Claymouth",
+    "dob": "07/18/1988",
+    "birth_place": "Port Nicholeberg, NM",
+    "height": "6'1\"",
+    "weight": 118,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Driver's License",
+    "id_expiration": "04/25/2028"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "5-48-36520"
+  },
+  "seller": "Kenneth Brooks",
+  "cert_date": "12/06/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Canik",
+      "model": "TP9SF",
+      "serial": "N40637320",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "YES"
+    }
+  ],
+  "nics": {}
+}

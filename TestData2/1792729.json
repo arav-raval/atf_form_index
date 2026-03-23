@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Freshlemon/OpenType-TT/Freshlemon.ttf",
+    "base_font_size": 10.42,
+    "ink_color_rgb": [
+      0.0643,
+      0.0381,
+      0.92
+    ],
+    "jitter_slop": 1.6444,
+    "overflow_prob": 0.0755
+  },
+  "form": {
+    "year": "1985",
+    "transaction_number": "0399",
+    "serial": "1792729",
+    "pdf_file": "1792729.pdf"
+  },
+  "buyer": {
+    "last": "Smith",
+    "first": "Amy",
+    "middle": "NMN",
+    "street": "50179 Stevens Points Apt. 329",
+    "city": "North Ryan",
+    "state": "NE",
+    "zip": "89951",
+    "county": "North Paula",
+    "dob": "10/12/1952",
+    "birth_place": "Matthewbury, AR",
+    "height": "5'7\"",
+    "weight": 110,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Tribal ID",
+    "id_expiration": "04/13/2028"
+  },
+  "dealer": {
+    "name": "Brown & Sons Sporting Goods",
+    "ffl": "8-83-69565"
+  },
+  "seller": "Gregory Cooper",
+  "cert_date": "03/15/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "1100 Sporting",
+      "serial": "1792729",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/FatBoi/OpenType-TT/Fat Boi.ttf",
+    "base_font_size": 10.178,
+    "ink_color_rgb": [
+      0.0322,
+      0.0255,
+      0.5497
+    ],
+    "jitter_slop": 0.9229,
+    "overflow_prob": 0.0778
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "7851295",
+    "serial": "K180078",
+    "pdf_file": "K180078.pdf"
+  },
+  "buyer": {
+    "last": "Cox III",
+    "first": "Keith",
+    "middle": "NMN",
+    "street": "3447 Lawrence Stravenue",
+    "city": "Jenkinsfurt",
+    "state": "FL",
+    "zip": "99944",
+    "county": "East Jenna",
+    "dob": "04/03/1993",
+    "birth_place": "Stevenchester, OK",
+    "height": "4'1\"",
+    "weight": 110,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "394-26-2507",
+    "id_type": "Driver's License",
+    "id_expiration": "02/14/2032"
+  },
+  "dealer": {
+    "name": "Rodriguez Firearms & Range",
+    "ffl": "7-74-46731"
+  },
+  "seller": "Kristen Sanders",
+  "cert_date": "10/07/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Shield EZ",
+      "serial": "K180078",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

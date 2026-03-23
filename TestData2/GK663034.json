@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/EarlyBird/OpenType-TT/EarlyBird.ttf",
+    "base_font_size": 11.012,
+    "ink_color_rgb": [
+      0.2276,
+      0.1496,
+      0.0136
+    ],
+    "jitter_slop": 1.3279,
+    "overflow_prob": 0.0998
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "43189",
+    "serial": "GK663034",
+    "pdf_file": "GK663034.pdf"
+  },
+  "buyer": {
+    "last": "Cummings Jr.",
+    "first": "Kara",
+    "middle": "NMN",
+    "street": "095 Wright Drive",
+    "city": "Lake Michaelberg",
+    "state": "SC",
+    "zip": "98722",
+    "county": "Lake Mariaport",
+    "dob": "05/24/1991",
+    "birth_place": "North Christopher, ID",
+    "height": "4'5\"",
+    "weight": 163,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "State ID Card",
+    "id_expiration": "07/24/2027"
+  },
+  "dealer": {
+    "name": "Torres Firearms & Range",
+    "ffl": "4-90-48477"
+  },
+  "seller": "James Ortiz",
+  "cert_date": "02/08/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Colt Manufacturing",
+      "model": "Government 1911",
+      "serial": "GK663034",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "YES"
+    }
+  ],
+  "nics": {}
+}

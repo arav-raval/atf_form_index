@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/SwashZillong/OpenType-TT/Swash Zillong.ttf",
+    "base_font_size": 12.87,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.3067
+    ],
+    "jitter_slop": 1.1362,
+    "overflow_prob": 0.0218
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "465862",
+    "serial": "9479-3836",
+    "pdf_file": "9479-3836.pdf"
+  },
+  "buyer": {
+    "last": "Sampson Jr.",
+    "first": "Kurt",
+    "middle": "NMN",
+    "street": "286 Kerry Groves Suite 031",
+    "city": "Sabrinatown",
+    "state": "PR",
+    "zip": "06458",
+    "county": "Henrychester",
+    "dob": "01/07/1951",
+    "birth_place": "Jennifershire, GU",
+    "height": "6'4\"",
+    "weight": 129,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "958-26-3081",
+    "id_type": "Passport Card",
+    "id_expiration": "02/01/2031"
+  },
+  "dealer": {
+    "name": "Heathermouth Gun Shop",
+    "ffl": "7-90-40466"
+  },
+  "seller": "David Fischer",
+  "cert_date": "12/07/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 29",
+      "serial": "9479-3836",
+      "type": "Revolver",
+      "caliber": ".44 Special"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

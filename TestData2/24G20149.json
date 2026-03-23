@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 11.767,
+    "ink_color_rgb": [
+      0.06,
+      0.06,
+      0.06
+    ],
+    "jitter_slop": 0.15,
+    "overflow_prob": 0.0398
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "01365",
+    "serial": "24G20149",
+    "pdf_file": "24G20149.pdf"
+  },
+  "buyer": {
+    "last": "Lopez II",
+    "first": "Sean",
+    "middle": "NMN",
+    "street": "085 Jarvis Camp",
+    "city": "Andersonburgh",
+    "state": "OH",
+    "zip": "73788",
+    "county": "Barkerville",
+    "dob": "08/20/1950",
+    "birth_place": "New Margaret, PA",
+    "height": "5'9\"",
+    "weight": 198,
+    "sex": "Female",
+    "race": "AMER. INDIAN",
+    "hispanic": false,
+    "ssn_written": "426-88-8894",
+    "id_type": "Passport Card",
+    "id_expiration": "10/08/2032"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "1-70-18096"
+  },
+  "seller": "Renee Caldwell",
+  "cert_date": "09/11/2026",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Kel-Tec",
+      "model": "PMR-30",
+      "serial": "24G20149",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

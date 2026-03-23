@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Skylar/OpenType-TT/Skylar.ttf",
+    "base_font_size": 10.64,
+    "ink_color_rgb": [
+      0.494,
+      0.494,
+      0.494
+    ],
+    "jitter_slop": 1.665,
+    "overflow_prob": 0.0627
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "695884",
+    "serial": "20G48825",
+    "pdf_file": "20G48825.pdf"
+  },
+  "buyer": {
+    "last": "Barnes",
+    "first": "Kenneth",
+    "middle": "NMN",
+    "street": "7615 Chaney Cape Apt. 951",
+    "city": "Barrymouth",
+    "state": "AR",
+    "zip": "26062",
+    "county": "Woodfort",
+    "dob": "02/22/1975",
+    "birth_place": "Nicholasstad, DC",
+    "height": "5'0\"",
+    "weight": 187,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "871-89-2680",
+    "id_type": "Tribal ID",
+    "id_expiration": "01/03/2028"
+  },
+  "dealer": {
+    "name": "Carroll Defense Supply",
+    "ffl": "3-65-19290"
+  },
+  "seller": "Derek Perez",
+  "cert_date": "10/21/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Heckler & Koch",
+      "model": "USP Full Size",
+      "serial": "20G48825",
+      "type": "Pistol",
+      "caliber": "9mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

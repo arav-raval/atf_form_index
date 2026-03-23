@@ -1,0 +1,133 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Motyfa/OpenType-TT/Motyfa.ttf",
+    "base_font_size": 12.475,
+    "ink_color_rgb": [
+      0.0427,
+      0.0032,
+      0.4817
+    ],
+    "jitter_slop": 1.3698,
+    "overflow_prob": 0.0897
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "4845",
+    "serial": "U-966892",
+    "pdf_file": "U-966892.pdf"
+  },
+  "buyer": {
+    "last": "Sparks",
+    "first": "Brenda",
+    "middle": "D.",
+    "street": "363 Mary Track Suite 856",
+    "city": "West Nicoleport",
+    "state": "NM",
+    "zip": "94014",
+    "county": "Summersmouth",
+    "dob": "11/27/1959",
+    "birth_place": "South Katherinestad, MN",
+    "height": "4'1\"",
+    "weight": 206,
+    "sex": "Male",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "863-46-4547",
+    "id_type": "Tribal ID",
+    "id_expiration": "09/20/2034"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "2-84-30002"
+  },
+  "seller": "Keith Lopez",
+  "cert_date": "07/04/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kimber Manufacturing",
+      "model": "Pro Carry II",
+      "serial": "U-966892",
+      "type": "Pistol",
+      "caliber": ".40 S&W"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "NO"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "7/4/2020",
+    "transaction_number": "4275385771",
+    "response_21c": "proceed",
+    "examiner_name": "Stephen Wright",
+    "examiner_brady_id": "447-81-6515",
+    "examiner_written": true
+  }
+}

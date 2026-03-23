@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Nerdie/OpenType-TT/Nerdie.ttf",
+    "base_font_size": 7.649,
+    "ink_color_rgb": [
+      0.0192,
+      0.0192,
+      0.0192
+    ],
+    "jitter_slop": 1.4753,
+    "overflow_prob": 0.0983
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "891521",
+    "serial": "0D3M0L5EL34",
+    "pdf_file": "0D3M0L5EL34.pdf"
+  },
+  "buyer": {
+    "last": "Miller Jr.",
+    "first": "Christopher",
+    "middle": "NMN",
+    "street": "262 Murphy Crest",
+    "city": "South Normanmouth",
+    "state": "VI",
+    "zip": "73713",
+    "county": "South Martin",
+    "dob": "10/19/1990",
+    "birth_place": "South Roger, WY",
+    "height": "6'3\"",
+    "weight": 160,
+    "sex": "Female",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "623-39-8446",
+    "id_type": "Passport Card",
+    "id_expiration": "05/06/2026"
+  },
+  "dealer": {
+    "name": "Wendytown Gun Shop",
+    "ffl": "3-44-38855"
+  },
+  "seller": "Jennifer Little",
+  "cert_date": "05/28/2026",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kimber Manufacturing",
+      "model": "Pro Carry II",
+      "serial": "0D3M0L5EL34",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "YES"
+    }
+  ],
+  "nics": {}
+}

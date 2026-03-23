@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "helv",
+    "font_file": null,
+    "base_font_size": 7.422,
+    "ink_color_rgb": [
+      0.0289,
+      0.0289,
+      0.0289
+    ],
+    "jitter_slop": 0.6038,
+    "overflow_prob": 0.0877
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "3689",
+    "serial": "025CE2234",
+    "pdf_file": "025CE2234.pdf"
+  },
+  "buyer": {
+    "last": "Olson",
+    "first": "Christine",
+    "middle": "M.",
+    "street": "36315 Kevin Track Suite 541",
+    "city": "Pierceview",
+    "state": "NV",
+    "zip": "28431",
+    "county": "Port Brianberg",
+    "dob": "10/19/1967",
+    "birth_place": "Lake Erin, ND",
+    "height": "4'1\"",
+    "weight": 206,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "340-21-6452",
+    "id_type": "Driver's License",
+    "id_expiration": "10/10/2025"
+  },
+  "dealer": {
+    "name": "Floyd Firearms & Range",
+    "ffl": "3-74-23581"
+  },
+  "seller": "Elizabeth Hancock",
+  "cert_date": "02/12/2025",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Undercover Lite",
+      "serial": "025CE2234",
+      "type": "Revolver",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

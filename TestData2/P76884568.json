@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/DaughterBhalita/OpenType-TT/Daughter Bhalita Italic.ttf",
+    "base_font_size": 11.578,
+    "ink_color_rgb": [
+      0.1938,
+      0.0925,
+      0.0234
+    ],
+    "jitter_slop": 0.7689,
+    "overflow_prob": 0.0981
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "7717637",
+    "serial": "P76884568",
+    "pdf_file": "P76884568.pdf"
+  },
+  "buyer": {
+    "last": "Rangel",
+    "first": "Brian",
+    "middle": "NMN",
+    "street": "616 Cantrell Roads",
+    "city": "Lake Henry",
+    "state": "KS",
+    "zip": "90871",
+    "county": "Lucasport",
+    "dob": "04/19/1963",
+    "birth_place": "Lake Jasmine, AL",
+    "height": "6'6\"",
+    "weight": 156,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "662-70-2972",
+    "id_type": "State ID Card",
+    "id_expiration": "06/24/2025"
+  },
+  "dealer": {
+    "name": "Ibarra Defense Supply",
+    "ffl": "3-24-75628"
+  },
+  "seller": "Claudia Dudley",
+  "cert_date": "04/28/2022",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Axis II XP",
+      "serial": "P76884568",
+      "type": "Rifle",
+      "caliber": "9mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

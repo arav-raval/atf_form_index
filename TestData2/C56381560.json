@@ -1,0 +1,73 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Georgia.ttf",
+    "base_font_size": 9.582,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.3596
+    ],
+    "jitter_slop": 1.7238,
+    "overflow_prob": 0.1297
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "8055",
+    "serial": "C56381560",
+    "pdf_file": "C56381560.pdf"
+  },
+  "buyer": {
+    "last": "Evans",
+    "first": "Jessica",
+    "middle": "D.",
+    "street": "25804 Linda Mission Apt. 230",
+    "city": "Grahamside",
+    "state": "AZ",
+    "zip": "33593",
+    "county": "East Cole",
+    "dob": "01/05/2002",
+    "birth_place": "North Jacob, OK",
+    "height": "4'11\"",
+    "weight": 137,
+    "sex": "Male",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "843-61-5367",
+    "id_type": "State ID Card",
+    "id_expiration": "05/27/2029"
+  },
+  "dealer": {
+    "name": "Ware & Sons Sporting Goods",
+    "ffl": "6-19-86390"
+  },
+  "seller": "Joshua Pena",
+  "cert_date": "06/24/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kahr Arms",
+      "model": "CM9",
+      "serial": "C56381560",
+      "type": "Pistol",
+      "caliber": "9x18mm Makarov"
+    },
+    {
+      "manufacturer": "CZ-USA",
+      "model": "P-10 C",
+      "serial": "N9N3Z0",
+      "type": "Pistol",
+      "caliber": "10mm Auto"
+    },
+    {
+      "manufacturer": "Sturm Ruger & Co.",
+      "model": "LCP",
+      "serial": "PRAJ388",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

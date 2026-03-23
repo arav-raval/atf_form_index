@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Moka/OpenType-TT/Moka Italic.ttf",
+    "base_font_size": 10.874,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.3191
+    ],
+    "jitter_slop": 1.0901,
+    "overflow_prob": 0.0645
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "0094",
+    "serial": "359344866",
+    "pdf_file": "359344866.pdf"
+  },
+  "buyer": {
+    "last": "Rodriguez III",
+    "first": "George",
+    "middle": "Felicia",
+    "street": "6032 Christopher Burg Suite 003",
+    "city": "East Morganhaven",
+    "state": "NY",
+    "zip": "22974",
+    "county": "Seanstad",
+    "dob": "10/16/1985",
+    "birth_place": "East Andrewhaven, OK",
+    "height": "6'4\"",
+    "weight": 156,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "112-69-4471",
+    "id_type": "Tribal ID",
+    "id_expiration": "02/16/2029"
+  },
+  "dealer": {
+    "name": "Santiago & Sons Sporting Goods",
+    "ffl": "2-35-39356"
+  },
+  "seller": "Logan Miller",
+  "cert_date": "09/12/2025",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "FN America",
+      "model": "FNX-9",
+      "serial": "359344866",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

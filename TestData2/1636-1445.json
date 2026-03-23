@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Moka/OpenType-TT/Moka.ttf",
+    "base_font_size": 11.846,
+    "ink_color_rgb": [
+      0.0141,
+      0.0237,
+      0.7932
+    ],
+    "jitter_slop": 0.8407,
+    "overflow_prob": 0.0512
+  },
+  "form": {
+    "year": "2007",
+    "transaction_number": "916152",
+    "serial": "1636-1445",
+    "pdf_file": "1636-1445.pdf"
+  },
+  "buyer": {
+    "last": "Knight",
+    "first": "Jose",
+    "middle": "Katherine",
+    "street": "70967 Teresa Keys Suite 187",
+    "city": "New Eugenebury",
+    "state": "RI",
+    "zip": "16557",
+    "county": "Bakerbury",
+    "dob": "03/21/1997",
+    "birth_place": "Port Gabriela, OR",
+    "height": "4'1\"",
+    "weight": 156,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Tribal ID",
+    "id_expiration": "04/18/2026"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "5-18-95961"
+  },
+  "seller": "Lisa David",
+  "cert_date": "11/03/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "CZ-USA",
+      "model": "P-07 Suppressor-Ready",
+      "serial": "1636-1445",
+      "type": "Pistol",
+      "caliber": ".40 S&W"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

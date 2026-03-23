@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/TravelGoals/OpenType-TT/Travel Goals.ttf",
+    "base_font_size": 6.852,
+    "ink_color_rgb": [
+      0.0636,
+      0.0636,
+      0.0636
+    ],
+    "jitter_slop": 1.1825,
+    "overflow_prob": 0.0903
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "7907",
+    "serial": "38L8BCKJRZNV",
+    "pdf_file": "38L8BCKJRZNV.pdf"
+  },
+  "buyer": {
+    "last": "Hale III",
+    "first": "Shannon",
+    "middle": "NMN",
+    "street": "68990 Flores Fort",
+    "city": "Port Codystad",
+    "state": "FM",
+    "zip": "29833",
+    "county": "East Thomasville",
+    "dob": "10/26/1990",
+    "birth_place": "Ambermouth, NV",
+    "height": "4'4\"",
+    "weight": 136,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "449-23-1673",
+    "id_type": "Passport Card",
+    "id_expiration": "07/20/2025"
+  },
+  "dealer": {
+    "name": "Garcia Firearms & Range",
+    "ffl": "8-52-36495"
+  },
+  "seller": "John Hanson",
+  "cert_date": "06/14/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Mossberg",
+      "model": "MVP Patrol",
+      "serial": "38L8BCKJRZNV",
+      "type": "Rifle",
+      "caliber": "6.5 Creedmoor"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

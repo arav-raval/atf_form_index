@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "helv",
+    "font_file": null,
+    "base_font_size": 11.211,
+    "ink_color_rgb": [
+      0.0429,
+      0.0429,
+      0.0429
+    ],
+    "jitter_slop": 1.2905,
+    "overflow_prob": 0.1
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "168933",
+    "serial": "BJM21497",
+    "pdf_file": "BJM21497.pdf"
+  },
+  "buyer": {
+    "last": "Reid",
+    "first": "William",
+    "middle": "Michael",
+    "street": "645 Clark Branch Apt. 431",
+    "city": "New Rebecca",
+    "state": "ME",
+    "zip": "67404",
+    "county": "West Patrickberg",
+    "dob": "07/05/1963",
+    "birth_place": "Youngside, KS",
+    "height": "5'5\"",
+    "weight": 182,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "682-34-9934",
+    "id_type": "Military ID",
+    "id_expiration": "05/01/2033"
+  },
+  "dealer": {
+    "name": "Port Jessicaville Gun Shop",
+    "ffl": "8-17-11726"
+  },
+  "seller": "Allison Moore",
+  "cert_date": "04/26/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "1100 Sporting",
+      "serial": "BJM21497",
+      "type": "Shotgun",
+      "caliber": ".410 Bore"
+    },
+    {
+      "manufacturer": "Browning",
+      "model": "Hi-Power Standard",
+      "serial": "7275W6872",
+      "type": "Pistol",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/SweetGetaway/OpenType-TT/Sweet Getaway.ttf",
+    "base_font_size": 11.813,
+    "ink_color_rgb": [
+      0.0198,
+      0.0007,
+      0.7368
+    ],
+    "jitter_slop": 1.7396,
+    "overflow_prob": 0.0373
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "54260",
+    "serial": "673J6116",
+    "pdf_file": "673J6116.pdf"
+  },
+  "buyer": {
+    "last": "Kemp Jr.",
+    "first": "Elizabeth",
+    "middle": "J.",
+    "street": "236 Kennedy Lake Suite 387",
+    "city": "Port Larryberg",
+    "state": "SD",
+    "zip": "48479",
+    "county": "Carlhaven",
+    "dob": "10/26/1956",
+    "birth_place": "Torresstad, IN",
+    "height": "5'2\"",
+    "weight": 200,
+    "sex": "Male",
+    "race": "AMER. INDIAN",
+    "hispanic": false,
+    "ssn_written": "351-36-2418",
+    "id_type": "Military ID",
+    "id_expiration": "04/26/2027"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "1-13-14725"
+  },
+  "seller": "Roger Simpson",
+  "cert_date": "11/02/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kel-Tec",
+      "model": "Sub-2000",
+      "serial": "673J6116",
+      "type": "Rifle",
+      "caliber": ".223 Rem/5.56mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/SneakyPete/OpenType-TT/Sneaky Pete Regular.ttf",
+    "base_font_size": 10.573,
+    "ink_color_rgb": [
+      0.0719,
+      0.0061,
+      0.4766
+    ],
+    "jitter_slop": 1.2122,
+    "overflow_prob": 0.093
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "9648548",
+    "serial": "FZNA97B4X8N",
+    "pdf_file": "FZNA97B4X8N.pdf"
+  },
+  "buyer": {
+    "last": "Glass",
+    "first": "Elizabeth",
+    "middle": "Timothy",
+    "street": "5466 Kelly Unions Apt. 805",
+    "city": "Salazarborough",
+    "state": "SD",
+    "zip": "93261",
+    "county": "Schroederside",
+    "dob": "09/28/1981",
+    "birth_place": "Thompsonshire, IA",
+    "height": "6'9\"",
+    "weight": 157,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "606-82-4651",
+    "id_type": "Tribal ID",
+    "id_expiration": "03/20/2034"
+  },
+  "dealer": {
+    "name": "Mcdonaldchester Gun Shop",
+    "ffl": "2-12-85224"
+  },
+  "seller": "David Hatfield",
+  "cert_date": "05/10/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Model 110 Tactical",
+      "serial": "FZNA97B4X8N",
+      "type": "Pistol",
+      "caliber": "9mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

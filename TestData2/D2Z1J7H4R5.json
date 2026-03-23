@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Library/Fonts/CrimsonText-Regular.ttf",
+    "base_font_size": 10.75,
+    "ink_color_rgb": [
+      0.0208,
+      0.0208,
+      0.0208
+    ],
+    "jitter_slop": 0.8403,
+    "overflow_prob": 0.073
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "968845",
+    "serial": "D2Z1J7H4R5",
+    "pdf_file": "D2Z1J7H4R5.pdf"
+  },
+  "buyer": {
+    "last": "Walton",
+    "first": "Miranda",
+    "middle": "NMN",
+    "street": "69793 Mary Mountains",
+    "city": "West Albertville",
+    "state": "NC",
+    "zip": "13380",
+    "county": "East Samantha",
+    "dob": "11/18/2002",
+    "birth_place": "South Jessica, FM",
+    "height": "5'8\"",
+    "weight": 187,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "503-77-9526",
+    "id_type": "State ID Card",
+    "id_expiration": "10/01/2034"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "4-26-89952"
+  },
+  "seller": "Julie Cain",
+  "cert_date": "06/22/2025",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Browning",
+      "model": "Hi-Power Standard",
+      "serial": "D2Z1J7H4R5",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

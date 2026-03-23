@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 8.843,
+    "ink_color_rgb": [
+      0.5753,
+      0.5753,
+      0.5753
+    ],
+    "jitter_slop": 1.5877,
+    "overflow_prob": 0.0676
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "2801",
+    "serial": "G-701585",
+    "pdf_file": "G-701585.pdf"
+  },
+  "buyer": {
+    "last": "Perez",
+    "first": "Lauren",
+    "middle": "NMN",
+    "street": "4186 Bradley Viaduct Suite 047",
+    "city": "South Kevinfort",
+    "state": "AL",
+    "zip": "10555",
+    "county": "South Russellchester",
+    "dob": "12/19/1977",
+    "birth_place": "Martinezton, AZ",
+    "height": "6'6\"",
+    "weight": 163,
+    "sex": "Male",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "152-79-3568",
+    "id_type": "Driver's License",
+    "id_expiration": "03/27/2030"
+  },
+  "dealer": {
+    "name": "George Firearms & Range",
+    "ffl": "6-82-38520"
+  },
+  "seller": "Amy Miller",
+  "cert_date": "05/08/2024",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Sig Sauer",
+      "model": "P226 Legion",
+      "serial": "G-701585",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}
