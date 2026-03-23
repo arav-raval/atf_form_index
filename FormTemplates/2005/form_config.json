@@ -1,0 +1,260 @@
+{
+  "year": "2005",
+  "image_only": false,
+  "page_size": [
+    595,
+    842
+  ],
+  "firearm_rows": {
+    "page": 1,
+    "max": 3,
+    "columns": {
+      "manufacturer": 48,
+      "model": 196,
+      "serial": 300,
+      "type": 413,
+      "caliber": 504
+    },
+    "row_y": [
+      710,
+      725,
+      745
+    ]
+  },
+  "buyer_name": {
+    "page": 0,
+    "last_x": 38,
+    "first_x": 208,
+    "middle_x": 390,
+    "y": 235
+  },
+  "address": {
+    "page": 0,
+    "street_x": 26,
+    "city_x": 204,
+    "state_x": 434,
+    "zip_x": 490,
+    "county_x": 376,
+    "y": 285
+  },
+  "birth_place": {
+    "page": 0,
+    "x": 38,
+    "y": 331
+  },
+  "height": {
+    "page": 0,
+    "ft_x": 268,
+    "in_x": 268,
+    "ft_y": 315,
+    "in_y": 330
+  },
+  "weight": {
+    "page": 0,
+    "x": 306,
+    "y": 316
+  },
+  "sex": {
+    "page": 0,
+    "x": 385,
+    "male_y": 313,
+    "female_y": 331
+  },
+  "dob": {
+    "page": 0,
+    "month_x": 402,
+    "day_x": 453,
+    "year_x": 502,
+    "y": 332
+  },
+  "ssn": {
+    "page": 0,
+    "x": 38,
+    "y": 362
+  },
+  "state_of_residence": {
+    "page": 0,
+    "x": 195,
+    "y": 698
+  },
+  "citizenship": {
+    "page": 0,
+    "us_x": 45,
+    "us_y": 735,
+    "other_x": 188,
+    "other_y": 735,
+    "specify_x": 262
+  },
+  "race": {
+    "page": 0,
+    "positions": [
+      [43, 394],
+      [212, 394],
+      [384, 407],
+      [213, 407],
+      [383, 394]
+    ],
+    "hisp_pos": [42, 407]
+  },
+  "yes_no": [
+    {
+      "page": 0,
+      "x": 520,
+      "y": 435,
+      "answer": "yes"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 465,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 487,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 509,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 522,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 542,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 564,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 578,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 600,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 622,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 637,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 652,
+      "answer": "no"
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 674,
+      "answer": "no"
+    }
+  ],
+  "signature": {
+    "page": 1,
+    "x": 25,
+    "y": 174
+  },
+  "cert_date": {
+    "page": 1,
+    "combined": true,
+    "month_x": 448,
+    "y": 170
+  },
+  "recert_sig": {
+    "page": 1,
+    "x": 35,
+    "y": 650
+  },
+  "recert_date": {
+    "page": 1,
+    "combined": true,
+    "month_x": 450,
+    "y": 650
+  },
+  "firearm_cat": {
+    "page": 1,
+    "y": 219,
+    "pistol_x": 40,
+    "rifle_x": 126,
+    "other_x": 226
+  },
+  "id_info": {
+    "page": 1,
+    "issuer_x": 35,
+    "number_x": 206,
+    "exp_month_x": 389,
+    "exp_day_x": 439,
+    "exp_year_x": 488,
+    "y": 272
+  },
+  "nics": {
+    "page": 1,
+    "date_x": 190,
+    "date_y": 381,
+    "trans_num_x": 375,
+    "trans_num_y": 384,
+    "response_21c": {
+      "proceed_x": 52,  "proceed_y": 428,
+      "delayed_x": 112, "delayed_y": 428,
+      "denied_x": 52,   "denied_y": 436,
+      "cancelled_x": 52,"cancelled_y": 448
+    },
+    "delayed_21d": {
+      "proceed_x": 318,   "proceed_y": 423,
+      "proceed_date_x": 400, "proceed_date_y": 423,
+      "denied_x": 318,    "denied_y": 436,
+      "denied_date_x": 400,  "denied_date_y": 436,
+      "cancelled_x": 318, "cancelled_y": 450,
+      "cancelled_date_x": 400, "cancelled_date_y": 450,
+      "no_res_x": 319,    "no_res_y": 463
+    },
+    "after_transfer_21e": {
+      "date_x": 126,    "date_y": 488,
+      "proceed_x": 196, "proceed_y": 490,
+      "denied_x": 276,  "denied_y": 490,
+      "cancelled_x": 354, "cancelled_y": 490
+    },
+    "examiner_21f": {
+      "name_x": 80,  "name_y": 523,
+      "num_x": 220,  "num_y": 520
+    },
+    "no_check_22": {
+      "x": 320, "y": 509
+    },
+    "no_check_23": {
+      "x": 47, "y": 547,
+      "permit_type_x": 28,
+      "permit_date_x": 184,
+      "permit_exp_x": 296,
+      "permit_num_x": 422,
+      "permit_y": 576
+    }
+  }
+}

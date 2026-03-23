@@ -1,0 +1,252 @@
+{
+  "year": "2008",
+  "image_only": false,
+  "page_size": [
+    612,
+    792
+  ],
+  "firearm_rows": {
+    "page": 2,
+    "max": 3,
+    "columns": {
+      "manufacturer": 24,
+      "model": 196,
+      "serial": 307,
+      "type": 426,
+      "caliber": 523
+    },
+    "row_y": [
+      72,
+      90,
+      108
+    ]
+  },
+  "num_firearms": {
+    "page": 2,
+    "x": 8,
+    "y": 209
+  },
+  "trans_number": {
+    "page": 0,
+    "x": 532,
+    "y": 50
+  },
+  "buyer_name": {
+    "page": 0,
+    "last_x": 28,
+    "first_x": 219,
+    "middle_x": 411,
+    "y": 185
+  },
+  "address": {
+    "page": 0,
+    "street_x": 27,
+    "city_x": 218,
+    "state_x": 488,
+    "zip_x": 520,
+    "county_x": 394,
+    "y": 221
+  },
+  "birth_place": {
+    "page": 0,
+    "x": 42,
+    "y": 281
+  },
+  "height": {
+    "page": 0,
+    "ft_x": 276,
+    "in_x": 276,
+    "ft_y": 268,
+    "in_y": 283
+  },
+  "weight": {
+    "page": 0,
+    "x": 327,
+    "y": 269
+  },
+  "sex": {
+    "page": 0,
+    "x": 374,
+    "male_y": 269,
+    "female_y": 284
+  },
+  "dob": {
+    "page": 0,
+    "month_x": 426,
+    "day_x": 479,
+    "year_x": 532,
+    "y": 284
+  },
+  "ssn": {
+    "page": 0,
+    "x": 41,
+    "y": 311
+  },
+  "yes_no": [
+    {
+      "page": 0,
+      "x": 550,
+      "y": 386
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 428
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 448
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 473
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 494
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 512
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 523
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 549
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 566
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 595
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 614
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 635
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 657
+    },
+    {
+      "page": 0,
+      "x": 572,
+      "y": 680
+    },
+    {
+      "page": 1,
+      "x": 572,
+      "y": 228
+    },
+    {
+      "page": 1,
+      "x": 572,
+      "y": 284
+    },
+    {
+      "page": 1,
+      "x": 572,
+      "y": 314
+    },
+    {
+      "page": 1,
+      "x": 572,
+      "y": 354
+    },
+    {
+      "page": 1,
+      "x": 572,
+      "y": 546
+    }
+  ],
+  "signature": {
+    "page": 1,
+    "x": 38,
+    "y": 140
+  },
+  "cert_date": {
+    "page": 1,
+    "month_x": 475,
+    "day_x": 515,
+    "year_x": 555,
+    "y": 140
+  },
+  "recert_sig": {
+    "page": 1,
+    "x": 31,
+    "y": 744
+  },
+  "recert_date": {
+    "page": 1,
+    "month_x": 470,
+    "day_x": 510,
+    "year_x": 550,
+    "y": 744
+  },
+  "firearm_cat": {
+    "page": 1,
+    "y": 190,
+    "pistol_x": 52,
+    "rifle_x": 107,
+    "other_x": 172
+  },
+  "id_info": {
+    "page": 1,
+    "issuer_x": 38,
+    "number_x": 232,
+    "exp_month_x": 424,
+    "exp_day_x": 477,
+    "exp_year_x": 530,
+    "y": 258
+  },
+  "nics": {
+    "page": 1,
+    "month_x": 58,
+    "day_x": 111,
+    "year_x": 166,
+    "y": 430,
+    "proceed_x": 76,
+    "proceed_y": 484
+  },
+  "dealer": {
+    "page": 2,
+    "x": 44,
+    "name_y": 70,
+    "street_y": 85,
+    "city_y": 100,
+    "ffl_y": 70,
+    "ffl_x": 315
+  },
+  "seller": {
+    "page": 2,
+    "x": 44,
+    "y": 215
+  },
+  "transfer_date": {
+    "page": 2,
+    "month_x": 462,
+    "day_x": 502,
+    "year_x": 542,
+    "y": 215
+  }
+}
