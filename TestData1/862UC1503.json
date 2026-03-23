@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Arial Italic.ttf",
+    "base_font_size": 9.501,
+    "ink_color_rgb": [
+      0.04,
+      0.04,
+      0.6093
+    ],
+    "jitter_slop": 1.5877,
+    "overflow_prob": 0.1341
+  },
+  "form": {
+    "year": "1985",
+    "transaction_number": "758796",
+    "serial": "862UC1503",
+    "pdf_file": "862UC1503.pdf"
+  },
+  "buyer": {
+    "last": "Reynolds II",
+    "first": "Jonathon",
+    "middle": "NMN",
+    "street": "97116 Lamb Place Suite 134",
+    "city": "Ashleyhaven",
+    "state": "FM",
+    "zip": "48834",
+    "county": "North Natashafort",
+    "dob": "12/10/1972",
+    "birth_place": "Port Biancamouth, NJ",
+    "height": "5'1\"",
+    "weight": 118,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Passport Card",
+    "id_expiration": "08/03/2030"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "6-98-34188"
+  },
+  "seller": "Bruce Flynn",
+  "cert_date": "09/26/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Browning",
+      "model": "BPS Field Grade",
+      "serial": "862UC1503",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

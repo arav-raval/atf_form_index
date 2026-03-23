@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Hanimoon/OpenType-TT/Hanimoon.ttf",
+    "base_font_size": 10.38,
+    "ink_color_rgb": [
+      0.0382,
+      0.0859,
+      0.7987
+    ],
+    "jitter_slop": 1.1417,
+    "overflow_prob": 0.0859
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "51871",
+    "serial": "S39572785",
+    "pdf_file": "S39572785.pdf"
+  },
+  "buyer": {
+    "last": "Howard Sr.",
+    "first": "Jonathan",
+    "middle": "B.",
+    "street": "896 Marc Village",
+    "city": "West Nicole",
+    "state": "NE",
+    "zip": "93057",
+    "county": "West Melaniehaven",
+    "dob": "02/12/1957",
+    "birth_place": "Cassandraburgh, SC",
+    "height": "4'2\"",
+    "weight": 137,
+    "sex": "Male",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "852-35-8824",
+    "id_type": "Tribal ID",
+    "id_expiration": "05/07/2025"
+  },
+  "dealer": {
+    "name": "Lake Brandi Gun Shop",
+    "ffl": "4-26-30149"
+  },
+  "seller": "Cody Caldwell",
+  "cert_date": "09/01/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Browning",
+      "model": "BAR MK3 DBM",
+      "serial": "S39572785",
+      "type": "Rifle",
+      "caliber": "6.5 Creedmoor"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

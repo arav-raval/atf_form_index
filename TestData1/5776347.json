@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Arial.ttf",
+    "base_font_size": 8.691,
+    "ink_color_rgb": [
+      0.2748,
+      0.2748,
+      0.2748
+    ],
+    "jitter_slop": 1.3705,
+    "overflow_prob": 0.0755
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "5974267",
+    "serial": "5776347",
+    "pdf_file": "5776347.pdf"
+  },
+  "buyer": {
+    "last": "Smith",
+    "first": "Christopher",
+    "middle": "NMN",
+    "street": "447 Drake Stream Suite 213",
+    "city": "North Allenchester",
+    "state": "AZ",
+    "zip": "23271",
+    "county": "South Laurenport",
+    "dob": "05/28/1983",
+    "birth_place": "Clarketon, IL",
+    "height": "6'4\"",
+    "weight": 195,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": true,
+    "ssn_written": null,
+    "id_type": "Driver's License",
+    "id_expiration": "10/25/2033"
+  },
+  "dealer": {
+    "name": "Wright Defense Supply",
+    "ffl": "9-31-33343"
+  },
+  "seller": "John Spencer",
+  "cert_date": "09/24/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Colt Manufacturing",
+      "model": "Mustang Plus II",
+      "serial": "5776347",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "YES"
+    }
+  ],
+  "nics": {}
+}

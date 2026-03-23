@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Times New Roman.ttf",
+    "base_font_size": 8.867,
+    "ink_color_rgb": [
+      0.0684,
+      0.0684,
+      0.0684
+    ],
+    "jitter_slop": 0.986,
+    "overflow_prob": 0.1158
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "2656",
+    "serial": "GFZL350",
+    "pdf_file": "GFZL350.pdf"
+  },
+  "buyer": {
+    "last": "Mitchell Sr.",
+    "first": "Scott",
+    "middle": "NMN",
+    "street": "276 Gregory Court",
+    "city": "Collinsshire",
+    "state": "NJ",
+    "zip": "82490",
+    "county": "New Brittneyville",
+    "dob": "09/28/1950",
+    "birth_place": "Lake Alyssabury, OR",
+    "height": "6'0\"",
+    "weight": 111,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "382-80-6606",
+    "id_type": "Military ID",
+    "id_expiration": "11/23/2025"
+  },
+  "dealer": {
+    "name": "South Cindyfurt Gun Shop",
+    "ffl": "3-82-84841"
+  },
+  "seller": "Jessica Thompson",
+  "cert_date": "04/27/2026",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Heckler & Koch",
+      "model": "SP5",
+      "serial": "GFZL350",
+      "type": "Rifle",
+      "caliber": ".243 Win"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "XD-9",
+      "serial": "P2C2A2",
+      "type": "Pistol",
+      "caliber": ".45 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

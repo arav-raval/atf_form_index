@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/DaughterBhalita/OpenType-TT/Daughter Bhalita Italic.ttf",
+    "base_font_size": 9.818,
+    "ink_color_rgb": [
+      0.042,
+      0.042,
+      0.042
+    ],
+    "jitter_slop": 0.4846,
+    "overflow_prob": 0.0961
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "33203",
+    "serial": "T0Y5J3F4U6",
+    "pdf_file": "T0Y5J3F4U6.pdf"
+  },
+  "buyer": {
+    "last": "Shannon Sr.",
+    "first": "Allison",
+    "middle": "NMN",
+    "street": "6279 Lisa Center Apt. 876",
+    "city": "New Jerryfort",
+    "state": "TN",
+    "zip": "72644",
+    "county": "New Joseph",
+    "dob": "01/10/1981",
+    "birth_place": "Nancyfort, MD",
+    "height": "6'4\"",
+    "weight": 148,
+    "sex": "Female",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "632-62-5277",
+    "id_type": "State ID Card",
+    "id_expiration": "02/20/2028"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "2-51-76529"
+  },
+  "seller": "Wesley Wilson",
+  "cert_date": "02/04/2021",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "V3 Tac-13",
+      "serial": "T0Y5J3F4U6",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

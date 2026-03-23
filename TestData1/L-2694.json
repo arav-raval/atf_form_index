@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/MumboJumbo/OpenType-TT/Mumbo Jumbo.ttf",
+    "base_font_size": 8.253,
+    "ink_color_rgb": [
+      0.0079,
+      0.02,
+      0.6682
+    ],
+    "jitter_slop": 0.7281,
+    "overflow_prob": 0.0318
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "1865",
+    "serial": "L-2694",
+    "pdf_file": "L-2694.pdf"
+  },
+  "buyer": {
+    "last": "Andrews",
+    "first": "Steven",
+    "middle": "NMN",
+    "street": "90374 Guzman Greens",
+    "city": "Lake Angelastad",
+    "state": "SD",
+    "zip": "95502",
+    "county": "West Christianbury",
+    "dob": "10/11/1958",
+    "birth_place": "Estradabury, MO",
+    "height": "5'11\"",
+    "weight": 112,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "127-82-7954",
+    "id_type": "Passport Card",
+    "id_expiration": "02/26/2033"
+  },
+  "dealer": {
+    "name": "Hunt Firearms & Range",
+    "ffl": "8-95-40428"
+  },
+  "seller": "Luis Carter",
+  "cert_date": "02/26/2020",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Mossberg",
+      "model": "500 Flex",
+      "serial": "L-2694",
+      "type": "Shotgun",
+      "caliber": "20 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

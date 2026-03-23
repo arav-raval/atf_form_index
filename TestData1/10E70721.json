@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Geraldy/OpenType-TT/Geraldy.ttf",
+    "base_font_size": 11.458,
+    "ink_color_rgb": [
+      0.0169,
+      0.0272,
+      0.8901
+    ],
+    "jitter_slop": 1.0611,
+    "overflow_prob": 0.0547
+  },
+  "form": {
+    "year": "1985",
+    "transaction_number": "5180647",
+    "serial": "10E70721",
+    "pdf_file": "10E70721.pdf"
+  },
+  "buyer": {
+    "last": "Cooper",
+    "first": "Tina",
+    "middle": "Donald",
+    "street": "077 Coleman Walks Suite 604",
+    "city": "Isabelberg",
+    "state": "VI",
+    "zip": "71214",
+    "county": "Acostabury",
+    "dob": "09/02/1990",
+    "birth_place": "New Selena, VI",
+    "height": "5'11\"",
+    "weight": 143,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Passport Card",
+    "id_expiration": "04/27/2029"
+  },
+  "dealer": {
+    "name": "Hatfield & Sons Sporting Goods",
+    "ffl": "5-81-88669"
+  },
+  "seller": "Kevin Wall",
+  "cert_date": "05/12/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Walther Arms",
+      "model": "PDP Full Size",
+      "serial": "10E70721",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

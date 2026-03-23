@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 8.943,
+    "ink_color_rgb": [
+      0.04,
+      0.04,
+      0.4412
+    ],
+    "jitter_slop": 1.3352,
+    "overflow_prob": 0.0863
+  },
+  "form": {
+    "year": "2007",
+    "transaction_number": "6581622",
+    "serial": "MD-37681",
+    "pdf_file": "MD-37681.pdf"
+  },
+  "buyer": {
+    "last": "Martin II",
+    "first": "Stuart",
+    "middle": "NMN",
+    "street": "0226 Michael Glen Apt. 108",
+    "city": "Schultzchester",
+    "state": "AL",
+    "zip": "25143",
+    "county": "Port Tonya",
+    "dob": "04/24/2003",
+    "birth_place": "Murphyside, NE",
+    "height": "6'7\"",
+    "weight": 212,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Driver's License",
+    "id_expiration": "01/28/2026"
+  },
+  "dealer": {
+    "name": "Martinez Defense Supply",
+    "ffl": "5-73-45565"
+  },
+  "seller": "Nicholas Smith",
+  "cert_date": "02/07/2023",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Taurus International",
+      "model": "Model 66 SS",
+      "serial": "MD-37681",
+      "type": "Revolver",
+      "caliber": ".45 Colt"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

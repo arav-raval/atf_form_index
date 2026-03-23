@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Penmarker/OpenType-TT/Pen Marker.ttf",
+    "base_font_size": 9.308,
+    "ink_color_rgb": [
+      0.0123,
+      0.0742,
+      0.92
+    ],
+    "jitter_slop": 1.1173,
+    "overflow_prob": 0.0252
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "0191555",
+    "serial": "TEN-0443516",
+    "pdf_file": "TEN-0443516.pdf"
+  },
+  "buyer": {
+    "last": "Kelly",
+    "first": "Lindsay",
+    "middle": "NMN",
+    "street": "986 Gonzalez Mission Suite 975",
+    "city": "Jonesfort",
+    "state": "RI",
+    "zip": "74229",
+    "county": "Adamsfurt",
+    "dob": "01/08/1984",
+    "birth_place": "Davidhaven, MN",
+    "height": "6'0\"",
+    "weight": 202,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "997-81-3862",
+    "id_type": "Tribal ID",
+    "id_expiration": "12/20/2025"
+  },
+  "dealer": {
+    "name": "Romero Defense Supply",
+    "ffl": "7-88-94501"
+  },
+  "seller": "Michael Harris",
+  "cert_date": "05/10/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Model 110 Tactical",
+      "serial": "TEN-0443516",
+      "type": "Pistol",
+      "caliber": "9x18mm Makarov"
+    },
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Bulldog Classic",
+      "serial": "N1248694",
+      "type": "Revolver",
+      "caliber": ".44 Special"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

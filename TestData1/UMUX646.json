@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 9.3,
+    "ink_color_rgb": [
+      0.0446,
+      0.0446,
+      0.0446
+    ],
+    "jitter_slop": 1.1535,
+    "overflow_prob": 0.0749
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "3005541",
+    "serial": "UMUX646",
+    "pdf_file": "UMUX646.pdf"
+  },
+  "buyer": {
+    "last": "Gray Sr.",
+    "first": "Scott",
+    "middle": "A.",
+    "street": "6546 Jonathan Crossing",
+    "city": "East Raven",
+    "state": "KS",
+    "zip": "18590",
+    "county": "Bondside",
+    "dob": "11/07/1950",
+    "birth_place": "West Randall, KS",
+    "height": "4'10\"",
+    "weight": 118,
+    "sex": "Non-Binary",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "717-93-6535",
+    "id_type": "Passport Card",
+    "id_expiration": "07/23/2034"
+  },
+  "dealer": {
+    "name": "Frederick Firearms & Range",
+    "ffl": "5-73-65449"
+  },
+  "seller": "Deborah Pearson",
+  "cert_date": "12/01/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Browning",
+      "model": "X-Bolt Pro",
+      "serial": "UMUX646",
+      "type": "Rifle",
+      "caliber": ".223 Rem/5.56mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

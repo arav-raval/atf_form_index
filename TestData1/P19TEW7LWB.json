@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Billy/OpenType-TT/Billy Regular.ttf",
+    "base_font_size": 12.289,
+    "ink_color_rgb": [
+      0.3052,
+      0.065,
+      0.0653
+    ],
+    "jitter_slop": 1.6251,
+    "overflow_prob": 0.0921
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "74257",
+    "serial": "P19TEW7LWB",
+    "pdf_file": "P19TEW7LWB.pdf"
+  },
+  "buyer": {
+    "last": "Black",
+    "first": "Joshua",
+    "middle": "Travis",
+    "street": "1164 Torres Skyway Apt. 629",
+    "city": "New Sherrybury",
+    "state": "NV",
+    "zip": "85277",
+    "county": "East Austin",
+    "dob": "02/16/1972",
+    "birth_place": "North Aimee, CT",
+    "height": "4'8\"",
+    "weight": 90,
+    "sex": "Female",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "347-76-8053",
+    "id_type": "Military ID",
+    "id_expiration": "02/20/2034"
+  },
+  "dealer": {
+    "name": "Vasquez & Sons Sporting Goods",
+    "ffl": "2-20-19980"
+  },
+  "seller": "Lisa Phelps",
+  "cert_date": "08/13/2021",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Glock Inc.",
+      "model": "G43X",
+      "serial": "P19TEW7LWB",
+      "type": "Pistol",
+      "caliber": "9x18mm Makarov"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

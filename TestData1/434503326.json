@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Doughnuts/OpenType-TT/Doughnuts.ttf",
+    "base_font_size": 13.021,
+    "ink_color_rgb": [
+      0.0044,
+      0.0044,
+      0.0044
+    ],
+    "jitter_slop": 1.2266,
+    "overflow_prob": 0.0911
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "833123",
+    "serial": "434503326",
+    "pdf_file": "434503326.pdf"
+  },
+  "buyer": {
+    "last": "Reed Jr.",
+    "first": "Samuel",
+    "middle": "NMN",
+    "street": "73429 Ortiz Vista Suite 434",
+    "city": "Thompsonburgh",
+    "state": "HI",
+    "zip": "57768",
+    "county": "Jamesville",
+    "dob": "05/08/1971",
+    "birth_place": "Charlestown, CA",
+    "height": "4'0\"",
+    "weight": 179,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "803-94-1638",
+    "id_type": "State ID Card",
+    "id_expiration": "12/22/2025"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "6-91-27136"
+  },
+  "seller": "Amanda Dyer",
+  "cert_date": "04/06/2026",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Anderson Manufacturing",
+      "model": "AM-15",
+      "serial": "434503326",
+      "type": "Rifle",
+      "caliber": "7.62x39mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

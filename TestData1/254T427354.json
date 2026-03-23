@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Arial.ttf",
+    "base_font_size": 8.816,
+    "ink_color_rgb": [
+      0.0163,
+      0.0163,
+      0.0163
+    ],
+    "jitter_slop": 0.7899,
+    "overflow_prob": 0.0671
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "6143005",
+    "serial": "254T427354",
+    "pdf_file": "254T427354.pdf"
+  },
+  "buyer": {
+    "last": "Taylor Sr.",
+    "first": "Michelle",
+    "middle": "Amy",
+    "street": "44201 Jensen Cove Suite 118",
+    "city": "Terryview",
+    "state": "CT",
+    "zip": "64313",
+    "county": "Lake Ebony",
+    "dob": "11/27/1966",
+    "birth_place": "Monicafort, KY",
+    "height": "6'6\"",
+    "weight": 168,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "153-17-9195",
+    "id_type": "Military ID",
+    "id_expiration": "02/06/2033"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "7-72-73774"
+  },
+  "seller": "Steven Howard",
+  "cert_date": "07/08/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Off Duty",
+      "serial": "254T427354",
+      "type": "Revolver",
+      "caliber": ".327 Federal Mag"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

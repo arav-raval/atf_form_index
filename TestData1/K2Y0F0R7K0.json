@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 8.351,
+    "ink_color_rgb": [
+      0.04,
+      0.04,
+      0.7024
+    ],
+    "jitter_slop": 1.189,
+    "overflow_prob": 0.0594
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "4368",
+    "serial": "K2Y0F0R7K0",
+    "pdf_file": "K2Y0F0R7K0.pdf"
+  },
+  "buyer": {
+    "last": "Hughes",
+    "first": "Stephen",
+    "middle": "Christine",
+    "street": "88802 Hunter Corners Apt. 950",
+    "city": "Patriciastad",
+    "state": "MH",
+    "zip": "23298",
+    "county": "Barbarashire",
+    "dob": "08/13/1948",
+    "birth_place": "Danielberg, OK",
+    "height": "6'6\"",
+    "weight": 122,
+    "sex": "Female",
+    "race": "PACIFIC ISL.",
+    "hispanic": false,
+    "ssn_written": "994-50-1849",
+    "id_type": "Military ID",
+    "id_expiration": "05/25/2027"
+  },
+  "dealer": {
+    "name": "Thompson Defense Supply",
+    "ffl": "3-49-89664"
+  },
+  "seller": "Kara Fuller",
+  "cert_date": "12/18/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Off Duty",
+      "serial": "K2Y0F0R7K0",
+      "type": "Revolver",
+      "caliber": ".44 Magnum"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

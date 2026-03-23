@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Library/Fonts/CrimsonText-Regular.ttf",
+    "base_font_size": 8.804,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.281
+    ],
+    "jitter_slop": 1.1639,
+    "overflow_prob": 0.0712
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "05823",
+    "serial": "2472066",
+    "pdf_file": "2472066.pdf"
+  },
+  "buyer": {
+    "last": "Lynch",
+    "first": "Jennifer",
+    "middle": "NMN",
+    "street": "452 Joshua Crossing",
+    "city": "Joannahaven",
+    "state": "MH",
+    "zip": "76041",
+    "county": "West Christopher",
+    "dob": "04/10/1987",
+    "birth_place": "South Mary, TN",
+    "height": "6'10\"",
+    "weight": 180,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "305-35-3379",
+    "id_type": "Military ID",
+    "id_expiration": "10/27/2028"
+  },
+  "dealer": {
+    "name": "Butler Defense Supply",
+    "ffl": "9-62-58383"
+  },
+  "seller": "Rachel Mccoy",
+  "cert_date": "12/06/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Bulldog Classic",
+      "serial": "2472066",
+      "type": "Revolver",
+      "caliber": ".44 Magnum"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

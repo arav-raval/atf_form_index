@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Spoonery/OpenType-TT/Spoonery.ttf",
+    "base_font_size": 9.359,
+    "ink_color_rgb": [
+      0.0001,
+      0.0304,
+      0.8004
+    ],
+    "jitter_slop": 2.1917,
+    "overflow_prob": 0.0531
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "2430",
+    "serial": "2970-6550",
+    "pdf_file": "2970-6550.pdf"
+  },
+  "buyer": {
+    "last": "Howe",
+    "first": "Roger",
+    "middle": "NMN",
+    "street": "295 William Mission",
+    "city": "East Geoffreybury",
+    "state": "MS",
+    "zip": "99695",
+    "county": "Tracymouth",
+    "dob": "12/10/1982",
+    "birth_place": "West Julieton, CO",
+    "height": "6'0\"",
+    "weight": 194,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "414-99-3876",
+    "id_type": "Passport Card",
+    "id_expiration": "10/07/2028"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "3-62-23763"
+  },
+  "seller": "Holly Clark",
+  "cert_date": "04/05/2020",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Daniel Defense",
+      "model": "DDM4 PDW",
+      "serial": "2970-6550",
+      "type": "Rifle",
+      "caliber": "5.7x28mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

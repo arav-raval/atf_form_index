@@ -1,0 +1,120 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/MediumRare/OpenType-TT/MediumRare.ttf",
+    "base_font_size": 11.934,
+    "ink_color_rgb": [
+      0.0457,
+      0.0457,
+      0.0457
+    ],
+    "jitter_slop": 1.63,
+    "overflow_prob": 0.0748
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "1104",
+    "serial": "EXPW361",
+    "pdf_file": "EXPW361.pdf"
+  },
+  "buyer": {
+    "last": "Russell",
+    "first": "Jacob",
+    "middle": "Amanda",
+    "street": "5266 Ryan Common",
+    "city": "Lake Nicholas",
+    "state": "AL",
+    "zip": "83017",
+    "county": "Mendezland",
+    "dob": "09/05/1954",
+    "birth_place": "Rickymouth, ID",
+    "height": "4'4\"",
+    "weight": 197,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Military ID",
+    "id_expiration": "12/15/2030"
+  },
+  "dealer": {
+    "name": "Cochran Firearms & Range",
+    "ffl": "6-50-46700"
+  },
+  "seller": "Holly Williams",
+  "cert_date": "08/18/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Anderson Manufacturing",
+      "model": "AM-10 308",
+      "serial": "EXPW361",
+      "type": "Rifle",
+      "caliber": "6.5 Creedmoor"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "YES"
+    }
+  ],
+  "nics": {}
+}

@@ -1,0 +1,127 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Trebuchet MS.ttf",
+    "base_font_size": 10.134,
+    "ink_color_rgb": [
+      0.0337,
+      0.0337,
+      0.0337
+    ],
+    "jitter_slop": 1.0608,
+    "overflow_prob": 0.0207
+  },
+  "form": {
+    "year": "2001",
+    "transaction_number": "7695",
+    "serial": "2567076",
+    "pdf_file": "2567076.pdf"
+  },
+  "buyer": {
+    "last": "Smith",
+    "first": "Michael",
+    "middle": "T.",
+    "street": "60211 Russell Rapid",
+    "city": "Carlaside",
+    "state": "SD",
+    "zip": "01468",
+    "county": "North Jimmy",
+    "dob": "05/11/1983",
+    "birth_place": "Nicolefurt, VA",
+    "height": "5'3\"",
+    "weight": 146,
+    "sex": "Male",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "631-92-8766",
+    "id_type": "Military ID",
+    "id_expiration": "10/23/2032"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "5-29-39900"
+  },
+  "seller": "Melissa Camacho",
+  "cert_date": "07/26/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Daniel Defense",
+      "model": "DDM4 PDW",
+      "serial": "2567076",
+      "type": "Rifle",
+      "caliber": "5.7x28mm"
+    },
+    {
+      "manufacturer": "Daniel Defense",
+      "model": "DDM4 V7",
+      "serial": "N98516",
+      "type": "Rifle",
+      "caliber": "5.7x28mm"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 387,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 419,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 441,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 478,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 500,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 523,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 538,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 559,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 583,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 599,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 613,
+      "answer": "NO"
+    }
+  ],
+  "nics": {}
+}

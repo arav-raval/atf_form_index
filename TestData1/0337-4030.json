@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 10.465,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.3435
+    ],
+    "jitter_slop": 0.8696,
+    "overflow_prob": 0.0784
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "232788",
+    "serial": "0337-4030",
+    "pdf_file": "0337-4030.pdf"
+  },
+  "buyer": {
+    "last": "Mcbride III",
+    "first": "Adrian",
+    "middle": "NMN",
+    "street": "598 Jeffrey Plaza",
+    "city": "East Timothyton",
+    "state": "FM",
+    "zip": "98713",
+    "county": "South Jesse",
+    "dob": "10/28/1986",
+    "birth_place": "East Jeremyton, OH",
+    "height": "6'1\"",
+    "weight": 219,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "685-60-2709",
+    "id_type": "State ID Card",
+    "id_expiration": "08/26/2025"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "5-75-32085"
+  },
+  "seller": "Joseph Horton",
+  "cert_date": "02/15/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Sig Sauer",
+      "model": "P938 Equinox",
+      "serial": "0337-4030",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

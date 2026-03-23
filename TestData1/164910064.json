@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 8.021,
+    "ink_color_rgb": [
+      0.0681,
+      0.0681,
+      0.0681
+    ],
+    "jitter_slop": 0.9886,
+    "overflow_prob": 0.1016
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "2535820",
+    "serial": "164910064",
+    "pdf_file": "164910064.pdf"
+  },
+  "buyer": {
+    "last": "Tucker II",
+    "first": "Sarah",
+    "middle": "J.",
+    "street": "04847 Pierce Falls",
+    "city": "East Karenmouth",
+    "state": "WV",
+    "zip": "49865",
+    "county": "North Barbaraborough",
+    "dob": "07/12/1973",
+    "birth_place": "Port Joshuachester, HI",
+    "height": "6'0\"",
+    "weight": 127,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "691-59-5039",
+    "id_type": "Tribal ID",
+    "id_expiration": "07/17/2033"
+  },
+  "dealer": {
+    "name": "Kennedy Defense Supply",
+    "ffl": "5-67-81023"
+  },
+  "seller": "Yolanda Walton",
+  "cert_date": "08/11/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Mossberg",
+      "model": "590 Shockwave",
+      "serial": "164910064",
+      "type": "Shotgun",
+      "caliber": "20 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

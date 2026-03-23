@@ -1,0 +1,131 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Sweetmarker/OpenType-TT/Sweet Marker Italic.ttf",
+    "base_font_size": 10.406,
+    "ink_color_rgb": [
+      0.0574,
+      0.0327,
+      0.4527
+    ],
+    "jitter_slop": 1.5846,
+    "overflow_prob": 0.0761
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "21055",
+    "serial": "CEX46976",
+    "pdf_file": "CEX46976.pdf"
+  },
+  "buyer": {
+    "last": "Ingram II",
+    "first": "Joshua",
+    "middle": "R.",
+    "street": "87976 Mary Well Suite 808",
+    "city": "North Justin",
+    "state": "SD",
+    "zip": "06812",
+    "county": "Mannington",
+    "dob": "03/06/1950",
+    "birth_place": "Luisfurt, KY",
+    "height": "5'0\"",
+    "weight": 148,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "454-53-9331",
+    "id_type": "Tribal ID",
+    "id_expiration": "06/18/2031"
+  },
+  "dealer": {
+    "name": "Roman Firearms & Range",
+    "ffl": "1-19-99746"
+  },
+  "seller": "Timothy King",
+  "cert_date": "08/08/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "V3 Tac-13",
+      "serial": "CEX46976",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "YES"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "8/08/2020",
+    "transaction_number": null,
+    "response_21c": "cancelled",
+    "examiner_written": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/FatBoi/OpenType-TT/Fat Boi.ttf",
+    "base_font_size": 9.703,
+    "ink_color_rgb": [
+      0.0429,
+      0.0429,
+      0.0429
+    ],
+    "jitter_slop": 1.0338,
+    "overflow_prob": 0.0468
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "34912",
+    "serial": "548FE2326",
+    "pdf_file": "548FE2326.pdf"
+  },
+  "buyer": {
+    "last": "Johnson Jr.",
+    "first": "Julian",
+    "middle": "Patrick",
+    "street": "942 Lee Valleys Apt. 101",
+    "city": "Johnview",
+    "state": "GU",
+    "zip": "56217",
+    "county": "New Annaland",
+    "dob": "10/19/1965",
+    "birth_place": "Lewisberg, KS",
+    "height": "5'7\"",
+    "weight": 142,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "605-65-5053",
+    "id_type": "Military ID",
+    "id_expiration": "07/10/2033"
+  },
+  "dealer": {
+    "name": "Smith Firearms & Range",
+    "ffl": "1-83-69170"
+  },
+  "seller": "Megan Taylor",
+  "cert_date": "02/15/2025",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Colt Manufacturing",
+      "model": "AR-15 Sporter",
+      "serial": "548FE2326",
+      "type": "Rifle",
+      "caliber": ".243 Win"
+    },
+    {
+      "manufacturer": "FN America",
+      "model": "FNX-45 Tactical",
+      "serial": "0901222",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

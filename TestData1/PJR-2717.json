@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Panda/OpenType-TT/Panda.ttf",
+    "base_font_size": 9.425,
+    "ink_color_rgb": [
+      0.0104,
+      0.0843,
+      0.7169
+    ],
+    "jitter_slop": 1.0266,
+    "overflow_prob": 0.0664
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "41001",
+    "serial": "PJR-2717",
+    "pdf_file": "PJR-2717.pdf"
+  },
+  "buyer": {
+    "last": "Olson",
+    "first": "Christopher",
+    "middle": "NMN",
+    "street": "63241 Baker Causeway Suite 076",
+    "city": "Nicholasstad",
+    "state": "AS",
+    "zip": "00994",
+    "county": "Clarkchester",
+    "dob": "09/05/1978",
+    "birth_place": "Johnview, KY",
+    "height": "4'11\"",
+    "weight": 181,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "466-99-7719",
+    "id_type": "Tribal ID",
+    "id_expiration": "06/19/2033"
+  },
+  "dealer": {
+    "name": "Coleman Defense Supply",
+    "ffl": "5-57-57855"
+  },
+  "seller": "Melissa Beasley",
+  "cert_date": "11/12/2019",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Aero Precision",
+      "model": "M5 308",
+      "serial": "PJR-2717",
+      "type": "Rifle",
+      "caliber": ".243 Win"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

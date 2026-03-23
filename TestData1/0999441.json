@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Outerlord/OpenType-TT/Outerlord.ttf",
+    "base_font_size": 10.026,
+    "ink_color_rgb": [
+      0.0597,
+      0.0597,
+      0.0597
+    ],
+    "jitter_slop": 1.7366,
+    "overflow_prob": 0.0488
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "537604",
+    "serial": "0999441",
+    "pdf_file": "0999441.pdf"
+  },
+  "buyer": {
+    "last": "Lane",
+    "first": "Jeffrey",
+    "middle": "Gina",
+    "street": "4317 Nathan Springs Suite 572",
+    "city": "Leeview",
+    "state": "AK",
+    "zip": "20552",
+    "county": "West Michael",
+    "dob": "11/28/1985",
+    "birth_place": "Port Chelseahaven, MH",
+    "height": "6'2\"",
+    "weight": 180,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "726-88-1287",
+    "id_type": "Driver's License",
+    "id_expiration": "12/22/2030"
+  },
+  "dealer": {
+    "name": "Carroll Defense Supply",
+    "ffl": "6-15-76656"
+  },
+  "seller": "Craig Hampton",
+  "cert_date": "02/09/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Daniel Defense",
+      "model": "DDM4 PDW",
+      "serial": "0999441",
+      "type": "Rifle",
+      "caliber": ".223 Rem/5.56mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Malvina/OpenType-TT/Malvina Regular.ttf",
+    "base_font_size": 11.845,
+    "ink_color_rgb": [
+      0.0471,
+      0.0534,
+      0.4
+    ],
+    "jitter_slop": 1.1137,
+    "overflow_prob": 0.081
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "032396",
+    "serial": "AGLN150",
+    "pdf_file": "AGLN150.pdf"
+  },
+  "buyer": {
+    "last": "Valentine",
+    "first": "Richard",
+    "middle": "NMN",
+    "street": "43951 Tyler Corner",
+    "city": "Port Stephanie",
+    "state": "KY",
+    "zip": "55295",
+    "county": "New Andrealand",
+    "dob": "11/22/1997",
+    "birth_place": "New Claudia, PA",
+    "height": "4'9\"",
+    "weight": 171,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "154-48-5489",
+    "id_type": "Passport Card",
+    "id_expiration": "03/26/2029"
+  },
+  "dealer": {
+    "name": "Marks Defense Supply",
+    "ffl": "2-61-91520"
+  },
+  "seller": "Jesse Smith",
+  "cert_date": "04/04/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Undercover Lite",
+      "serial": "AGLN150",
+      "type": "Revolver",
+      "caliber": ".38 Special"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

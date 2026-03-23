@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 8.356,
+    "ink_color_rgb": [
+      0.0389,
+      0.0389,
+      0.0389
+    ],
+    "jitter_slop": 0.7535,
+    "overflow_prob": 0.0779
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "918650",
+    "serial": "J-3252",
+    "pdf_file": "J-3252.pdf"
+  },
+  "buyer": {
+    "last": "Davis II",
+    "first": "Rita",
+    "middle": "D.",
+    "street": "053 Julie Flats",
+    "city": "Lake Kimberly",
+    "state": "FM",
+    "zip": "06337",
+    "county": "Bryanhaven",
+    "dob": "01/13/1980",
+    "birth_place": "Kimfurt, VT",
+    "height": "4'10\"",
+    "weight": 184,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "266-46-9992",
+    "id_type": "State ID Card",
+    "id_expiration": "01/14/2031"
+  },
+  "dealer": {
+    "name": "Roberts Defense Supply",
+    "ffl": "7-18-95691"
+  },
+  "seller": "David Lambert",
+  "cert_date": "04/20/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Walther Arms",
+      "model": "PDP Full Size",
+      "serial": "J-3252",
+      "type": "Pistol",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

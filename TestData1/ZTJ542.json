@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 10.522,
+    "ink_color_rgb": [
+      0.0466,
+      0.0466,
+      0.0466
+    ],
+    "jitter_slop": 0.8491,
+    "overflow_prob": 0.0678
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "6163",
+    "serial": "ZTJ542",
+    "pdf_file": "ZTJ542.pdf"
+  },
+  "buyer": {
+    "last": "Smith Jr.",
+    "first": "Austin",
+    "middle": "Destiny",
+    "street": "1495 Sharon Meadows",
+    "city": "East Kimberly",
+    "state": "WI",
+    "zip": "97534",
+    "county": "Huntland",
+    "dob": "03/20/1954",
+    "birth_place": "South Jillianburgh, LA",
+    "height": "6'8\"",
+    "weight": 207,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "685-11-3980",
+    "id_type": "Driver's License",
+    "id_expiration": "01/20/2034"
+  },
+  "dealer": {
+    "name": "Lake Jessica Gun Shop",
+    "ffl": "3-72-59013"
+  },
+  "seller": "Peter Sims",
+  "cert_date": "07/17/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "V3 Tac-13",
+      "serial": "ZTJ542",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,133 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Courier New.ttf",
+    "base_font_size": 10.252,
+    "ink_color_rgb": [
+      0.0204,
+      0.0204,
+      0.0204
+    ],
+    "jitter_slop": 1.4318,
+    "overflow_prob": 0.0356
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "33866",
+    "serial": "408JN0394",
+    "pdf_file": "408JN0394.pdf"
+  },
+  "buyer": {
+    "last": "West",
+    "first": "Brenda",
+    "middle": "C.",
+    "street": "528 Crawford Mews Suite 376",
+    "city": "Lake Taraberg",
+    "state": "NE",
+    "zip": "93390",
+    "county": "East Jenniferberg",
+    "dob": "11/04/1976",
+    "birth_place": "Matthewfort, MD",
+    "height": "4'3\"",
+    "weight": 181,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "535-23-9378",
+    "id_type": "Military ID",
+    "id_expiration": "02/14/2026"
+  },
+  "dealer": {
+    "name": "Simmonsland Gun Shop",
+    "ffl": "3-53-88443"
+  },
+  "seller": "Chad Barnett",
+  "cert_date": "01/28/2022",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Mark II FV-SR",
+      "serial": "408JN0394",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "YES"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "1/28/2022",
+    "transaction_number": "2538657651",
+    "response_21c": "proceed",
+    "examiner_name": "Claudia Boyle",
+    "examiner_brady_id": "688-37-2828",
+    "examiner_written": true
+  }
+}

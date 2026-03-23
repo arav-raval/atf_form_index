@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Jasmine/OpenType-TT/Jasmine Regular.ttf",
+    "base_font_size": 9.886,
+    "ink_color_rgb": [
+      0.0337,
+      0.0118,
+      0.6816
+    ],
+    "jitter_slop": 1.58,
+    "overflow_prob": 0.0849
+  },
+  "form": {
+    "year": "1985",
+    "transaction_number": "0120118",
+    "serial": "441VA7153",
+    "pdf_file": "441VA7153.pdf"
+  },
+  "buyer": {
+    "last": "Patton III",
+    "first": "Austin",
+    "middle": "NMN",
+    "street": "84727 Manning Passage",
+    "city": "Charlesbury",
+    "state": "AR",
+    "zip": "47817",
+    "county": "Lake Timothy",
+    "dob": "09/10/2002",
+    "birth_place": "Phillipsside, AL",
+    "height": "4'6\"",
+    "weight": 192,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Driver's License",
+    "id_expiration": "03/14/2034"
+  },
+  "dealer": {
+    "name": "Gonzales & Sons Sporting Goods",
+    "ffl": "8-81-47153"
+  },
+  "seller": "Lori Roth",
+  "cert_date": "02/11/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Aero Precision",
+      "model": "M4E1",
+      "serial": "441VA7153",
+      "type": "Rifle",
+      "caliber": "7.62x39mm"
+    },
+    {
+      "manufacturer": "Sturm Ruger & Co.",
+      "model": "LCP II",
+      "serial": "5046-5365",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

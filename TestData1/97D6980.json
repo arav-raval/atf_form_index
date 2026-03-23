@@ -1,0 +1,138 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/NewYork.ttf",
+    "base_font_size": 8.805,
+    "ink_color_rgb": [
+      0.0344,
+      0.0344,
+      0.0344
+    ],
+    "jitter_slop": 0.7851,
+    "overflow_prob": 0.1044
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "8335",
+    "serial": "97D6980",
+    "pdf_file": "97D6980.pdf"
+  },
+  "buyer": {
+    "last": "Sullivan Sr.",
+    "first": "Ryan",
+    "middle": "Alexis",
+    "street": "95977 Bowen Circles Suite 106",
+    "city": "East Christopher",
+    "state": "VI",
+    "zip": "67120",
+    "county": "Simpsonbury",
+    "dob": "09/04/1977",
+    "birth_place": "Callahanport, SD",
+    "height": "5'9\"",
+    "weight": 168,
+    "sex": "Male",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "659-15-1902",
+    "id_type": "Tribal ID",
+    "id_expiration": "03/05/2025"
+  },
+  "dealer": {
+    "name": "Willis Defense Supply",
+    "ffl": "9-28-38066"
+  },
+  "seller": "Michael Davis",
+  "cert_date": "09/17/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Canik",
+      "model": "TP9SF",
+      "serial": "97D6980",
+      "type": "Pistol",
+      "caliber": ".40 S&W"
+    },
+    {
+      "manufacturer": "Charter Arms",
+      "model": "Undercover Lite",
+      "serial": "U2A5J1",
+      "type": "Revolver",
+      "caliber": ".45 Colt"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "YES"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "9/17/2020",
+    "transaction_number": "1723747636",
+    "response_21c": "denied",
+    "examiner_written": false
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/SufferingPandemic/OpenType-TT/Suffering Pandemic.ttf",
+    "base_font_size": 10.631,
+    "ink_color_rgb": [
+      0.0,
+      0.0,
+      0.4063
+    ],
+    "jitter_slop": 0.7159,
+    "overflow_prob": 0.0618
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "9755",
+    "serial": "SJX66857",
+    "pdf_file": "SJX66857.pdf"
+  },
+  "buyer": {
+    "last": "Gross",
+    "first": "William",
+    "middle": "NMN",
+    "street": "7880 Branch Lane Suite 995",
+    "city": "East Debra",
+    "state": "ND",
+    "zip": "26212",
+    "county": "New Nathan",
+    "dob": "08/08/1999",
+    "birth_place": "Clarkfurt, IL",
+    "height": "4'10\"",
+    "weight": 194,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "741-30-4966",
+    "id_type": "State ID Card",
+    "id_expiration": "05/24/2027"
+  },
+  "dealer": {
+    "name": "Briggs Firearms & Range",
+    "ffl": "8-82-74204"
+  },
+  "seller": "Carolyn Hunter",
+  "cert_date": "06/15/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kimber Manufacturing",
+      "model": "Eclipse Custom II",
+      "serial": "SJX66857",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/TimeNote/OpenType-TT/Time Note.ttf",
+    "base_font_size": 10.673,
+    "ink_color_rgb": [
+      0.3443,
+      0.3443,
+      0.3443
+    ],
+    "jitter_slop": 1.9746,
+    "overflow_prob": 0.0952
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "706182",
+    "serial": "AC5621786",
+    "pdf_file": "AC5621786.pdf"
+  },
+  "buyer": {
+    "last": "Pope III",
+    "first": "Thomas",
+    "middle": "NMN",
+    "street": "327 John Haven",
+    "city": "Lewisville",
+    "state": "OK",
+    "zip": "23596",
+    "county": "South Jenniferberg",
+    "dob": "04/06/1992",
+    "birth_place": "East Justin, MI",
+    "height": "5'6\"",
+    "weight": 227,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "565-76-8360",
+    "id_type": "Passport Card",
+    "id_expiration": "03/25/2031"
+  },
+  "dealer": {
+    "name": "Shaw Defense Supply",
+    "ffl": "6-31-73321"
+  },
+  "seller": "Roger Hernandez",
+  "cert_date": "03/10/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Model 110 Tactical",
+      "serial": "AC5621786",
+      "type": "Pistol",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

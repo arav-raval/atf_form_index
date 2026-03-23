@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "helv",
+    "font_file": null,
+    "base_font_size": 8.494,
+    "ink_color_rgb": [
+      0.0298,
+      0.0298,
+      0.0298
+    ],
+    "jitter_slop": 0.6946,
+    "overflow_prob": 0.1261
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "95904",
+    "serial": "041EU6605",
+    "pdf_file": "041EU6605.pdf"
+  },
+  "buyer": {
+    "last": "Rivas Jr.",
+    "first": "Joshua",
+    "middle": "S.",
+    "street": "1531 Hanson Roads Apt. 212",
+    "city": "Raymondberg",
+    "state": "WA",
+    "zip": "24717",
+    "county": "New Stephanie",
+    "dob": "01/10/1949",
+    "birth_place": "East Loriville, MI",
+    "height": "6'9\"",
+    "weight": 195,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "508-83-4327",
+    "id_type": "State ID Card",
+    "id_expiration": "08/24/2033"
+  },
+  "dealer": {
+    "name": "Burns Defense Supply",
+    "ffl": "3-94-35929"
+  },
+  "seller": "Matthew Ford",
+  "cert_date": "04/15/2021",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Browning",
+      "model": "Hi-Power Standard",
+      "serial": "041EU6605",
+      "type": "Pistol",
+      "caliber": "10mm Auto"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

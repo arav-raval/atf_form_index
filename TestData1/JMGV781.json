@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Library/Fonts/CrimsonText-Regular.ttf",
+    "base_font_size": 7.595,
+    "ink_color_rgb": [
+      0.0237,
+      0.0237,
+      0.0237
+    ],
+    "jitter_slop": 1.2334,
+    "overflow_prob": 0.0511
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "678763",
+    "serial": "JMGV781",
+    "pdf_file": "JMGV781.pdf"
+  },
+  "buyer": {
+    "last": "Wilson",
+    "first": "Michael",
+    "middle": "D.",
+    "street": "06880 Laura Stravenue Apt. 584",
+    "city": "East Georgemouth",
+    "state": "AL",
+    "zip": "47216",
+    "county": "New Michael",
+    "dob": "10/22/1989",
+    "birth_place": "Shepherdhaven, ME",
+    "height": "4'9\"",
+    "weight": 126,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "119-77-9021",
+    "id_type": "Military ID",
+    "id_expiration": "05/16/2028"
+  },
+  "dealer": {
+    "name": "Lewis Defense Supply",
+    "ffl": "1-88-12941"
+  },
+  "seller": "Donna Stevens",
+  "cert_date": "11/15/2019",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Canik",
+      "model": "METE SF",
+      "serial": "JMGV781",
+      "type": "Pistol",
+      "caliber": "10mm Auto"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

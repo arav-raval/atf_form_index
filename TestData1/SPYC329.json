@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Bellish/OpenType-TT/Bellish Glare.ttf",
+    "base_font_size": 9.046,
+    "ink_color_rgb": [
+      0.0581,
+      0.0429,
+      0.6345
+    ],
+    "jitter_slop": 1.0409,
+    "overflow_prob": 0.0759
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "8399228",
+    "serial": "SPYC329",
+    "pdf_file": "SPYC329.pdf"
+  },
+  "buyer": {
+    "last": "Sanford II",
+    "first": "Sarah",
+    "middle": "S.",
+    "street": "363 Bell Curve Suite 450",
+    "city": "Dylanshire",
+    "state": "PR",
+    "zip": "43410",
+    "county": "Briantown",
+    "dob": "09/08/1991",
+    "birth_place": "Lake Brittneyhaven, NJ",
+    "height": "4'5\"",
+    "weight": 198,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "263-43-2263",
+    "id_type": "State ID Card",
+    "id_expiration": "10/01/2029"
+  },
+  "dealer": {
+    "name": "Wolf Defense Supply",
+    "ffl": "3-42-95475"
+  },
+  "seller": "Michael Carroll",
+  "cert_date": "09/12/2025",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Winchester Repeating",
+      "model": "Model 94 Trails End",
+      "serial": "SPYC329",
+      "type": "Rifle",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

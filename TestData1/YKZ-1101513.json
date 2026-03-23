@@ -1,0 +1,133 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf",
+    "base_font_size": 7.721,
+    "ink_color_rgb": [
+      0.0239,
+      0.0239,
+      0.0239
+    ],
+    "jitter_slop": 1.5175,
+    "overflow_prob": 0.1477
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "003107",
+    "serial": "YKZ-1101513",
+    "pdf_file": "YKZ-1101513.pdf"
+  },
+  "buyer": {
+    "last": "Johnson III",
+    "first": "Dawn",
+    "middle": "NMN",
+    "street": "3001 Garrett Gardens",
+    "city": "Cookfurt",
+    "state": "MS",
+    "zip": "11619",
+    "county": "North Linda",
+    "dob": "08/24/1969",
+    "birth_place": "North David, LA",
+    "height": "5'5\"",
+    "weight": 117,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "239-42-7141",
+    "id_type": "State ID Card",
+    "id_expiration": "05/01/2028"
+  },
+  "dealer": {
+    "name": "Walters & Sons Sporting Goods",
+    "ffl": "5-23-40225"
+  },
+  "seller": "Caroline Dickerson",
+  "cert_date": "03/04/2021",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "SA-35",
+      "serial": "YKZ-1101513",
+      "type": "Pistol",
+      "caliber": "9x18mm Makarov"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "NO"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "03/04/2021",
+    "transaction_number": "4302322106",
+    "response_21c": "proceed",
+    "examiner_name": "Lisa Paul",
+    "examiner_brady_id": "080-40-2060",
+    "examiner_written": true
+  }
+}

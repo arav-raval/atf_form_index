@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "helv",
+    "font_file": null,
+    "base_font_size": 8.306,
+    "ink_color_rgb": [
+      0.0688,
+      0.0688,
+      0.0688
+    ],
+    "jitter_slop": 0.8093,
+    "overflow_prob": 0.1134
+  },
+  "form": {
+    "year": "2016",
+    "transaction_number": "134553",
+    "serial": "970R41791",
+    "pdf_file": "970R41791.pdf"
+  },
+  "buyer": {
+    "last": "Howard Jr.",
+    "first": "Ronald",
+    "middle": "E.",
+    "street": "316 Vazquez Glens Suite 060",
+    "city": "West Ann",
+    "state": "MD",
+    "zip": "94243",
+    "county": "East Brian",
+    "dob": "10/09/1979",
+    "birth_place": "Lake Samanthaview, PR",
+    "height": "6'3\"",
+    "weight": 155,
+    "sex": "Male",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "813-93-7217",
+    "id_type": "Tribal ID",
+    "id_expiration": "09/24/2025"
+  },
+  "dealer": {
+    "name": "Ferguson Firearms & Range",
+    "ffl": "4-28-36419"
+  },
+  "seller": "Kyle Luna",
+  "cert_date": "10/24/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Rock Island Armory",
+      "model": "M1911-A1 GI Standard",
+      "serial": "970R41791",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

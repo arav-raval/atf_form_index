@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/ImposeFont/OpenType-TT/Impose.ttf",
+    "base_font_size": 10.586,
+    "ink_color_rgb": [
+      0.319,
+      0.0568,
+      0.0486
+    ],
+    "jitter_slop": 1.8689,
+    "overflow_prob": 0.0949
+  },
+  "form": {
+    "year": "1998",
+    "transaction_number": "6531023",
+    "serial": "M7F8B6",
+    "pdf_file": "M7F8B6.pdf"
+  },
+  "buyer": {
+    "last": "Knight",
+    "first": "Richard",
+    "middle": "NMN",
+    "street": "561 Caldwell Roads",
+    "city": "Marktown",
+    "state": "LA",
+    "zip": "72647",
+    "county": "North Meganberg",
+    "dob": "10/17/1981",
+    "birth_place": "Port Frank, SD",
+    "height": "4'7\"",
+    "weight": 136,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "287-99-4683",
+    "id_type": "State ID Card",
+    "id_expiration": "11/15/2028"
+  },
+  "dealer": {
+    "name": "Baker & Sons Sporting Goods",
+    "ffl": "7-65-60576"
+  },
+  "seller": "Chris Cox",
+  "cert_date": "02/07/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "686",
+      "serial": "M7F8B6",
+      "type": "Revolver",
+      "caliber": ".357 Magnum"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

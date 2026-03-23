@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Antaricksa/OpenType-TT/Antaricksa Regular.ttf",
+    "base_font_size": 11.438,
+    "ink_color_rgb": [
+      0.07,
+      0.07,
+      0.07
+    ],
+    "jitter_slop": 0.8954,
+    "overflow_prob": 0.0876
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "8835703",
+    "serial": "743007379",
+    "pdf_file": "743007379.pdf"
+  },
+  "buyer": {
+    "last": "Cole Sr.",
+    "first": "Brian",
+    "middle": "NMN",
+    "street": "09214 Leslie Mission",
+    "city": "North Stevemouth",
+    "state": "CT",
+    "zip": "88051",
+    "county": "Port Amanda",
+    "dob": "03/19/1965",
+    "birth_place": "Richmondmouth, MH",
+    "height": "6'2\"",
+    "weight": 183,
+    "sex": "Female",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "624-78-7338",
+    "id_type": "State ID Card",
+    "id_expiration": "08/14/2026"
+  },
+  "dealer": {
+    "name": "Adams Firearms & Range",
+    "ffl": "5-65-90285"
+  },
+  "seller": "Steven Oconnor",
+  "cert_date": "12/19/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Savage Arms",
+      "model": "Mark II FV-SR",
+      "serial": "743007379",
+      "type": "Pistol",
+      "caliber": ".32 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Romona/OpenType-TT/Romona.ttf",
+    "base_font_size": 8.069,
+    "ink_color_rgb": [
+      0.0287,
+      0.0287,
+      0.0287
+    ],
+    "jitter_slop": 0.4,
+    "overflow_prob": 0.0943
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "346632",
+    "serial": "15G36455",
+    "pdf_file": "15G36455.pdf"
+  },
+  "buyer": {
+    "last": "Myers",
+    "first": "Joseph",
+    "middle": "NMN",
+    "street": "82554 Hernandez Spring",
+    "city": "East Cherylport",
+    "state": "WY",
+    "zip": "19412",
+    "county": "Nathanland",
+    "dob": "02/26/1963",
+    "birth_place": "Port Judithton, IN",
+    "height": "5'6\"",
+    "weight": 112,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "585-32-3674",
+    "id_type": "Driver's License",
+    "id_expiration": "01/26/2026"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "1-17-31308"
+  },
+  "seller": "Monica Wilkerson",
+  "cert_date": "11/28/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Diamondback Firearms",
+      "model": "DB380",
+      "serial": "15G36455",
+      "type": "Pistol",
+      "caliber": "9x18mm Makarov"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

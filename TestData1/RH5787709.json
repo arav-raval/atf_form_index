@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/BlackRed/OpenType-TT/BlackRed.ttf",
+    "base_font_size": 10.684,
+    "ink_color_rgb": [
+      0.0503,
+      0.0296,
+      0.6517
+    ],
+    "jitter_slop": 1.3264,
+    "overflow_prob": 0.0742
+  },
+  "form": {
+    "year": "2008",
+    "transaction_number": "0336",
+    "serial": "RH5787709",
+    "pdf_file": "RH5787709.pdf"
+  },
+  "buyer": {
+    "last": "Adams Jr.",
+    "first": "Francisco",
+    "middle": "G.",
+    "street": "7507 Wood Orchard Apt. 381",
+    "city": "East Mark",
+    "state": "OK",
+    "zip": "22392",
+    "county": "Elizabethmouth",
+    "dob": "07/07/1999",
+    "birth_place": "Marktown, MI",
+    "height": "6'0\"",
+    "weight": 151,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "220-33-8588",
+    "id_type": "Military ID",
+    "id_expiration": "02/10/2030"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "6-82-71070"
+  },
+  "seller": "James Schmidt",
+  "cert_date": "05/10/2023",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Heckler & Koch",
+      "model": "HK45 Compact",
+      "serial": "RH5787709",
+      "type": "Pistol",
+      "caliber": "9mm"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

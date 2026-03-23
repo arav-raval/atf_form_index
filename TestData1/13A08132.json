@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "tiro",
+    "font_file": null,
+    "base_font_size": 7.847,
+    "ink_color_rgb": [
+      0.04,
+      0.04,
+      0.6256
+    ],
+    "jitter_slop": 0.9154,
+    "overflow_prob": 0.052
+  },
+  "form": {
+    "year": "2022",
+    "transaction_number": "6035172",
+    "serial": "13A08132",
+    "pdf_file": "13A08132.pdf"
+  },
+  "buyer": {
+    "last": "Floyd",
+    "first": "Christopher",
+    "middle": "N.",
+    "street": "323 Carlson Skyway",
+    "city": "North Jaredhaven",
+    "state": "CO",
+    "zip": "40743",
+    "county": "North Christopher",
+    "dob": "07/25/1949",
+    "birth_place": "West Paul, OK",
+    "height": "5'2\"",
+    "weight": 173,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "473-95-3016",
+    "id_type": "Tribal ID",
+    "id_expiration": "01/22/2025"
+  },
+  "dealer": {
+    "name": "Winters Defense Supply",
+    "ffl": "1-96-98596"
+  },
+  "seller": "Jose Ward",
+  "cert_date": "03/23/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Rock Island Armory",
+      "model": "M206",
+      "serial": "13A08132",
+      "type": "Revolver",
+      "caliber": ".22 LR"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

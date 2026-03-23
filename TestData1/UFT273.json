@@ -1,0 +1,132 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/WritingNotes/OpenType-TT/Writing Notes Italic.ttf",
+    "base_font_size": 12.737,
+    "ink_color_rgb": [
+      0.5472,
+      0.5472,
+      0.5472
+    ],
+    "jitter_slop": 1.762,
+    "overflow_prob": 0.099
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "6692",
+    "serial": "UFT273",
+    "pdf_file": "UFT273.pdf"
+  },
+  "buyer": {
+    "last": "Rice III",
+    "first": "Melissa",
+    "middle": "T.",
+    "street": "2249 Miller Unions",
+    "city": "North Christinafurt",
+    "state": "IA",
+    "zip": "93970",
+    "county": "Lake Jamesfort",
+    "dob": "05/05/1965",
+    "birth_place": "Nathanside, AL",
+    "height": "5'4\"",
+    "weight": 180,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "649-49-5541",
+    "id_type": "Passport Card",
+    "id_expiration": "01/20/2029"
+  },
+  "dealer": {
+    "name": "Johnton Gun Shop",
+    "ffl": "5-62-31532"
+  },
+  "seller": "Reginald Robinson",
+  "cert_date": "08/11/2026",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "Model 700 ADL",
+      "serial": "UFT273",
+      "type": "Rifle",
+      "caliber": "9mm"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "NO"
+    }
+  ],
+  "nics": {
+    "required": false,
+    "exemption": "Q23_state_permit",
+    "permit_type": "CCW Permit",
+    "permit_number": "UL737816",
+    "permit_issued": "01/2015",
+    "permit_expires": "07/2029"
+  }
+}

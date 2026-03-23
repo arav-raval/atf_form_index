@@ -1,0 +1,133 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Courier New.ttf",
+    "base_font_size": 9.031,
+    "ink_color_rgb": [
+      0.03,
+      0.03,
+      0.03
+    ],
+    "jitter_slop": 0.4996,
+    "overflow_prob": 0.1373
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "2685865",
+    "serial": "15N10608",
+    "pdf_file": "15N10608.pdf"
+  },
+  "buyer": {
+    "last": "Taylor III",
+    "first": "Nicole",
+    "middle": "NMN",
+    "street": "9404 Kelsey Curve",
+    "city": "Catherinechester",
+    "state": "PA",
+    "zip": "16489",
+    "county": "Keithfurt",
+    "dob": "03/11/1986",
+    "birth_place": "Kimberlyside, TX",
+    "height": "4'9\"",
+    "weight": 123,
+    "sex": "Male",
+    "race": "WHITE",
+    "hispanic": true,
+    "ssn_written": "552-83-2519",
+    "id_type": "Tribal ID",
+    "id_expiration": "01/13/2034"
+  },
+  "dealer": {
+    "name": "Wilson & Sons Sporting Goods",
+    "ffl": "3-41-43557"
+  },
+  "seller": "Elizabeth Galvan",
+  "cert_date": "01/15/2019",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kel-Tec",
+      "model": "KS7",
+      "serial": "15N10608",
+      "type": "Shotgun",
+      "caliber": "20 Gauge"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "NO"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "1/15/2019",
+    "transaction_number": "1033177359",
+    "response_21c": "proceed",
+    "examiner_name": "Patricia Campos",
+    "examiner_brady_id": "516-70-3805",
+    "examiner_written": true
+  }
+}

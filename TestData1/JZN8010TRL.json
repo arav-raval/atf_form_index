@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Library/Fonts/CrimsonText-Regular.ttf",
+    "base_font_size": 8.341,
+    "ink_color_rgb": [
+      0.0132,
+      0.0132,
+      0.0132
+    ],
+    "jitter_slop": 1.4117,
+    "overflow_prob": 0.1131
+  },
+  "form": {
+    "year": "2012",
+    "transaction_number": "029368",
+    "serial": "JZN8010TRL",
+    "pdf_file": "JZN8010TRL.pdf"
+  },
+  "buyer": {
+    "last": "Singh Jr.",
+    "first": "Danielle",
+    "middle": "K.",
+    "street": "01696 Manning Way",
+    "city": "Susanside",
+    "state": "MS",
+    "zip": "16073",
+    "county": "North Megan",
+    "dob": "03/13/1957",
+    "birth_place": "Annastad, MT",
+    "height": "5'6\"",
+    "weight": 156,
+    "sex": "Female",
+    "race": "AMER. INDIAN",
+    "hispanic": false,
+    "ssn_written": "783-96-7175",
+    "id_type": "Passport Card",
+    "id_expiration": "07/10/2030"
+  },
+  "dealer": {
+    "name": "Khan & Sons Sporting Goods",
+    "ffl": "7-97-36029"
+  },
+  "seller": "Brandi Gamble",
+  "cert_date": "08/10/2025",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kimber Manufacturing",
+      "model": "Custom II",
+      "serial": "JZN8010TRL",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    },
+    {
+      "manufacturer": "Colt Manufacturing",
+      "model": "Mustang Plus II",
+      "serial": "23U18337",
+      "type": "Pistol",
+      "caliber": "10mm Auto"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

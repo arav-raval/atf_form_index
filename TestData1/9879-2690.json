@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "cour",
+    "font_file": null,
+    "base_font_size": 8.976,
+    "ink_color_rgb": [
+      0.0255,
+      0.0255,
+      0.0255
+    ],
+    "jitter_slop": 1.2613,
+    "overflow_prob": 0.097
+  },
+  "form": {
+    "year": "2023",
+    "transaction_number": "79227",
+    "serial": "9879-2690",
+    "pdf_file": "9879-2690.pdf"
+  },
+  "buyer": {
+    "last": "Horton",
+    "first": "Pamela",
+    "middle": "NMN",
+    "street": "21511 Chavez Pass Apt. 171",
+    "city": "Port Christopher",
+    "state": "MA",
+    "zip": "08953",
+    "county": "Jamesfurt",
+    "dob": "04/17/1948",
+    "birth_place": "Bakerside, FM",
+    "height": "4'9\"",
+    "weight": 226,
+    "sex": "Male",
+    "race": "ASIAN",
+    "hispanic": false,
+    "ssn_written": "952-23-4610",
+    "id_type": "Driver's License",
+    "id_expiration": "05/08/2031"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "8-20-29151"
+  },
+  "seller": "Scott Baker",
+  "cert_date": "05/16/2024",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Kel-Tec",
+      "model": "KS7",
+      "serial": "9879-2690",
+      "type": "Shotgun",
+      "caliber": "16 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

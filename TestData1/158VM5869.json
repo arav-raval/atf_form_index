@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Arial Italic.ttf",
+    "base_font_size": 7.681,
+    "ink_color_rgb": [
+      0.082,
+      0.082,
+      0.082
+    ],
+    "jitter_slop": 0.4009,
+    "overflow_prob": 0.0427
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "08174",
+    "serial": "158VM5869",
+    "pdf_file": "158VM5869.pdf"
+  },
+  "buyer": {
+    "last": "Myers",
+    "first": "Lindsey",
+    "middle": "NMN",
+    "street": "866 Gregory Port",
+    "city": "East Kyleview",
+    "state": "AL",
+    "zip": "45258",
+    "county": "East Josephberg",
+    "dob": "09/15/1964",
+    "birth_place": "West Alejandrobury, DC",
+    "height": "4'1\"",
+    "weight": 201,
+    "sex": "Male",
+    "race": "AMER. INDIAN",
+    "hispanic": false,
+    "ssn_written": "616-86-5349",
+    "id_type": "Military ID",
+    "id_expiration": "05/21/2034"
+  },
+  "dealer": {
+    "name": "Patriot Arms LLC",
+    "ffl": "7-30-93263"
+  },
+  "seller": "Christine Lloyd",
+  "cert_date": "07/20/2023",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "870 Express",
+      "serial": "158VM5869",
+      "type": "Shotgun",
+      "caliber": "20 Gauge"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

@@ -1,0 +1,133 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/LittleGiant/OpenType-TT/LittleGiant.ttf",
+    "base_font_size": 8.654,
+    "ink_color_rgb": [
+      0.2798,
+      0.1356,
+      0.0424
+    ],
+    "jitter_slop": 0.6928,
+    "overflow_prob": 0.0433
+  },
+  "form": {
+    "year": "2005",
+    "transaction_number": "805752",
+    "serial": "GD859165",
+    "pdf_file": "GD859165.pdf"
+  },
+  "buyer": {
+    "last": "Harris",
+    "first": "Christopher",
+    "middle": "NMN",
+    "street": "5031 Zachary Spurs Suite 449",
+    "city": "Murphyfort",
+    "state": "MT",
+    "zip": "08591",
+    "county": "Mariaberg",
+    "dob": "12/09/1979",
+    "birth_place": "Adamsfort, MH",
+    "height": "4'6\"",
+    "weight": 122,
+    "sex": "Female",
+    "race": "BLACK",
+    "hispanic": false,
+    "ssn_written": "488-32-7642",
+    "id_type": "Driver's License",
+    "id_expiration": "05/21/2028"
+  },
+  "dealer": {
+    "name": "Taylor Firearms & Range",
+    "ffl": "4-43-38445"
+  },
+  "seller": "Vanessa Vance",
+  "cert_date": "02/07/2022",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Rock Island Armory",
+      "model": "M1911-A1 GI Standard",
+      "serial": "GD859165",
+      "type": "Pistol",
+      "caliber": ".357 SIG"
+    }
+  ],
+  "yes_no_answers": [
+    {
+      "page": 0,
+      "y": 435,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 465,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 487,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 509,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 522,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 542,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 564,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 578,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 600,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 622,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 637,
+      "answer": "NO"
+    },
+    {
+      "page": 0,
+      "y": 652,
+      "answer": "YES"
+    },
+    {
+      "page": 0,
+      "y": 674,
+      "answer": "YES"
+    }
+  ],
+  "nics": {
+    "required": true,
+    "date": "02/7/2022",
+    "transaction_number": "2385806714",
+    "response_21c": "proceed",
+    "examiner_name": "Jill Chaney",
+    "examiner_brady_id": "463-14-9156",
+    "examiner_written": true
+  }
+}

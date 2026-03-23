@@ -1,0 +1,59 @@
+{
+  "rendering": {
+    "mode": "handwritten",
+    "font": "F0",
+    "font_file": "/Users/lawsonwright/Desktop/FormBot/ExtraFonts/Doughnuts/OpenType-TT/Doughnuts.ttf",
+    "base_font_size": 8.497,
+    "ink_color_rgb": [
+      0.0699,
+      0.0699,
+      0.0699
+    ],
+    "jitter_slop": 1.6703,
+    "overflow_prob": 0.0653
+  },
+  "form": {
+    "year": "2007",
+    "transaction_number": "25973",
+    "serial": "VMV383141",
+    "pdf_file": "VMV383141.pdf"
+  },
+  "buyer": {
+    "last": "Webb Sr.",
+    "first": "Thomas",
+    "middle": "NMN",
+    "street": "1226 Suarez Meadow Suite 369",
+    "city": "Davilatown",
+    "state": "WI",
+    "zip": "51539",
+    "county": "West Gregory",
+    "dob": "11/10/1986",
+    "birth_place": "Jonathanmouth, SD",
+    "height": "5'4\"",
+    "weight": 90,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": null,
+    "id_type": "Tribal ID",
+    "id_expiration": "04/22/2029"
+  },
+  "dealer": {
+    "name": "Hernandez Defense Supply",
+    "ffl": "1-78-94096"
+  },
+  "seller": "James Lynch",
+  "cert_date": "01/14/2019",
+  "all_caps": true,
+  "firearms": [
+    {
+      "manufacturer": "Remington Arms",
+      "model": "RP9",
+      "serial": "VMV383141",
+      "type": "Pistol",
+      "caliber": ".380 ACP"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}

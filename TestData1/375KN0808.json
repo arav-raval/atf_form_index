@@ -1,0 +1,66 @@
+{
+  "rendering": {
+    "mode": "typed",
+    "font": "F0",
+    "font_file": "/System/Library/Fonts/Supplemental/Microsoft Sans Serif.ttf",
+    "base_font_size": 8.808,
+    "ink_color_rgb": [
+      0.0083,
+      0.0083,
+      0.0083
+    ],
+    "jitter_slop": 1.2236,
+    "overflow_prob": 0.0265
+  },
+  "form": {
+    "year": "2020",
+    "transaction_number": "09542",
+    "serial": "375KN0808",
+    "pdf_file": "375KN0808.pdf"
+  },
+  "buyer": {
+    "last": "Kelly III",
+    "first": "Stephen",
+    "middle": "Michael",
+    "street": "083 Angelica Field Suite 659",
+    "city": "South Bryan",
+    "state": "GA",
+    "zip": "83808",
+    "county": "Baileyland",
+    "dob": "01/07/1988",
+    "birth_place": "Richardmouth, NC",
+    "height": "4'6\"",
+    "weight": 105,
+    "sex": "Female",
+    "race": "WHITE",
+    "hispanic": false,
+    "ssn_written": "454-87-4675",
+    "id_type": "Tribal ID",
+    "id_expiration": "11/18/2026"
+  },
+  "dealer": {
+    "name": "Small & Sons Sporting Goods",
+    "ffl": "1-54-73631"
+  },
+  "seller": "Andrew Olson",
+  "cert_date": "02/11/2020",
+  "all_caps": false,
+  "firearms": [
+    {
+      "manufacturer": "Daniel Defense",
+      "model": "DDM4 PDW",
+      "serial": "375KN0808",
+      "type": "Rifle",
+      "caliber": ".308 Win/7.62mm"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 29",
+      "serial": "131477942",
+      "type": "Revolver",
+      "caliber": ".327 Federal Mag"
+    }
+  ],
+  "yes_no_answers": [],
+  "nics": {}
+}
