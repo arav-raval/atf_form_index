@@ -1,0 +1,64 @@
+2026-03-28 15:54:20  INFO      Starting page sampling pipeline (log file: /Users/aravraval/Documents/atf_form_index/page_sampling_pipeline.log)
+2026-03-28 15:54:22  INFO      Page inventory: 489 (pdf, page) pairs before shuffle/truncate
+2026-03-28 15:54:22  INFO      After shuffle (seed=42) and max_samples=None: 489 pairs to classify
+2026-03-28 15:59:34  INFO      
+=== Page-sample evaluation (see module docstring for definitions) ===
+Sampled (page, file) pairs:     489
+  of which key-page samples:     100
+  of which off-page samples:     389
+Key-page OK + correct year:      100  (recall 1.0)
+Off-page FP (OK + pred=true yr): 0  (rate 0.0)
+Off-page FP (any OK):            0  (rate 0.0)
+2026-03-28 15:59:34  INFO      Filtered matches (ok_correct): 100
+2026-03-28 15:59:34  INFO        G-701585.pdf  page=0  true=2022  pred=2022  score=0.9849  key_page=True
+2026-03-28 15:59:34  INFO        2472066.pdf  page=2  true=2016  pred=2016  score=0.9885  key_page=True
+2026-03-28 15:59:34  INFO        S39572785.pdf  page=0  true=2023  pred=2023  score=0.9767  key_page=True
+2026-03-28 15:59:34  INFO        CEX46976.pdf  page=1  true=2005  pred=2005  score=0.9801  key_page=True
+2026-03-28 15:59:34  INFO        P76884568.pdf  page=1  true=1998  pred=1998  score=0.9728  key_page=True
+2026-03-28 15:59:34  INFO        H7K7W3L9X7.pdf  page=0  true=2020  pred=2020  score=0.9831  key_page=True
+2026-03-28 15:59:34  INFO        P19TEW7LWB.pdf  page=0  true=2023  pred=2023  score=0.9830  key_page=True
+2026-03-28 15:59:34  INFO        23E02907.pdf  page=2  true=2008  pred=2008  score=0.9958  key_page=True
+2026-03-28 15:59:34  INFO        19S20112.pdf  page=0  true=2022  pred=2022  score=0.9746  key_page=True
+2026-03-28 15:59:34  INFO        UFT273.pdf  page=1  true=2005  pred=2005  score=0.9731  key_page=True
+2026-03-28 15:59:34  INFO        3784-3262.pdf  page=1  true=1998  pred=1998  score=0.9774  key_page=True
+2026-03-28 15:59:34  INFO        07402371.pdf  page=1  true=2001  pred=2001  score=0.9825  key_page=True
+2026-03-28 15:59:34  INFO        MD-37681.pdf  page=1  true=2007  pred=2007  score=0.9897  key_page=True
+2026-03-28 15:59:34  INFO        158VM5869.pdf  page=0  true=2020  pred=2020  score=0.9849  key_page=True
+2026-03-28 15:59:34  INFO        RH5787709.pdf  page=2  true=2008  pred=2008  score=0.9917  key_page=True
+2026-03-28 15:59:34  INFO        743007379.pdf  page=2  true=2008  pred=2008  score=0.9942  key_page=True
+2026-03-28 15:59:34  INFO        TEN-0443516.pdf  page=2  true=2012  pred=2012  score=0.9829  key_page=True
+2026-03-28 15:59:34  INFO        9452N264201.pdf  page=0  true=1985  pred=1985  score=0.9644  key_page=True
+2026-03-28 15:59:34  INFO        20G48825.pdf  page=2  true=2008  pred=2008  score=0.9954  key_page=True
+2026-03-28 15:59:34  INFO        M7F8B6.pdf  page=1  true=1998  pred=1998  score=0.9686  key_page=True
+2026-03-28 15:59:34  INFO        041EU6605.pdf  page=2  true=2016  pred=2016  score=0.9884  key_page=True
+2026-03-28 15:59:34  INFO        064FD2576.pdf  page=1  true=2001  pred=2001  score=0.9776  key_page=True
+2026-03-28 15:59:34  INFO        SJX66857.pdf  page=1  true=1998  pred=1998  score=0.9780  key_page=True
+2026-03-28 15:59:34  INFO        0337-4030.pdf  page=2  true=2016  pred=2016  score=0.9861  key_page=True
+2026-03-28 15:59:34  INFO        434503326.pdf  page=0  true=2020  pred=2020  score=0.9804  key_page=True
+2026-03-28 15:59:34  INFO        YKZ-1101513.pdf  page=1  true=2005  pred=2005  score=0.9882  key_page=True
+2026-03-28 15:59:34  INFO        09Z0882.pdf  page=0  true=2020  pred=2020  score=0.9707  key_page=True
+2026-03-28 15:59:34  INFO        TSA558.pdf  page=0  true=1985  pred=1985  score=0.9514  key_page=True
+2026-03-28 15:59:34  INFO        375KN0808.pdf  page=0  true=2020  pred=2020  score=0.9764  key_page=True
+2026-03-28 15:59:34  INFO        JMGV781.pdf  page=2  true=2016  pred=2016  score=0.9922  key_page=True
+2026-03-28 15:59:34  INFO        F19FKXHNHJ.pdf  page=1  true=2001  pred=2001  score=0.9859  key_page=True
+2026-03-28 15:59:34  INFO        GFZL350.pdf  page=2  true=2016  pred=2016  score=0.9847  key_page=True
+2026-03-28 15:59:34  INFO        V303947.pdf  page=1  true=2001  pred=2001  score=0.9937  key_page=True
+2026-03-28 15:59:34  INFO        16W65321.pdf  page=1  true=2007  pred=2007  score=0.9871  key_page=True
+2026-03-28 15:59:34  INFO        24G20149.pdf  page=1  true=1998  pred=1998  score=0.9711  key_page=True
+2026-03-28 15:59:34  INFO        0999441.pdf  page=2  true=2008  pred=2008  score=0.9922  key_page=True
+2026-03-28 15:59:34  INFO        254T427354.pdf  page=1  true=1998  pred=1998  score=0.9792  key_page=True
+2026-03-28 15:59:34  INFO        15N10608.pdf  page=1  true=2005  pred=2005  score=0.9860  key_page=True
+2026-03-28 15:59:34  INFO        L-2694.pdf  page=0  true=2023  pred=2023  score=0.9888  key_page=True
+2026-03-28 15:59:34  INFO        SPYC329.pdf  page=0  true=2022  pred=2022  score=0.9717  key_page=True
+2026-03-28 15:59:34  INFO        862UC1503.pdf  page=0  true=1985  pred=1985  score=0.9587  key_page=True
+2026-03-28 15:59:34  INFO        ZTJ542.pdf  page=0  true=2022  pred=2022  score=0.9808  key_page=True
+2026-03-28 15:59:34  INFO        UMUX646.pdf  page=2  true=2008  pred=2008  score=0.9918  key_page=True
+2026-03-28 15:59:34  INFO        D2Z1J7H4R5.pdf  page=0  true=2022  pred=2022  score=0.9811  key_page=True
+2026-03-28 15:59:34  INFO        ZYVA437.pdf  page=1  true=2005  pred=2005  score=0.9850  key_page=True
+2026-03-28 15:59:34  INFO        13A08132.pdf  page=0  true=2022  pred=2022  score=0.9869  key_page=True
+2026-03-28 15:59:34  INFO        806YH1789.pdf  page=0  true=1985  pred=1985  score=0.9743  key_page=True
+2026-03-28 15:59:34  INFO        9971Z2529.pdf  page=2  true=2012  pred=2012  score=0.9910  key_page=True
+2026-03-28 15:59:34  INFO        NAL906.pdf  page=2  true=2012  pred=2012  score=0.9943  key_page=True
+2026-03-28 15:59:34  INFO        FZNA97B4X8N.pdf  page=1  true=1998  pred=1998  score=0.9729  key_page=True
+2026-03-28 15:59:34  INFO        ... and 50 more
+2026-03-28 15:59:34  INFO      Pipeline finished.
