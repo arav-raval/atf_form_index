@@ -1,0 +1,6720 @@
+{
+  "total_pages": 501,
+  "total_forms": 98,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2020",
+      "transaction_number": "021049",
+      "buyer": {
+        "last": "Wang Jr.",
+        "first": "Alexander",
+        "middle": "Dennis"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sig Sauer",
+          "model": "P229 Nitron",
+          "serial": "642NG0971",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "form_year": "2020",
+      "transaction_number": "021049",
+      "buyer": {
+        "last": "Wang Jr.",
+        "first": "Alexander",
+        "middle": "Dennis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 3,
+      "form_year": "2020",
+      "transaction_number": "021049",
+      "buyer": {
+        "last": "Wang Jr.",
+        "first": "Alexander",
+        "middle": "Dennis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 4,
+      "form_year": "2020",
+      "transaction_number": "021049",
+      "buyer": {
+        "last": "Wang Jr.",
+        "first": "Alexander",
+        "middle": "Dennis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 5,
+      "form_year": "2020",
+      "transaction_number": "021049",
+      "buyer": {
+        "last": "Wang Jr.",
+        "first": "Alexander",
+        "middle": "Dennis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 6,
+      "form_year": "2020",
+      "transaction_number": "021049",
+      "buyer": {
+        "last": "Wang Jr.",
+        "first": "Alexander",
+        "middle": "Dennis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 7,
+      "form_year": "2001",
+      "transaction_number": "4572490",
+      "buyer": {
+        "last": "Mason III",
+        "first": "Melissa",
+        "middle": "Edward"
+      },
+      "firearms": []
+    },
+    {
+      "page": 8,
+      "form_year": "2001",
+      "transaction_number": "4572490",
+      "buyer": {
+        "last": "Mason III",
+        "first": "Melissa",
+        "middle": "Edward"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sig Sauer",
+          "model": "P229 Nitron",
+          "serial": "1110264",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "form_year": "2001",
+      "transaction_number": "4572490",
+      "buyer": {
+        "last": "Mason III",
+        "first": "Melissa",
+        "middle": "Edward"
+      },
+      "firearms": []
+    },
+    {
+      "page": 10,
+      "form_year": "2001",
+      "transaction_number": "4572490",
+      "buyer": {
+        "last": "Mason III",
+        "first": "Melissa",
+        "middle": "Edward"
+      },
+      "firearms": []
+    },
+    {
+      "page": 11,
+      "form_year": "2016",
+      "transaction_number": "066099",
+      "buyer": {
+        "last": "Stafford III",
+        "first": "Nicholas",
+        "middle": "Mckenzie"
+      },
+      "firearms": []
+    },
+    {
+      "page": 12,
+      "form_year": "2016",
+      "transaction_number": "066099",
+      "buyer": {
+        "last": "Stafford III",
+        "first": "Nicholas",
+        "middle": "Mckenzie"
+      },
+      "firearms": []
+    },
+    {
+      "page": 13,
+      "form_year": "2016",
+      "transaction_number": "066099",
+      "buyer": {
+        "last": "Stafford III",
+        "first": "Nicholas",
+        "middle": "Mckenzie"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kel-Tec",
+          "model": "PMR-30",
+          "serial": "E1XPPWPFAM44",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "form_year": "2016",
+      "transaction_number": "066099",
+      "buyer": {
+        "last": "Stafford III",
+        "first": "Nicholas",
+        "middle": "Mckenzie"
+      },
+      "firearms": []
+    },
+    {
+      "page": 15,
+      "form_year": "2016",
+      "transaction_number": "066099",
+      "buyer": {
+        "last": "Stafford III",
+        "first": "Nicholas",
+        "middle": "Mckenzie"
+      },
+      "firearms": []
+    },
+    {
+      "page": 16,
+      "form_year": "2016",
+      "transaction_number": "066099",
+      "buyer": {
+        "last": "Stafford III",
+        "first": "Nicholas",
+        "middle": "Mckenzie"
+      },
+      "firearms": []
+    },
+    {
+      "page": 17,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Custom II",
+          "serial": "NPD7540",
+          "type": "Pistol",
+          "caliber": ".40 S&W",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 19,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 20,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 21,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 22,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 23,
+      "form_year": "2023",
+      "transaction_number": "222580",
+      "buyer": {
+        "last": "Barker Sr.",
+        "first": "John",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 24,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Smith & Wesson",
+          "model": "Shield EZ",
+          "serial": "0921R85574",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 26,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 27,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 28,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 29,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 30,
+      "form_year": "2022",
+      "transaction_number": "6433",
+      "buyer": {
+        "last": "Hall",
+        "first": "Evan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 31,
+      "form_year": "2012",
+      "transaction_number": "128072",
+      "buyer": {
+        "last": "Martin",
+        "first": "Jill",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 32,
+      "form_year": "2012",
+      "transaction_number": "128072",
+      "buyer": {
+        "last": "Martin",
+        "first": "Jill",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 33,
+      "form_year": "2012",
+      "transaction_number": "128072",
+      "buyer": {
+        "last": "Martin",
+        "first": "Jill",
+        "middle": "T."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Pathfinder",
+          "serial": "ZJU518160",
+          "type": "Revolver",
+          "caliber": ".45 Colt",
+          "page": 3
+        },
+        {
+          "manufacturer": "Diamondback Firearms",
+          "model": "DB380",
+          "serial": "V3Y8N3",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 3
+        },
+        {
+          "manufacturer": "Winchester Repeating",
+          "model": "SXP Defender",
+          "serial": "5960129",
+          "type": "Shotgun",
+          "caliber": ".410 Bore",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "form_year": "2012",
+      "transaction_number": "128072",
+      "buyer": {
+        "last": "Martin",
+        "first": "Jill",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 35,
+      "form_year": "2012",
+      "transaction_number": "128072",
+      "buyer": {
+        "last": "Martin",
+        "first": "Jill",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 36,
+      "form_year": "2012",
+      "transaction_number": "128072",
+      "buyer": {
+        "last": "Martin",
+        "first": "Jill",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 37,
+      "form_year": "1985",
+      "transaction_number": "0775128",
+      "buyer": {
+        "last": "Bailey Sr.",
+        "first": "Kristina",
+        "middle": "A."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Canik",
+          "model": "TP9SA",
+          "serial": "1920-7151",
+          "type": "Pistol",
+          "caliber": ".22 LR",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "form_year": "1985",
+      "transaction_number": "6127945",
+      "buyer": {
+        "last": "Romero Jr.",
+        "first": "Janet",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Glock Inc.",
+          "model": "G27",
+          "serial": "H36323",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 1
+        },
+        {
+          "manufacturer": "Beretta USA",
+          "model": "Px4 Storm",
+          "serial": "309940118",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "form_year": "2012",
+      "transaction_number": "9884505",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Paul",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 40,
+      "form_year": "2012",
+      "transaction_number": "9884505",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Paul",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 41,
+      "form_year": "2012",
+      "transaction_number": "9884505",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Paul",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Winchester Repeating",
+          "model": "SX4 Field",
+          "serial": "N1U01G48TSK",
+          "type": "Shotgun",
+          "caliber": "20 Gauge",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "form_year": "2012",
+      "transaction_number": "9884505",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Paul",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 43,
+      "form_year": "2012",
+      "transaction_number": "9884505",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Paul",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 44,
+      "form_year": "2012",
+      "transaction_number": "9884505",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Paul",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 45,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Diamondback Firearms",
+          "model": "DB45",
+          "serial": "L7L3V2Y6",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 1
+        },
+        {
+          "manufacturer": "Daniel Defense",
+          "model": "DDM4 PDW",
+          "serial": "BELF923",
+          "type": "Rifle",
+          "caliber": ".22 LR",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 47,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 48,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 49,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 50,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 51,
+      "form_year": "2022",
+      "transaction_number": "2400",
+      "buyer": {
+        "last": "Torres",
+        "first": "Marcus",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 52,
+      "form_year": "2007",
+      "transaction_number": "8735",
+      "buyer": {
+        "last": "Warren",
+        "first": "Mark",
+        "middle": "Rachael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 53,
+      "form_year": "2007",
+      "transaction_number": "8735",
+      "buyer": {
+        "last": "Warren",
+        "first": "Mark",
+        "middle": "Rachael"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "MC1sc",
+          "serial": "20W12602",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "form_year": "2007",
+      "transaction_number": "8735",
+      "buyer": {
+        "last": "Warren",
+        "first": "Mark",
+        "middle": "Rachael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 55,
+      "form_year": "2007",
+      "transaction_number": "8735",
+      "buyer": {
+        "last": "Warren",
+        "first": "Mark",
+        "middle": "Rachael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 56,
+      "form_year": "2007",
+      "transaction_number": "8735",
+      "buyer": {
+        "last": "Warren",
+        "first": "Mark",
+        "middle": "Rachael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 57,
+      "form_year": "2007",
+      "transaction_number": "8735",
+      "buyer": {
+        "last": "Warren",
+        "first": "Mark",
+        "middle": "Rachael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 58,
+      "form_year": "2008",
+      "transaction_number": "437919",
+      "buyer": {
+        "last": "Clark",
+        "first": "Joseph",
+        "middle": "J."
+      },
+      "firearms": []
+    },
+    {
+      "page": 59,
+      "form_year": "2008",
+      "transaction_number": "437919",
+      "buyer": {
+        "last": "Clark",
+        "first": "Joseph",
+        "middle": "J."
+      },
+      "firearms": []
+    },
+    {
+      "page": 60,
+      "form_year": "2008",
+      "transaction_number": "437919",
+      "buyer": {
+        "last": "Clark",
+        "first": "Joseph",
+        "middle": "J."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kel-Tec",
+          "model": "KS7",
+          "serial": "296E5957",
+          "type": "Shotgun",
+          "caliber": ".410 Bore",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 61,
+      "form_year": "2008",
+      "transaction_number": "437919",
+      "buyer": {
+        "last": "Clark",
+        "first": "Joseph",
+        "middle": "J."
+      },
+      "firearms": []
+    },
+    {
+      "page": 62,
+      "form_year": "2008",
+      "transaction_number": "437919",
+      "buyer": {
+        "last": "Clark",
+        "first": "Joseph",
+        "middle": "J."
+      },
+      "firearms": []
+    },
+    {
+      "page": 63,
+      "form_year": "2008",
+      "transaction_number": "437919",
+      "buyer": {
+        "last": "Clark",
+        "first": "Joseph",
+        "middle": "J."
+      },
+      "firearms": []
+    },
+    {
+      "page": 64,
+      "form_year": "2005",
+      "transaction_number": "2082878",
+      "buyer": {
+        "last": "Turner",
+        "first": "Bryan",
+        "middle": "Holly"
+      },
+      "firearms": []
+    },
+    {
+      "page": 65,
+      "form_year": "2005",
+      "transaction_number": "2082878",
+      "buyer": {
+        "last": "Turner",
+        "first": "Bryan",
+        "middle": "Holly"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Beretta USA",
+          "model": "M9A3",
+          "serial": "V1E4R9M7",
+          "type": "Pistol",
+          "caliber": ".32 ACP",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 66,
+      "form_year": "2005",
+      "transaction_number": "2082878",
+      "buyer": {
+        "last": "Turner",
+        "first": "Bryan",
+        "middle": "Holly"
+      },
+      "firearms": []
+    },
+    {
+      "page": 67,
+      "form_year": "2005",
+      "transaction_number": "2082878",
+      "buyer": {
+        "last": "Turner",
+        "first": "Bryan",
+        "middle": "Holly"
+      },
+      "firearms": []
+    },
+    {
+      "page": 68,
+      "form_year": "2016",
+      "transaction_number": "323555",
+      "buyer": {
+        "last": "Powell III",
+        "first": "Charles",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 69,
+      "form_year": "2016",
+      "transaction_number": "323555",
+      "buyer": {
+        "last": "Powell III",
+        "first": "Charles",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 70,
+      "form_year": "2016",
+      "transaction_number": "323555",
+      "buyer": {
+        "last": "Powell III",
+        "first": "Charles",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Springfield Armory",
+          "model": "XD-9",
+          "serial": "5V0FD35KB3MR",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 71,
+      "form_year": "2016",
+      "transaction_number": "323555",
+      "buyer": {
+        "last": "Powell III",
+        "first": "Charles",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 72,
+      "form_year": "2016",
+      "transaction_number": "323555",
+      "buyer": {
+        "last": "Powell III",
+        "first": "Charles",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 73,
+      "form_year": "2016",
+      "transaction_number": "323555",
+      "buyer": {
+        "last": "Powell III",
+        "first": "Charles",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 74,
+      "form_year": "2007",
+      "transaction_number": "9403469",
+      "buyer": {
+        "last": "Briggs Jr.",
+        "first": "David",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 75,
+      "form_year": "2007",
+      "transaction_number": "9403469",
+      "buyer": {
+        "last": "Briggs Jr.",
+        "first": "David",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Browning",
+          "model": "BPS Field Grade",
+          "serial": "A6545330",
+          "type": "Shotgun",
+          "caliber": "12 Gauge",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 76,
+      "form_year": "2007",
+      "transaction_number": "9403469",
+      "buyer": {
+        "last": "Briggs Jr.",
+        "first": "David",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 77,
+      "form_year": "2007",
+      "transaction_number": "9403469",
+      "buyer": {
+        "last": "Briggs Jr.",
+        "first": "David",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 78,
+      "form_year": "2007",
+      "transaction_number": "9403469",
+      "buyer": {
+        "last": "Briggs Jr.",
+        "first": "David",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 79,
+      "form_year": "2007",
+      "transaction_number": "9403469",
+      "buyer": {
+        "last": "Briggs Jr.",
+        "first": "David",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 80,
+      "form_year": "2020",
+      "transaction_number": "2825015",
+      "buyer": {
+        "last": "Perkins II",
+        "first": "Andre",
+        "middle": "S."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Pathfinder",
+          "serial": "3110452",
+          "type": "Revolver",
+          "caliber": ".357 Magnum",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 81,
+      "form_year": "2020",
+      "transaction_number": "2825015",
+      "buyer": {
+        "last": "Perkins II",
+        "first": "Andre",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 82,
+      "form_year": "2020",
+      "transaction_number": "2825015",
+      "buyer": {
+        "last": "Perkins II",
+        "first": "Andre",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 83,
+      "form_year": "2020",
+      "transaction_number": "2825015",
+      "buyer": {
+        "last": "Perkins II",
+        "first": "Andre",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 84,
+      "form_year": "2020",
+      "transaction_number": "2825015",
+      "buyer": {
+        "last": "Perkins II",
+        "first": "Andre",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 85,
+      "form_year": "2020",
+      "transaction_number": "2825015",
+      "buyer": {
+        "last": "Perkins II",
+        "first": "Andre",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 86,
+      "form_year": "2007",
+      "transaction_number": "3943",
+      "buyer": {
+        "last": "Burton",
+        "first": "David",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 87,
+      "form_year": "2007",
+      "transaction_number": "3943",
+      "buyer": {
+        "last": "Burton",
+        "first": "David",
+        "middle": "M."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Rock Island Armory",
+          "model": "M1911-A1 GI Standard",
+          "serial": "S2916076",
+          "type": "Pistol",
+          "caliber": ".45 ACP",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 88,
+      "form_year": "2007",
+      "transaction_number": "3943",
+      "buyer": {
+        "last": "Burton",
+        "first": "David",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 89,
+      "form_year": "2007",
+      "transaction_number": "3943",
+      "buyer": {
+        "last": "Burton",
+        "first": "David",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 90,
+      "form_year": "2007",
+      "transaction_number": "3943",
+      "buyer": {
+        "last": "Burton",
+        "first": "David",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 91,
+      "form_year": "2007",
+      "transaction_number": "3943",
+      "buyer": {
+        "last": "Burton",
+        "first": "David",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 92,
+      "form_year": "2012",
+      "transaction_number": "4430821",
+      "buyer": {
+        "last": "Barnes Sr.",
+        "first": "Jared",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 93,
+      "form_year": "2012",
+      "transaction_number": "4430821",
+      "buyer": {
+        "last": "Barnes Sr.",
+        "first": "Jared",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 94,
+      "form_year": "2012",
+      "transaction_number": "4430821",
+      "buyer": {
+        "last": "Barnes Sr.",
+        "first": "Jared",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Canik",
+          "model": "TP9 Elite Combat",
+          "serial": "166D40139",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 95,
+      "form_year": "2012",
+      "transaction_number": "4430821",
+      "buyer": {
+        "last": "Barnes Sr.",
+        "first": "Jared",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 96,
+      "form_year": "2012",
+      "transaction_number": "4430821",
+      "buyer": {
+        "last": "Barnes Sr.",
+        "first": "Jared",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 97,
+      "form_year": "2012",
+      "transaction_number": "4430821",
+      "buyer": {
+        "last": "Barnes Sr.",
+        "first": "Jared",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 98,
+      "form_year": "2008",
+      "transaction_number": "4897",
+      "buyer": {
+        "last": "Lopez",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 99,
+      "form_year": "2008",
+      "transaction_number": "4897",
+      "buyer": {
+        "last": "Lopez",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 100,
+      "form_year": "2008",
+      "transaction_number": "4897",
+      "buyer": {
+        "last": "Lopez",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "MC1sc",
+          "serial": "18L57523",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "form_year": "2008",
+      "transaction_number": "4897",
+      "buyer": {
+        "last": "Lopez",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 102,
+      "form_year": "2008",
+      "transaction_number": "4897",
+      "buyer": {
+        "last": "Lopez",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 103,
+      "form_year": "2008",
+      "transaction_number": "4897",
+      "buyer": {
+        "last": "Lopez",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 104,
+      "form_year": "1985",
+      "transaction_number": "0923",
+      "buyer": {
+        "last": "Beck",
+        "first": "Adam",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Diamondback Firearms",
+          "model": "DB45",
+          "serial": "880763599",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 105,
+      "form_year": "2007",
+      "transaction_number": "324795",
+      "buyer": {
+        "last": "Johnson II",
+        "first": "Catherine",
+        "middle": "Joann"
+      },
+      "firearms": []
+    },
+    {
+      "page": 106,
+      "form_year": "2007",
+      "transaction_number": "324795",
+      "buyer": {
+        "last": "Johnson II",
+        "first": "Catherine",
+        "middle": "Joann"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Palmetto State Armory",
+          "model": "Dagger",
+          "serial": "092LC2978",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 107,
+      "form_year": "2007",
+      "transaction_number": "324795",
+      "buyer": {
+        "last": "Johnson II",
+        "first": "Catherine",
+        "middle": "Joann"
+      },
+      "firearms": []
+    },
+    {
+      "page": 108,
+      "form_year": "2007",
+      "transaction_number": "324795",
+      "buyer": {
+        "last": "Johnson II",
+        "first": "Catherine",
+        "middle": "Joann"
+      },
+      "firearms": []
+    },
+    {
+      "page": 109,
+      "form_year": "2007",
+      "transaction_number": "324795",
+      "buyer": {
+        "last": "Johnson II",
+        "first": "Catherine",
+        "middle": "Joann"
+      },
+      "firearms": []
+    },
+    {
+      "page": 110,
+      "form_year": "2007",
+      "transaction_number": "324795",
+      "buyer": {
+        "last": "Johnson II",
+        "first": "Catherine",
+        "middle": "Joann"
+      },
+      "firearms": []
+    },
+    {
+      "page": 111,
+      "form_year": "1985",
+      "transaction_number": "8913528",
+      "buyer": {
+        "last": "Williams Sr.",
+        "first": "Kelly",
+        "middle": "Kayla"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-15",
+          "serial": "JELWS63A8H",
+          "type": "Rifle",
+          "caliber": ".223 Rem/5.56mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 112,
+      "form_year": "2016",
+      "transaction_number": "8208616",
+      "buyer": {
+        "last": "Hansen",
+        "first": "Hannah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 113,
+      "form_year": "2016",
+      "transaction_number": "8208616",
+      "buyer": {
+        "last": "Hansen",
+        "first": "Hannah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 114,
+      "form_year": "2016",
+      "transaction_number": "8208616",
+      "buyer": {
+        "last": "Hansen",
+        "first": "Hannah",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "FN America",
+          "model": "FNX-45 Tactical",
+          "serial": "884TC8051",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 115,
+      "form_year": "2016",
+      "transaction_number": "8208616",
+      "buyer": {
+        "last": "Hansen",
+        "first": "Hannah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 116,
+      "form_year": "2016",
+      "transaction_number": "8208616",
+      "buyer": {
+        "last": "Hansen",
+        "first": "Hannah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 117,
+      "form_year": "2016",
+      "transaction_number": "8208616",
+      "buyer": {
+        "last": "Hansen",
+        "first": "Hannah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 118,
+      "form_year": "2007",
+      "transaction_number": "66049",
+      "buyer": {
+        "last": "Jones",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 119,
+      "form_year": "2007",
+      "transaction_number": "66049",
+      "buyer": {
+        "last": "Jones",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Eclipse Custom II",
+          "serial": "16X81398",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 120,
+      "form_year": "2007",
+      "transaction_number": "66049",
+      "buyer": {
+        "last": "Jones",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 121,
+      "form_year": "2007",
+      "transaction_number": "66049",
+      "buyer": {
+        "last": "Jones",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 122,
+      "form_year": "2007",
+      "transaction_number": "66049",
+      "buyer": {
+        "last": "Jones",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 123,
+      "form_year": "2007",
+      "transaction_number": "66049",
+      "buyer": {
+        "last": "Jones",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 124,
+      "form_year": "1998",
+      "transaction_number": "65070",
+      "buyer": {
+        "last": "Waller",
+        "first": "Sarah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 125,
+      "form_year": "1998",
+      "transaction_number": "65070",
+      "buyer": {
+        "last": "Waller",
+        "first": "Sarah",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-10 308",
+          "serial": "SYE7H503XU3",
+          "type": "Rifle",
+          "caliber": "5.7x28mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 126,
+      "form_year": "2005",
+      "transaction_number": "075436",
+      "buyer": {
+        "last": "Martin",
+        "first": "Eric",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 127,
+      "form_year": "2005",
+      "transaction_number": "075436",
+      "buyer": {
+        "last": "Martin",
+        "first": "Eric",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Heckler & Koch",
+          "model": "VP9 OR",
+          "serial": "D1N7M7",
+          "type": "Pistol",
+          "caliber": ".45 ACP",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 128,
+      "form_year": "2005",
+      "transaction_number": "075436",
+      "buyer": {
+        "last": "Martin",
+        "first": "Eric",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 129,
+      "form_year": "2005",
+      "transaction_number": "075436",
+      "buyer": {
+        "last": "Martin",
+        "first": "Eric",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 130,
+      "form_year": "2001",
+      "transaction_number": "470356",
+      "buyer": {
+        "last": "Gutierrez II",
+        "first": "Julie",
+        "middle": "Alexis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 131,
+      "form_year": "2001",
+      "transaction_number": "470356",
+      "buyer": {
+        "last": "Gutierrez II",
+        "first": "Julie",
+        "middle": "Alexis"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Winchester Repeating",
+          "model": "SX4 Field",
+          "serial": "CB657165",
+          "type": "Shotgun",
+          "caliber": ".410 Bore",
+          "page": 2
+        },
+        {
+          "manufacturer": "Winchester Repeating",
+          "model": "SXP Defender",
+          "serial": "WH49712",
+          "type": "Shotgun",
+          "caliber": ".410 Bore",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 132,
+      "form_year": "2001",
+      "transaction_number": "470356",
+      "buyer": {
+        "last": "Gutierrez II",
+        "first": "Julie",
+        "middle": "Alexis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 133,
+      "form_year": "2001",
+      "transaction_number": "470356",
+      "buyer": {
+        "last": "Gutierrez II",
+        "first": "Julie",
+        "middle": "Alexis"
+      },
+      "firearms": []
+    },
+    {
+      "page": 134,
+      "form_year": "2016",
+      "transaction_number": "0582295",
+      "buyer": {
+        "last": "Carter",
+        "first": "Nicole",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 135,
+      "form_year": "2016",
+      "transaction_number": "0582295",
+      "buyer": {
+        "last": "Carter",
+        "first": "Nicole",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 136,
+      "form_year": "2016",
+      "transaction_number": "0582295",
+      "buyer": {
+        "last": "Carter",
+        "first": "Nicole",
+        "middle": "T."
+      },
+      "firearms": [
+        {
+          "manufacturer": "FN America",
+          "model": "FNX-9",
+          "serial": "3031-8977",
+          "type": "Pistol",
+          "caliber": "9x18mm Makarov",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 137,
+      "form_year": "2016",
+      "transaction_number": "0582295",
+      "buyer": {
+        "last": "Carter",
+        "first": "Nicole",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 138,
+      "form_year": "2016",
+      "transaction_number": "0582295",
+      "buyer": {
+        "last": "Carter",
+        "first": "Nicole",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 139,
+      "form_year": "2016",
+      "transaction_number": "0582295",
+      "buyer": {
+        "last": "Carter",
+        "first": "Nicole",
+        "middle": "T."
+      },
+      "firearms": []
+    },
+    {
+      "page": 140,
+      "form_year": "1985",
+      "transaction_number": "2406",
+      "buyer": {
+        "last": "Simmons II",
+        "first": "Karen",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-15",
+          "serial": "Z0T6T4F8N2",
+          "type": "Rifle",
+          "caliber": ".243 Win",
+          "page": 1
+        },
+        {
+          "manufacturer": "Beretta USA",
+          "model": "APX Carry",
+          "serial": "R9Z4H7",
+          "type": "Pistol",
+          "caliber": ".45 ACP",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 141,
+      "form_year": "2016",
+      "transaction_number": "67728",
+      "buyer": {
+        "last": "Horn Sr.",
+        "first": "Mary",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 142,
+      "form_year": "2016",
+      "transaction_number": "67728",
+      "buyer": {
+        "last": "Horn Sr.",
+        "first": "Mary",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 143,
+      "form_year": "2016",
+      "transaction_number": "67728",
+      "buyer": {
+        "last": "Horn Sr.",
+        "first": "Mary",
+        "middle": "Paul"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Springfield Armory",
+          "model": "XD-40",
+          "serial": "EBTZ376",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 144,
+      "form_year": "2016",
+      "transaction_number": "67728",
+      "buyer": {
+        "last": "Horn Sr.",
+        "first": "Mary",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 145,
+      "form_year": "2016",
+      "transaction_number": "67728",
+      "buyer": {
+        "last": "Horn Sr.",
+        "first": "Mary",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 146,
+      "form_year": "2016",
+      "transaction_number": "67728",
+      "buyer": {
+        "last": "Horn Sr.",
+        "first": "Mary",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 147,
+      "form_year": "1998",
+      "transaction_number": "7607284",
+      "buyer": {
+        "last": "Johnson",
+        "first": "Eric",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 148,
+      "form_year": "1998",
+      "transaction_number": "7607284",
+      "buyer": {
+        "last": "Johnson",
+        "first": "Eric",
+        "middle": "W."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sturm Ruger & Co.",
+          "model": "10/22",
+          "serial": "98998662",
+          "type": "Rifle",
+          "caliber": "5.7x28mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 149,
+      "form_year": "2005",
+      "transaction_number": "35143",
+      "buyer": {
+        "last": "Woods",
+        "first": "Jennifer",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 150,
+      "form_year": "2005",
+      "transaction_number": "35143",
+      "buyer": {
+        "last": "Woods",
+        "first": "Jennifer",
+        "middle": "K."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Daniel Defense",
+          "model": "DDM4 V7",
+          "serial": "15B71750",
+          "type": "Rifle",
+          "caliber": ".450 Bushmaster",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 151,
+      "form_year": "2005",
+      "transaction_number": "35143",
+      "buyer": {
+        "last": "Woods",
+        "first": "Jennifer",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 152,
+      "form_year": "2005",
+      "transaction_number": "35143",
+      "buyer": {
+        "last": "Woods",
+        "first": "Jennifer",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 153,
+      "form_year": "1985",
+      "transaction_number": "7442",
+      "buyer": {
+        "last": "Hurley",
+        "first": "Melissa",
+        "middle": "Jonathan"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Browning",
+          "model": "BPS Field Grade",
+          "serial": "EVVN567",
+          "type": "Shotgun",
+          "caliber": "12 Gauge",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 154,
+      "form_year": "2005",
+      "transaction_number": "93928",
+      "buyer": {
+        "last": "Hudson III",
+        "first": "Brandi",
+        "middle": "Kenneth"
+      },
+      "firearms": []
+    },
+    {
+      "page": 155,
+      "form_year": "2005",
+      "transaction_number": "93928",
+      "buyer": {
+        "last": "Hudson III",
+        "first": "Brandi",
+        "middle": "Kenneth"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "P380",
+          "serial": "NKR078854",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 156,
+      "form_year": "2005",
+      "transaction_number": "93928",
+      "buyer": {
+        "last": "Hudson III",
+        "first": "Brandi",
+        "middle": "Kenneth"
+      },
+      "firearms": []
+    },
+    {
+      "page": 157,
+      "form_year": "2005",
+      "transaction_number": "93928",
+      "buyer": {
+        "last": "Hudson III",
+        "first": "Brandi",
+        "middle": "Kenneth"
+      },
+      "firearms": []
+    },
+    {
+      "page": 158,
+      "form_year": "2016",
+      "transaction_number": "533422",
+      "buyer": {
+        "last": "Shaw",
+        "first": "Paula",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 159,
+      "form_year": "2016",
+      "transaction_number": "533422",
+      "buyer": {
+        "last": "Shaw",
+        "first": "Paula",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 160,
+      "form_year": "2016",
+      "transaction_number": "533422",
+      "buyer": {
+        "last": "Shaw",
+        "first": "Paula",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Daniel Defense",
+          "model": "Delta 5",
+          "serial": "BF6124",
+          "type": "Rifle",
+          "caliber": "7.62x39mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 161,
+      "form_year": "2016",
+      "transaction_number": "533422",
+      "buyer": {
+        "last": "Shaw",
+        "first": "Paula",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 162,
+      "form_year": "2016",
+      "transaction_number": "533422",
+      "buyer": {
+        "last": "Shaw",
+        "first": "Paula",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 163,
+      "form_year": "2016",
+      "transaction_number": "533422",
+      "buyer": {
+        "last": "Shaw",
+        "first": "Paula",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 164,
+      "form_year": "2005",
+      "transaction_number": "532238",
+      "buyer": {
+        "last": "Moore",
+        "first": "Carl",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 165,
+      "form_year": "2005",
+      "transaction_number": "532238",
+      "buyer": {
+        "last": "Moore",
+        "first": "Carl",
+        "middle": "A."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Savage Arms",
+          "model": "A22 Magnum",
+          "serial": "14Y65752",
+          "type": "Rifle",
+          "caliber": ".223 Rem/5.56mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 166,
+      "form_year": "2005",
+      "transaction_number": "532238",
+      "buyer": {
+        "last": "Moore",
+        "first": "Carl",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 167,
+      "form_year": "2005",
+      "transaction_number": "532238",
+      "buyer": {
+        "last": "Moore",
+        "first": "Carl",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 168,
+      "form_year": "2012",
+      "transaction_number": "3641",
+      "buyer": {
+        "last": "Anderson Jr.",
+        "first": "Xavier",
+        "middle": "D."
+      },
+      "firearms": []
+    },
+    {
+      "page": 169,
+      "form_year": "2012",
+      "transaction_number": "3641",
+      "buyer": {
+        "last": "Anderson Jr.",
+        "first": "Xavier",
+        "middle": "D."
+      },
+      "firearms": []
+    },
+    {
+      "page": 170,
+      "form_year": "2012",
+      "transaction_number": "3641",
+      "buyer": {
+        "last": "Anderson Jr.",
+        "first": "Xavier",
+        "middle": "D."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "CW45",
+          "serial": "B7H0J4",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 171,
+      "form_year": "2012",
+      "transaction_number": "3641",
+      "buyer": {
+        "last": "Anderson Jr.",
+        "first": "Xavier",
+        "middle": "D."
+      },
+      "firearms": []
+    },
+    {
+      "page": 172,
+      "form_year": "2012",
+      "transaction_number": "3641",
+      "buyer": {
+        "last": "Anderson Jr.",
+        "first": "Xavier",
+        "middle": "D."
+      },
+      "firearms": []
+    },
+    {
+      "page": 173,
+      "form_year": "2012",
+      "transaction_number": "3641",
+      "buyer": {
+        "last": "Anderson Jr.",
+        "first": "Xavier",
+        "middle": "D."
+      },
+      "firearms": []
+    },
+    {
+      "page": 174,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": [
+        {
+          "manufacturer": "FN America",
+          "model": "FNX-9",
+          "serial": "NE0535",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 175,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 176,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 177,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 178,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 179,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 180,
+      "form_year": "2022",
+      "transaction_number": "9409",
+      "buyer": {
+        "last": "Mckee",
+        "first": "Heather",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 181,
+      "form_year": "2012",
+      "transaction_number": "6306955",
+      "buyer": {
+        "last": "Douglas",
+        "first": "Dennis",
+        "middle": "Michael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 182,
+      "form_year": "2012",
+      "transaction_number": "6306955",
+      "buyer": {
+        "last": "Douglas",
+        "first": "Dennis",
+        "middle": "Michael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 183,
+      "form_year": "2012",
+      "transaction_number": "6306955",
+      "buyer": {
+        "last": "Douglas",
+        "first": "Dennis",
+        "middle": "Michael"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Glock Inc.",
+          "model": "G26",
+          "serial": "HRU598139",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 184,
+      "form_year": "2012",
+      "transaction_number": "6306955",
+      "buyer": {
+        "last": "Douglas",
+        "first": "Dennis",
+        "middle": "Michael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 185,
+      "form_year": "2012",
+      "transaction_number": "6306955",
+      "buyer": {
+        "last": "Douglas",
+        "first": "Dennis",
+        "middle": "Michael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 186,
+      "form_year": "2012",
+      "transaction_number": "6306955",
+      "buyer": {
+        "last": "Douglas",
+        "first": "Dennis",
+        "middle": "Michael"
+      },
+      "firearms": []
+    },
+    {
+      "page": 187,
+      "form_year": "2007",
+      "transaction_number": "77422",
+      "buyer": {
+        "last": "Carson",
+        "first": "Lauren",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 188,
+      "form_year": "2007",
+      "transaction_number": "77422",
+      "buyer": {
+        "last": "Carson",
+        "first": "Lauren",
+        "middle": "A."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Palmetto State Armory",
+          "model": "PA-15",
+          "serial": "A5F4D3A9",
+          "type": "Rifle",
+          "caliber": ".450 Bushmaster",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 189,
+      "form_year": "2007",
+      "transaction_number": "77422",
+      "buyer": {
+        "last": "Carson",
+        "first": "Lauren",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 190,
+      "form_year": "2007",
+      "transaction_number": "77422",
+      "buyer": {
+        "last": "Carson",
+        "first": "Lauren",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 191,
+      "form_year": "2007",
+      "transaction_number": "77422",
+      "buyer": {
+        "last": "Carson",
+        "first": "Lauren",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 192,
+      "form_year": "2007",
+      "transaction_number": "77422",
+      "buyer": {
+        "last": "Carson",
+        "first": "Lauren",
+        "middle": "A."
+      },
+      "firearms": []
+    },
+    {
+      "page": 193,
+      "form_year": "2016",
+      "transaction_number": "259646",
+      "buyer": {
+        "last": "Smith",
+        "first": "Teresa",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 194,
+      "form_year": "2016",
+      "transaction_number": "259646",
+      "buyer": {
+        "last": "Smith",
+        "first": "Teresa",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 195,
+      "form_year": "2016",
+      "transaction_number": "259646",
+      "buyer": {
+        "last": "Smith",
+        "first": "Teresa",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Ultra Carry II",
+          "serial": "31A7884",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 196,
+      "form_year": "2016",
+      "transaction_number": "259646",
+      "buyer": {
+        "last": "Smith",
+        "first": "Teresa",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 197,
+      "form_year": "2016",
+      "transaction_number": "259646",
+      "buyer": {
+        "last": "Smith",
+        "first": "Teresa",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 198,
+      "form_year": "2016",
+      "transaction_number": "259646",
+      "buyer": {
+        "last": "Smith",
+        "first": "Teresa",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 199,
+      "form_year": "1985",
+      "transaction_number": "17024",
+      "buyer": {
+        "last": "Perry II",
+        "first": "Jason",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Colt Manufacturing",
+          "model": "King Cobra",
+          "serial": "032WX7163",
+          "type": "Revolver",
+          "caliber": ".357 Magnum",
+          "page": 1
+        },
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Bulldog Classic",
+          "serial": "AP0480",
+          "type": "Revolver",
+          "caliber": ".38 Special",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 200,
+      "form_year": "2008",
+      "transaction_number": "2270756",
+      "buyer": {
+        "last": "Jenkins",
+        "first": "Alex",
+        "middle": "Kevin"
+      },
+      "firearms": []
+    },
+    {
+      "page": 201,
+      "form_year": "2008",
+      "transaction_number": "2270756",
+      "buyer": {
+        "last": "Jenkins",
+        "first": "Alex",
+        "middle": "Kevin"
+      },
+      "firearms": []
+    },
+    {
+      "page": 202,
+      "form_year": "2008",
+      "transaction_number": "2270756",
+      "buyer": {
+        "last": "Jenkins",
+        "first": "Alex",
+        "middle": "Kevin"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Daniel Defense",
+          "model": "DDM4 V7",
+          "serial": "DZY998",
+          "type": "Rifle",
+          "caliber": ".223 Rem/5.56mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 203,
+      "form_year": "2008",
+      "transaction_number": "2270756",
+      "buyer": {
+        "last": "Jenkins",
+        "first": "Alex",
+        "middle": "Kevin"
+      },
+      "firearms": []
+    },
+    {
+      "page": 204,
+      "form_year": "2008",
+      "transaction_number": "2270756",
+      "buyer": {
+        "last": "Jenkins",
+        "first": "Alex",
+        "middle": "Kevin"
+      },
+      "firearms": []
+    },
+    {
+      "page": 205,
+      "form_year": "2008",
+      "transaction_number": "2270756",
+      "buyer": {
+        "last": "Jenkins",
+        "first": "Alex",
+        "middle": "Kevin"
+      },
+      "firearms": []
+    },
+    {
+      "page": 206,
+      "form_year": "1985",
+      "transaction_number": "137225",
+      "buyer": {
+        "last": "Daniel",
+        "first": "Robert",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Pro Carry II",
+          "serial": "Z7FL0UYXYZ",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 207,
+      "form_year": "2020",
+      "transaction_number": "2746",
+      "buyer": {
+        "last": "Jones Sr.",
+        "first": "Nichole",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Heckler & Koch",
+          "model": "VP9 OR",
+          "serial": "HNNG198",
+          "type": "Pistol",
+          "caliber": ".22 LR",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 208,
+      "form_year": "2020",
+      "transaction_number": "2746",
+      "buyer": {
+        "last": "Jones Sr.",
+        "first": "Nichole",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 209,
+      "form_year": "2020",
+      "transaction_number": "2746",
+      "buyer": {
+        "last": "Jones Sr.",
+        "first": "Nichole",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 210,
+      "form_year": "2020",
+      "transaction_number": "2746",
+      "buyer": {
+        "last": "Jones Sr.",
+        "first": "Nichole",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 211,
+      "form_year": "2020",
+      "transaction_number": "2746",
+      "buyer": {
+        "last": "Jones Sr.",
+        "first": "Nichole",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 212,
+      "form_year": "2020",
+      "transaction_number": "2746",
+      "buyer": {
+        "last": "Jones Sr.",
+        "first": "Nichole",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 213,
+      "form_year": "2020",
+      "transaction_number": "621616",
+      "buyer": {
+        "last": "Taylor",
+        "first": "Dawn",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Off Duty",
+          "serial": "TRUU376",
+          "type": "Revolver",
+          "caliber": ".38 Special",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 214,
+      "form_year": "2020",
+      "transaction_number": "621616",
+      "buyer": {
+        "last": "Taylor",
+        "first": "Dawn",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 215,
+      "form_year": "2020",
+      "transaction_number": "621616",
+      "buyer": {
+        "last": "Taylor",
+        "first": "Dawn",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 216,
+      "form_year": "2020",
+      "transaction_number": "621616",
+      "buyer": {
+        "last": "Taylor",
+        "first": "Dawn",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 217,
+      "form_year": "2020",
+      "transaction_number": "621616",
+      "buyer": {
+        "last": "Taylor",
+        "first": "Dawn",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 218,
+      "form_year": "2020",
+      "transaction_number": "621616",
+      "buyer": {
+        "last": "Taylor",
+        "first": "Dawn",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 219,
+      "form_year": "2016",
+      "transaction_number": "5378",
+      "buyer": {
+        "last": "Crawford",
+        "first": "Eric",
+        "middle": "Mindy"
+      },
+      "firearms": []
+    },
+    {
+      "page": 220,
+      "form_year": "2016",
+      "transaction_number": "5378",
+      "buyer": {
+        "last": "Crawford",
+        "first": "Eric",
+        "middle": "Mindy"
+      },
+      "firearms": []
+    },
+    {
+      "page": 221,
+      "form_year": "2016",
+      "transaction_number": "5378",
+      "buyer": {
+        "last": "Crawford",
+        "first": "Eric",
+        "middle": "Mindy"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Palmetto State Armory",
+          "model": "AK-V",
+          "serial": "B84846",
+          "type": "Rifle",
+          "caliber": ".223 Rem/5.56mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 222,
+      "form_year": "2016",
+      "transaction_number": "5378",
+      "buyer": {
+        "last": "Crawford",
+        "first": "Eric",
+        "middle": "Mindy"
+      },
+      "firearms": []
+    },
+    {
+      "page": 223,
+      "form_year": "2016",
+      "transaction_number": "5378",
+      "buyer": {
+        "last": "Crawford",
+        "first": "Eric",
+        "middle": "Mindy"
+      },
+      "firearms": []
+    },
+    {
+      "page": 224,
+      "form_year": "2016",
+      "transaction_number": "5378",
+      "buyer": {
+        "last": "Crawford",
+        "first": "Eric",
+        "middle": "Mindy"
+      },
+      "firearms": []
+    },
+    {
+      "page": 225,
+      "form_year": "1998",
+      "transaction_number": "2345013",
+      "buyer": {
+        "last": "Craig III",
+        "first": "Ryan",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 226,
+      "form_year": "1998",
+      "transaction_number": "2345013",
+      "buyer": {
+        "last": "Craig III",
+        "first": "Ryan",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "500 Flex",
+          "serial": "VW01592",
+          "type": "Shotgun",
+          "caliber": "20 Gauge",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 227,
+      "form_year": "2020",
+      "transaction_number": "3767214",
+      "buyer": {
+        "last": "Norman II",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Colt Manufacturing",
+          "model": "Government 1911",
+          "serial": "847YT9546",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 1
+        },
+        {
+          "manufacturer": "Springfield Armory",
+          "model": "XD-40",
+          "serial": "4141U01854",
+          "type": "Pistol",
+          "caliber": ".40 S&W",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 228,
+      "form_year": "2020",
+      "transaction_number": "3767214",
+      "buyer": {
+        "last": "Norman II",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 229,
+      "form_year": "2020",
+      "transaction_number": "3767214",
+      "buyer": {
+        "last": "Norman II",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 230,
+      "form_year": "2020",
+      "transaction_number": "3767214",
+      "buyer": {
+        "last": "Norman II",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 231,
+      "form_year": "2020",
+      "transaction_number": "3767214",
+      "buyer": {
+        "last": "Norman II",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 232,
+      "form_year": "2020",
+      "transaction_number": "3767214",
+      "buyer": {
+        "last": "Norman II",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 233,
+      "form_year": "2001",
+      "transaction_number": "82072",
+      "buyer": {
+        "last": "Forbes Sr.",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 234,
+      "form_year": "2001",
+      "transaction_number": "82072",
+      "buyer": {
+        "last": "Forbes Sr.",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sturm Ruger & Co.",
+          "model": "American Pistol",
+          "serial": "SESH703",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 235,
+      "form_year": "2001",
+      "transaction_number": "82072",
+      "buyer": {
+        "last": "Forbes Sr.",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 236,
+      "form_year": "2001",
+      "transaction_number": "82072",
+      "buyer": {
+        "last": "Forbes Sr.",
+        "first": "Lori",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 237,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Winchester Repeating",
+          "model": "SX4 Field",
+          "serial": "ET-342186",
+          "type": "Shotgun",
+          "caliber": "20 Gauge",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 238,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 239,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 240,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 241,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 242,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 243,
+      "form_year": "2022",
+      "transaction_number": "4728",
+      "buyer": {
+        "last": "Jackson III",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 244,
+      "form_year": "2016",
+      "transaction_number": "243138",
+      "buyer": {
+        "last": "Contreras Jr.",
+        "first": "Jerry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 245,
+      "form_year": "2016",
+      "transaction_number": "243138",
+      "buyer": {
+        "last": "Contreras Jr.",
+        "first": "Jerry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 246,
+      "form_year": "2016",
+      "transaction_number": "243138",
+      "buyer": {
+        "last": "Contreras Jr.",
+        "first": "Jerry",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "P380",
+          "serial": "N6U9H3",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 247,
+      "form_year": "2016",
+      "transaction_number": "243138",
+      "buyer": {
+        "last": "Contreras Jr.",
+        "first": "Jerry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 248,
+      "form_year": "2016",
+      "transaction_number": "243138",
+      "buyer": {
+        "last": "Contreras Jr.",
+        "first": "Jerry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 249,
+      "form_year": "2016",
+      "transaction_number": "243138",
+      "buyer": {
+        "last": "Contreras Jr.",
+        "first": "Jerry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 250,
+      "form_year": "2016",
+      "transaction_number": "0963060",
+      "buyer": {
+        "last": "Williams II",
+        "first": "John",
+        "middle": "Victoria"
+      },
+      "firearms": []
+    },
+    {
+      "page": 251,
+      "form_year": "2016",
+      "transaction_number": "0963060",
+      "buyer": {
+        "last": "Williams II",
+        "first": "John",
+        "middle": "Victoria"
+      },
+      "firearms": []
+    },
+    {
+      "page": 252,
+      "form_year": "2016",
+      "transaction_number": "0963060",
+      "buyer": {
+        "last": "Williams II",
+        "first": "John",
+        "middle": "Victoria"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Canik",
+          "model": "METE SF",
+          "serial": "W6799366",
+          "type": "Pistol",
+          "caliber": ".45 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 253,
+      "form_year": "2016",
+      "transaction_number": "0963060",
+      "buyer": {
+        "last": "Williams II",
+        "first": "John",
+        "middle": "Victoria"
+      },
+      "firearms": []
+    },
+    {
+      "page": 254,
+      "form_year": "2016",
+      "transaction_number": "0963060",
+      "buyer": {
+        "last": "Williams II",
+        "first": "John",
+        "middle": "Victoria"
+      },
+      "firearms": []
+    },
+    {
+      "page": 255,
+      "form_year": "2016",
+      "transaction_number": "0963060",
+      "buyer": {
+        "last": "Williams II",
+        "first": "John",
+        "middle": "Victoria"
+      },
+      "firearms": []
+    },
+    {
+      "page": 256,
+      "form_year": "2016",
+      "transaction_number": "644771",
+      "buyer": {
+        "last": "Davis II",
+        "first": "William",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 257,
+      "form_year": "2016",
+      "transaction_number": "644771",
+      "buyer": {
+        "last": "Davis II",
+        "first": "William",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 258,
+      "form_year": "2016",
+      "transaction_number": "644771",
+      "buyer": {
+        "last": "Davis II",
+        "first": "William",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Canik",
+          "model": "METE SF",
+          "serial": "8X87068",
+          "type": "Pistol",
+          "caliber": ".32 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 259,
+      "form_year": "2016",
+      "transaction_number": "644771",
+      "buyer": {
+        "last": "Davis II",
+        "first": "William",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 260,
+      "form_year": "2016",
+      "transaction_number": "644771",
+      "buyer": {
+        "last": "Davis II",
+        "first": "William",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 261,
+      "form_year": "2016",
+      "transaction_number": "644771",
+      "buyer": {
+        "last": "Davis II",
+        "first": "William",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 262,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Walther Arms",
+          "model": "PDP Full Size",
+          "serial": "753BM8394",
+          "type": "Pistol",
+          "caliber": ".40 S&W",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 263,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 264,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 265,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 266,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 267,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 268,
+      "form_year": "2023",
+      "transaction_number": "847150",
+      "buyer": {
+        "last": "Collins",
+        "first": "Mason",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 269,
+      "form_year": "2008",
+      "transaction_number": "54202",
+      "buyer": {
+        "last": "Hernandez III",
+        "first": "Jason",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 270,
+      "form_year": "2008",
+      "transaction_number": "54202",
+      "buyer": {
+        "last": "Hernandez III",
+        "first": "Jason",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 271,
+      "form_year": "2008",
+      "transaction_number": "54202",
+      "buyer": {
+        "last": "Hernandez III",
+        "first": "Jason",
+        "middle": "M."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Walther Arms",
+          "model": "CCP M2",
+          "serial": "231U770486",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 272,
+      "form_year": "2008",
+      "transaction_number": "54202",
+      "buyer": {
+        "last": "Hernandez III",
+        "first": "Jason",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 273,
+      "form_year": "2008",
+      "transaction_number": "54202",
+      "buyer": {
+        "last": "Hernandez III",
+        "first": "Jason",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 274,
+      "form_year": "2008",
+      "transaction_number": "54202",
+      "buyer": {
+        "last": "Hernandez III",
+        "first": "Jason",
+        "middle": "M."
+      },
+      "firearms": []
+    },
+    {
+      "page": 275,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Taurus International",
+          "model": "G2C",
+          "serial": "22W37361",
+          "type": "Pistol",
+          "caliber": ".45 ACP",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 276,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 277,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 278,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 279,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 280,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 281,
+      "form_year": "2022",
+      "transaction_number": "8246",
+      "buyer": {
+        "last": "Beck",
+        "first": "Sandra",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 282,
+      "form_year": "2016",
+      "transaction_number": "834209",
+      "buyer": {
+        "last": "West II",
+        "first": "Victoria",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 283,
+      "form_year": "2016",
+      "transaction_number": "834209",
+      "buyer": {
+        "last": "West II",
+        "first": "Victoria",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 284,
+      "form_year": "2016",
+      "transaction_number": "834209",
+      "buyer": {
+        "last": "West II",
+        "first": "Victoria",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Savage Arms",
+          "model": "Mark II FV-SR",
+          "serial": "SZGJ039",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 3
+        },
+        {
+          "manufacturer": "Smith & Wesson",
+          "model": "686",
+          "serial": "6655172",
+          "type": "Revolver",
+          "caliber": ".44 Magnum",
+          "page": 3
+        },
+        {
+          "manufacturer": "Aero Precision",
+          "model": "Solus",
+          "serial": "J0E0W2K4P5",
+          "type": "Rifle",
+          "caliber": ".243 Win",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 285,
+      "form_year": "2016",
+      "transaction_number": "834209",
+      "buyer": {
+        "last": "West II",
+        "first": "Victoria",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 286,
+      "form_year": "2016",
+      "transaction_number": "834209",
+      "buyer": {
+        "last": "West II",
+        "first": "Victoria",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 287,
+      "form_year": "2016",
+      "transaction_number": "834209",
+      "buyer": {
+        "last": "West II",
+        "first": "Victoria",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 288,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Colt Manufacturing",
+          "model": "Mustang Plus II",
+          "serial": "C051173",
+          "type": "Pistol",
+          "caliber": ".40 S&W",
+          "page": 1
+        },
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Undercover Lite",
+          "serial": "485899366",
+          "type": "Revolver",
+          "caliber": ".45 Colt",
+          "page": 1
+        },
+        {
+          "manufacturer": "Rock Island Armory",
+          "model": "M206",
+          "serial": "9V06208",
+          "type": "Revolver",
+          "caliber": ".38 Special",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 289,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 290,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 291,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 292,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 293,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 294,
+      "form_year": "2020",
+      "transaction_number": "8299886",
+      "buyer": {
+        "last": "Lopez Jr.",
+        "first": "Alison",
+        "middle": "C."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Palmetto State Armory",
+          "model": "PA-10",
+          "serial": "2636G1ZLVP7",
+          "type": "Rifle",
+          "caliber": ".300 Win Mag",
+          "page": 7
+        },
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-15",
+          "serial": "D77386",
+          "type": "Rifle",
+          "caliber": ".243 Win",
+          "page": 7
+        },
+        {
+          "manufacturer": "Sig Sauer",
+          "model": "P938 Equinox",
+          "serial": "Y416D7C2UGUV",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 7
+        },
+        {
+          "manufacturer": "Daniel Defense",
+          "model": "DDM4 PDW",
+          "serial": "5110-8516",
+          "type": "Rifle",
+          "caliber": ".308 Win/7.62mm",
+          "page": 7
+        },
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Off Duty",
+          "serial": "XK4HCG97K4H",
+          "type": "Revolver",
+          "caliber": ".38 Special",
+          "page": 7
+        },
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Custom II",
+          "serial": "AZAP4K1ARU",
+          "type": "Pistol",
+          "caliber": "9x18mm Makarov",
+          "page": 7
+        },
+        {
+          "manufacturer": "Taurus International",
+          "model": "Judge Public Defender",
+          "serial": "N9533372",
+          "type": "Revolver",
+          "caliber": ".22 LR",
+          "page": 7
+        },
+        {
+          "manufacturer": "Beretta USA",
+          "model": "CX4 Storm",
+          "serial": "7DKR9UYTDPC",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 7
+        },
+        {
+          "manufacturer": "Remington Arms",
+          "model": "V3 Tac-13",
+          "serial": "HE065727",
+          "type": "Shotgun",
+          "caliber": "16 Gauge",
+          "page": 7
+        },
+        {
+          "manufacturer": "Palmetto State Armory",
+          "model": "PA-15",
+          "serial": "RPCK798",
+          "type": "Rifle",
+          "caliber": ".308 Win/7.62mm",
+          "page": 7
+        },
+        {
+          "manufacturer": "Remington Arms",
+          "model": "1100 Sporting",
+          "serial": "14A10685",
+          "type": "Shotgun",
+          "caliber": "20 Gauge",
+          "page": 7
+        },
+        {
+          "manufacturer": "Smith & Wesson",
+          "model": "642",
+          "serial": "T41474",
+          "type": "Revolver",
+          "caliber": ".45 Colt",
+          "page": 7
+        },
+        {
+          "manufacturer": "Aero Precision",
+          "model": "M5 308",
+          "serial": "LSB356980",
+          "type": "Rifle",
+          "caliber": "7.62x39mm",
+          "page": 7
+        },
+        {
+          "manufacturer": "Aero Precision",
+          "model": "Solus",
+          "serial": "D-657828",
+          "type": "Rifle",
+          "caliber": ".223 Rem/5.56mm",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "page": 295,
+      "form_year": "2012",
+      "transaction_number": "7919358",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Jose",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 296,
+      "form_year": "2012",
+      "transaction_number": "7919358",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Jose",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 297,
+      "form_year": "2012",
+      "transaction_number": "7919358",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Jose",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "CM9",
+          "serial": "6238633",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 3
+        },
+        {
+          "manufacturer": "Canik",
+          "model": "TP9SF",
+          "serial": "51960748",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 298,
+      "form_year": "2012",
+      "transaction_number": "7919358",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Jose",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 299,
+      "form_year": "2012",
+      "transaction_number": "7919358",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Jose",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 300,
+      "form_year": "2012",
+      "transaction_number": "7919358",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Jose",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 301,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Pro Carry II",
+          "serial": "LF5336",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 1
+        },
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Custom II",
+          "serial": "RX6HH11F9B",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 302,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 303,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 304,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 305,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 306,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 307,
+      "form_year": "2023",
+      "transaction_number": "1535",
+      "buyer": {
+        "last": "Ritter III",
+        "first": "Whitney",
+        "middle": "Paul"
+      },
+      "firearms": []
+    },
+    {
+      "page": 308,
+      "form_year": "2007",
+      "transaction_number": "1545332",
+      "buyer": {
+        "last": "Sanchez III",
+        "first": "Stephanie",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 309,
+      "form_year": "2007",
+      "transaction_number": "1545332",
+      "buyer": {
+        "last": "Sanchez III",
+        "first": "Stephanie",
+        "middle": "S."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-15",
+          "serial": "3563022",
+          "type": "Rifle",
+          "caliber": ".22 LR",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 310,
+      "form_year": "2007",
+      "transaction_number": "1545332",
+      "buyer": {
+        "last": "Sanchez III",
+        "first": "Stephanie",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 311,
+      "form_year": "2007",
+      "transaction_number": "1545332",
+      "buyer": {
+        "last": "Sanchez III",
+        "first": "Stephanie",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 312,
+      "form_year": "2007",
+      "transaction_number": "1545332",
+      "buyer": {
+        "last": "Sanchez III",
+        "first": "Stephanie",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 313,
+      "form_year": "2007",
+      "transaction_number": "1545332",
+      "buyer": {
+        "last": "Sanchez III",
+        "first": "Stephanie",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 314,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Walther Arms",
+          "model": "PPQ M2 Navy",
+          "serial": "44280455",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 315,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 316,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 317,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 318,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 319,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 320,
+      "form_year": "2022",
+      "transaction_number": "7567138",
+      "buyer": {
+        "last": "Jones",
+        "first": "Laura",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 321,
+      "form_year": "2001",
+      "transaction_number": "840486",
+      "buyer": {
+        "last": "Larson Sr.",
+        "first": "Ryan",
+        "middle": "Kayla"
+      },
+      "firearms": []
+    },
+    {
+      "page": 322,
+      "form_year": "2001",
+      "transaction_number": "840486",
+      "buyer": {
+        "last": "Larson Sr.",
+        "first": "Ryan",
+        "middle": "Kayla"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Savage Arms",
+          "model": "A22 Magnum",
+          "serial": "TVN600",
+          "type": "Rifle",
+          "caliber": ".22 LR",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 323,
+      "form_year": "2001",
+      "transaction_number": "840486",
+      "buyer": {
+        "last": "Larson Sr.",
+        "first": "Ryan",
+        "middle": "Kayla"
+      },
+      "firearms": []
+    },
+    {
+      "page": 324,
+      "form_year": "2001",
+      "transaction_number": "840486",
+      "buyer": {
+        "last": "Larson Sr.",
+        "first": "Ryan",
+        "middle": "Kayla"
+      },
+      "firearms": []
+    },
+    {
+      "page": 325,
+      "form_year": "1998",
+      "transaction_number": "93097",
+      "buyer": {
+        "last": "Hill II",
+        "first": "Kathleen",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 326,
+      "form_year": "1998",
+      "transaction_number": "93097",
+      "buyer": {
+        "last": "Hill II",
+        "first": "Kathleen",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Savage Arms",
+          "model": "A22 Magnum",
+          "serial": "7580-7865",
+          "type": "Rifle",
+          "caliber": ".22 LR",
+          "page": 2
+        },
+        {
+          "manufacturer": "Canik",
+          "model": "TP9 Elite Combat",
+          "serial": "5239A5756",
+          "type": "Pistol",
+          "caliber": ".22 LR",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 327,
+      "form_year": "2008",
+      "transaction_number": "68936",
+      "buyer": {
+        "last": "Carrillo",
+        "first": "Amy",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 328,
+      "form_year": "2008",
+      "transaction_number": "68936",
+      "buyer": {
+        "last": "Carrillo",
+        "first": "Amy",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 329,
+      "form_year": "2008",
+      "transaction_number": "68936",
+      "buyer": {
+        "last": "Carrillo",
+        "first": "Amy",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Canik",
+          "model": "TP9SF",
+          "serial": "JLEM70A3X2",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 3
+        },
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Ultra Carry II",
+          "serial": "41E18300",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 330,
+      "form_year": "2008",
+      "transaction_number": "68936",
+      "buyer": {
+        "last": "Carrillo",
+        "first": "Amy",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 331,
+      "form_year": "2008",
+      "transaction_number": "68936",
+      "buyer": {
+        "last": "Carrillo",
+        "first": "Amy",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 332,
+      "form_year": "2008",
+      "transaction_number": "68936",
+      "buyer": {
+        "last": "Carrillo",
+        "first": "Amy",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 333,
+      "form_year": "1998",
+      "transaction_number": "5757",
+      "buyer": {
+        "last": "Lucas",
+        "first": "Amy",
+        "middle": "B."
+      },
+      "firearms": []
+    },
+    {
+      "page": 334,
+      "form_year": "1998",
+      "transaction_number": "5757",
+      "buyer": {
+        "last": "Lucas",
+        "first": "Amy",
+        "middle": "B."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sturm Ruger & Co.",
+          "model": "10/22",
+          "serial": "JZL490949",
+          "type": "Rifle",
+          "caliber": ".243 Win",
+          "page": 2
+        },
+        {
+          "manufacturer": "Beretta USA",
+          "model": "92FS Inox",
+          "serial": "BB5846",
+          "type": "Pistol",
+          "caliber": "9x18mm Makarov",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 335,
+      "form_year": "2008",
+      "transaction_number": "64040",
+      "buyer": {
+        "last": "Peters",
+        "first": "Kimberly",
+        "middle": "Bobby"
+      },
+      "firearms": []
+    },
+    {
+      "page": 336,
+      "form_year": "2008",
+      "transaction_number": "64040",
+      "buyer": {
+        "last": "Peters",
+        "first": "Kimberly",
+        "middle": "Bobby"
+      },
+      "firearms": []
+    },
+    {
+      "page": 337,
+      "form_year": "2008",
+      "transaction_number": "64040",
+      "buyer": {
+        "last": "Peters",
+        "first": "Kimberly",
+        "middle": "Bobby"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-10 308",
+          "serial": "Z4P6N9W6",
+          "type": "Rifle",
+          "caliber": ".308 Win/7.62mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 338,
+      "form_year": "2008",
+      "transaction_number": "64040",
+      "buyer": {
+        "last": "Peters",
+        "first": "Kimberly",
+        "middle": "Bobby"
+      },
+      "firearms": []
+    },
+    {
+      "page": 339,
+      "form_year": "2008",
+      "transaction_number": "64040",
+      "buyer": {
+        "last": "Peters",
+        "first": "Kimberly",
+        "middle": "Bobby"
+      },
+      "firearms": []
+    },
+    {
+      "page": 340,
+      "form_year": "2008",
+      "transaction_number": "64040",
+      "buyer": {
+        "last": "Peters",
+        "first": "Kimberly",
+        "middle": "Bobby"
+      },
+      "firearms": []
+    },
+    {
+      "page": 341,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sig Sauer",
+          "model": "P365 XL",
+          "serial": "S89043932",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 342,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 343,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 344,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 345,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 346,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 347,
+      "form_year": "2022",
+      "transaction_number": "5986262",
+      "buyer": {
+        "last": "Wright Sr.",
+        "first": "John",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 348,
+      "form_year": "2020",
+      "transaction_number": "8526514",
+      "buyer": {
+        "last": "Howard",
+        "first": "Heidi",
+        "middle": "C."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "590 Shockwave",
+          "serial": "606JG0804",
+          "type": "Shotgun",
+          "caliber": "16 Gauge",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 349,
+      "form_year": "2020",
+      "transaction_number": "8526514",
+      "buyer": {
+        "last": "Howard",
+        "first": "Heidi",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 350,
+      "form_year": "2020",
+      "transaction_number": "8526514",
+      "buyer": {
+        "last": "Howard",
+        "first": "Heidi",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 351,
+      "form_year": "2020",
+      "transaction_number": "8526514",
+      "buyer": {
+        "last": "Howard",
+        "first": "Heidi",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 352,
+      "form_year": "2020",
+      "transaction_number": "8526514",
+      "buyer": {
+        "last": "Howard",
+        "first": "Heidi",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 353,
+      "form_year": "2020",
+      "transaction_number": "8526514",
+      "buyer": {
+        "last": "Howard",
+        "first": "Heidi",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 354,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Walther Arms",
+          "model": "CCP M2",
+          "serial": "558996183",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 355,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 356,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 357,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 358,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 359,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 360,
+      "form_year": "2022",
+      "transaction_number": "9966846",
+      "buyer": {
+        "last": "White II",
+        "first": "Jennifer",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 361,
+      "form_year": "1985",
+      "transaction_number": "1075552",
+      "buyer": {
+        "last": "Osborne Jr.",
+        "first": "Lynn",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Eclipse Custom II",
+          "serial": "3215-3555",
+          "type": "Pistol",
+          "caliber": ".32 ACP",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 362,
+      "form_year": "1985",
+      "transaction_number": "85173",
+      "buyer": {
+        "last": "Mason",
+        "first": "Shaun",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "CZ-USA",
+          "model": "P-07 Suppressor-Ready",
+          "serial": "J-9807736",
+          "type": "Pistol",
+          "caliber": ".32 ACP",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 363,
+      "form_year": "2020",
+      "transaction_number": "328998",
+      "buyer": {
+        "last": "Peterson III",
+        "first": "Thomas",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Canik",
+          "model": "TP9SA",
+          "serial": "JD3UDZJWX65",
+          "type": "Pistol",
+          "caliber": ".22 LR",
+          "page": 1
+        },
+        {
+          "manufacturer": "Savage Arms",
+          "model": "A22 Magnum",
+          "serial": "EL-537973",
+          "type": "Rifle",
+          "caliber": ".22 LR",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 364,
+      "form_year": "2020",
+      "transaction_number": "328998",
+      "buyer": {
+        "last": "Peterson III",
+        "first": "Thomas",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 365,
+      "form_year": "2020",
+      "transaction_number": "328998",
+      "buyer": {
+        "last": "Peterson III",
+        "first": "Thomas",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 366,
+      "form_year": "2020",
+      "transaction_number": "328998",
+      "buyer": {
+        "last": "Peterson III",
+        "first": "Thomas",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 367,
+      "form_year": "2020",
+      "transaction_number": "328998",
+      "buyer": {
+        "last": "Peterson III",
+        "first": "Thomas",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 368,
+      "form_year": "2020",
+      "transaction_number": "328998",
+      "buyer": {
+        "last": "Peterson III",
+        "first": "Thomas",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 369,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Daniel Defense",
+          "model": "DDM4 PDW",
+          "serial": "BH6668",
+          "type": "Rifle",
+          "caliber": ".308 Win/7.62mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 370,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 371,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 372,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 373,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 374,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 375,
+      "form_year": "2022",
+      "transaction_number": "9019",
+      "buyer": {
+        "last": "Wise Sr.",
+        "first": "Ashley",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 376,
+      "form_year": "2016",
+      "transaction_number": "66536",
+      "buyer": {
+        "last": "Nelson",
+        "first": "Joshua",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 377,
+      "form_year": "2016",
+      "transaction_number": "66536",
+      "buyer": {
+        "last": "Nelson",
+        "first": "Joshua",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 378,
+      "form_year": "2016",
+      "transaction_number": "66536",
+      "buyer": {
+        "last": "Nelson",
+        "first": "Joshua",
+        "middle": "S."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Palmetto State Armory",
+          "model": "AK-V",
+          "serial": "18G01776",
+          "type": "Rifle",
+          "caliber": ".223 Rem/5.56mm",
+          "page": 3
+        },
+        {
+          "manufacturer": "Springfield Armory",
+          "model": "Hellcat OSP",
+          "serial": "S1844089",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 379,
+      "form_year": "2016",
+      "transaction_number": "66536",
+      "buyer": {
+        "last": "Nelson",
+        "first": "Joshua",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 380,
+      "form_year": "2016",
+      "transaction_number": "66536",
+      "buyer": {
+        "last": "Nelson",
+        "first": "Joshua",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 381,
+      "form_year": "2016",
+      "transaction_number": "66536",
+      "buyer": {
+        "last": "Nelson",
+        "first": "Joshua",
+        "middle": "S."
+      },
+      "firearms": []
+    },
+    {
+      "page": 382,
+      "form_year": "2005",
+      "transaction_number": "1102349",
+      "buyer": {
+        "last": "Burke",
+        "first": "Anita",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 383,
+      "form_year": "2005",
+      "transaction_number": "1102349",
+      "buyer": {
+        "last": "Burke",
+        "first": "Anita",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "FN America",
+          "model": "FNX-9",
+          "serial": "MWE-1356",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 2
+        },
+        {
+          "manufacturer": "Colt Manufacturing",
+          "model": "Government 1911",
+          "serial": "136B67900",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 2
+        },
+        {
+          "manufacturer": "Beretta USA",
+          "model": "M9A3",
+          "serial": "XDBN324",
+          "type": "Pistol",
+          "caliber": ".22 LR",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 384,
+      "form_year": "2005",
+      "transaction_number": "1102349",
+      "buyer": {
+        "last": "Burke",
+        "first": "Anita",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 385,
+      "form_year": "2005",
+      "transaction_number": "1102349",
+      "buyer": {
+        "last": "Burke",
+        "first": "Anita",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 386,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "500 Flex",
+          "serial": "X227840",
+          "type": "Shotgun",
+          "caliber": "12 Gauge",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 387,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": []
+    },
+    {
+      "page": 388,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": []
+    },
+    {
+      "page": 389,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": []
+    },
+    {
+      "page": 390,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": []
+    },
+    {
+      "page": 391,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": []
+    },
+    {
+      "page": 392,
+      "form_year": "2022",
+      "transaction_number": "38738",
+      "buyer": {
+        "last": "Carter Sr.",
+        "first": "Danielle",
+        "middle": "Robert"
+      },
+      "firearms": []
+    },
+    {
+      "page": 393,
+      "form_year": "1998",
+      "transaction_number": "066040",
+      "buyer": {
+        "last": "Davis III",
+        "first": "Leah",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 394,
+      "form_year": "1998",
+      "transaction_number": "066040",
+      "buyer": {
+        "last": "Davis III",
+        "first": "Leah",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Smith & Wesson",
+          "model": "Model 60",
+          "serial": "ZTX8252",
+          "type": "Revolver",
+          "caliber": ".38 Special",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 395,
+      "form_year": "2007",
+      "transaction_number": "24261",
+      "buyer": {
+        "last": "Briggs",
+        "first": "Mary",
+        "middle": "Eileen"
+      },
+      "firearms": []
+    },
+    {
+      "page": 396,
+      "form_year": "2007",
+      "transaction_number": "24261",
+      "buyer": {
+        "last": "Briggs",
+        "first": "Mary",
+        "middle": "Eileen"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Sig Sauer",
+          "model": "P229 Nitron",
+          "serial": "ET25HSPMNL",
+          "type": "Pistol",
+          "caliber": "9x18mm Makarov",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 397,
+      "form_year": "2007",
+      "transaction_number": "24261",
+      "buyer": {
+        "last": "Briggs",
+        "first": "Mary",
+        "middle": "Eileen"
+      },
+      "firearms": []
+    },
+    {
+      "page": 398,
+      "form_year": "2007",
+      "transaction_number": "24261",
+      "buyer": {
+        "last": "Briggs",
+        "first": "Mary",
+        "middle": "Eileen"
+      },
+      "firearms": []
+    },
+    {
+      "page": 399,
+      "form_year": "2007",
+      "transaction_number": "24261",
+      "buyer": {
+        "last": "Briggs",
+        "first": "Mary",
+        "middle": "Eileen"
+      },
+      "firearms": []
+    },
+    {
+      "page": 400,
+      "form_year": "2007",
+      "transaction_number": "24261",
+      "buyer": {
+        "last": "Briggs",
+        "first": "Mary",
+        "middle": "Eileen"
+      },
+      "firearms": []
+    },
+    {
+      "page": 401,
+      "form_year": "2007",
+      "transaction_number": "26101",
+      "buyer": {
+        "last": "Thompson Sr.",
+        "first": "Donna",
+        "middle": "Lori"
+      },
+      "firearms": []
+    },
+    {
+      "page": 402,
+      "form_year": "2007",
+      "transaction_number": "26101",
+      "buyer": {
+        "last": "Thompson Sr.",
+        "first": "Donna",
+        "middle": "Lori"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "P380",
+          "serial": "VURN697",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 403,
+      "form_year": "2007",
+      "transaction_number": "26101",
+      "buyer": {
+        "last": "Thompson Sr.",
+        "first": "Donna",
+        "middle": "Lori"
+      },
+      "firearms": []
+    },
+    {
+      "page": 404,
+      "form_year": "2007",
+      "transaction_number": "26101",
+      "buyer": {
+        "last": "Thompson Sr.",
+        "first": "Donna",
+        "middle": "Lori"
+      },
+      "firearms": []
+    },
+    {
+      "page": 405,
+      "form_year": "2007",
+      "transaction_number": "26101",
+      "buyer": {
+        "last": "Thompson Sr.",
+        "first": "Donna",
+        "middle": "Lori"
+      },
+      "firearms": []
+    },
+    {
+      "page": 406,
+      "form_year": "2007",
+      "transaction_number": "26101",
+      "buyer": {
+        "last": "Thompson Sr.",
+        "first": "Donna",
+        "middle": "Lori"
+      },
+      "firearms": []
+    },
+    {
+      "page": 407,
+      "form_year": "2020",
+      "transaction_number": "8908153",
+      "buyer": {
+        "last": "Schultz Sr.",
+        "first": "Tracy",
+        "middle": "C."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "PM9 Black Rose",
+          "serial": "RCU867",
+          "type": "Pistol",
+          "caliber": ".22 LR",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 408,
+      "form_year": "2020",
+      "transaction_number": "8908153",
+      "buyer": {
+        "last": "Schultz Sr.",
+        "first": "Tracy",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 409,
+      "form_year": "2020",
+      "transaction_number": "8908153",
+      "buyer": {
+        "last": "Schultz Sr.",
+        "first": "Tracy",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 410,
+      "form_year": "2020",
+      "transaction_number": "8908153",
+      "buyer": {
+        "last": "Schultz Sr.",
+        "first": "Tracy",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 411,
+      "form_year": "2020",
+      "transaction_number": "8908153",
+      "buyer": {
+        "last": "Schultz Sr.",
+        "first": "Tracy",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 412,
+      "form_year": "2020",
+      "transaction_number": "8908153",
+      "buyer": {
+        "last": "Schultz Sr.",
+        "first": "Tracy",
+        "middle": "C."
+      },
+      "firearms": []
+    },
+    {
+      "page": 413,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Heckler & Koch",
+          "model": "P30L V3",
+          "serial": "2315-0657",
+          "type": "Shotgun",
+          "caliber": "12 Gauge",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 414,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 415,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 416,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 417,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 418,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 419,
+      "form_year": "2022",
+      "transaction_number": "0068",
+      "buyer": {
+        "last": "Rubio",
+        "first": "David",
+        "middle": "W."
+      },
+      "firearms": []
+    },
+    {
+      "page": 420,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Taurus International",
+          "model": "TX22",
+          "serial": "PEG9297",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 1
+        },
+        {
+          "manufacturer": "FN America",
+          "model": "SCAR 17S",
+          "serial": "UNH6509",
+          "type": "Rifle",
+          "caliber": ".450 Bushmaster",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 421,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": []
+    },
+    {
+      "page": 422,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": []
+    },
+    {
+      "page": 423,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": []
+    },
+    {
+      "page": 424,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": []
+    },
+    {
+      "page": 425,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": []
+    },
+    {
+      "page": 426,
+      "form_year": "2023",
+      "transaction_number": "9233",
+      "buyer": {
+        "last": "Reilly Jr.",
+        "first": "Brian",
+        "middle": "L."
+      },
+      "firearms": []
+    },
+    {
+      "page": 427,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Off Duty",
+          "serial": "08GA63HPVXGN",
+          "type": "Revolver",
+          "caliber": ".38 Special",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 428,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 429,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 430,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 431,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 432,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 433,
+      "form_year": "2022",
+      "transaction_number": "6000",
+      "buyer": {
+        "last": "Massey Jr.",
+        "first": "Erika",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 434,
+      "form_year": "2016",
+      "transaction_number": "87376",
+      "buyer": {
+        "last": "Jennings",
+        "first": "Michelle",
+        "middle": "Monique"
+      },
+      "firearms": []
+    },
+    {
+      "page": 435,
+      "form_year": "2016",
+      "transaction_number": "87376",
+      "buyer": {
+        "last": "Jennings",
+        "first": "Michelle",
+        "middle": "Monique"
+      },
+      "firearms": []
+    },
+    {
+      "page": 436,
+      "form_year": "2016",
+      "transaction_number": "87376",
+      "buyer": {
+        "last": "Jennings",
+        "first": "Michelle",
+        "middle": "Monique"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Colt Manufacturing",
+          "model": "Government 1911",
+          "serial": "10U72563",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 437,
+      "form_year": "2016",
+      "transaction_number": "87376",
+      "buyer": {
+        "last": "Jennings",
+        "first": "Michelle",
+        "middle": "Monique"
+      },
+      "firearms": []
+    },
+    {
+      "page": 438,
+      "form_year": "2016",
+      "transaction_number": "87376",
+      "buyer": {
+        "last": "Jennings",
+        "first": "Michelle",
+        "middle": "Monique"
+      },
+      "firearms": []
+    },
+    {
+      "page": 439,
+      "form_year": "2016",
+      "transaction_number": "87376",
+      "buyer": {
+        "last": "Jennings",
+        "first": "Michelle",
+        "middle": "Monique"
+      },
+      "firearms": []
+    },
+    {
+      "page": 440,
+      "form_year": "2001",
+      "transaction_number": "95439",
+      "buyer": {
+        "last": "Huff Sr.",
+        "first": "Kyle",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 441,
+      "form_year": "2001",
+      "transaction_number": "95439",
+      "buyer": {
+        "last": "Huff Sr.",
+        "first": "Kyle",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "500 Flex",
+          "serial": "244R838327",
+          "type": "Shotgun",
+          "caliber": "20 Gauge",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 442,
+      "form_year": "2001",
+      "transaction_number": "95439",
+      "buyer": {
+        "last": "Huff Sr.",
+        "first": "Kyle",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 443,
+      "form_year": "2001",
+      "transaction_number": "95439",
+      "buyer": {
+        "last": "Huff Sr.",
+        "first": "Kyle",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 444,
+      "form_year": "2020",
+      "transaction_number": "1026",
+      "buyer": {
+        "last": "Potts",
+        "first": "Gregory",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Pathfinder",
+          "serial": "ZTX5L6Y4317",
+          "type": "Revolver",
+          "caliber": ".44 Magnum",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 445,
+      "form_year": "2020",
+      "transaction_number": "1026",
+      "buyer": {
+        "last": "Potts",
+        "first": "Gregory",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 446,
+      "form_year": "2020",
+      "transaction_number": "1026",
+      "buyer": {
+        "last": "Potts",
+        "first": "Gregory",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 447,
+      "form_year": "2020",
+      "transaction_number": "1026",
+      "buyer": {
+        "last": "Potts",
+        "first": "Gregory",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 448,
+      "form_year": "2020",
+      "transaction_number": "1026",
+      "buyer": {
+        "last": "Potts",
+        "first": "Gregory",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 449,
+      "form_year": "2020",
+      "transaction_number": "1026",
+      "buyer": {
+        "last": "Potts",
+        "first": "Gregory",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 450,
+      "form_year": "1998",
+      "transaction_number": "9002",
+      "buyer": {
+        "last": "Phillips III",
+        "first": "Tyler",
+        "middle": "K."
+      },
+      "firearms": []
+    },
+    {
+      "page": 451,
+      "form_year": "1998",
+      "transaction_number": "9002",
+      "buyer": {
+        "last": "Phillips III",
+        "first": "Tyler",
+        "middle": "K."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Springfield Armory",
+          "model": "XD-9",
+          "serial": "N1G5H2",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 2
+        },
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-15",
+          "serial": "AHUP878",
+          "type": "Rifle",
+          "caliber": ".22 LR",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 452,
+      "form_year": "2012",
+      "transaction_number": "22543",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 453,
+      "form_year": "2012",
+      "transaction_number": "22543",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 454,
+      "form_year": "2012",
+      "transaction_number": "22543",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Anderson Manufacturing",
+          "model": "AM-15",
+          "serial": "17D19962",
+          "type": "Rifle",
+          "caliber": "9mm",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 455,
+      "form_year": "2012",
+      "transaction_number": "22543",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 456,
+      "form_year": "2012",
+      "transaction_number": "22543",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 457,
+      "form_year": "2012",
+      "transaction_number": "22543",
+      "buyer": {
+        "last": "Smith Jr.",
+        "first": "Sara",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 458,
+      "form_year": "2001",
+      "transaction_number": "018376",
+      "buyer": {
+        "last": "Knight",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 459,
+      "form_year": "2001",
+      "transaction_number": "018376",
+      "buyer": {
+        "last": "Knight",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Heckler & Koch",
+          "model": "SP5",
+          "serial": "ZK1822748",
+          "type": "Rifle",
+          "caliber": "7.62x39mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 460,
+      "form_year": "2001",
+      "transaction_number": "018376",
+      "buyer": {
+        "last": "Knight",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 461,
+      "form_year": "2001",
+      "transaction_number": "018376",
+      "buyer": {
+        "last": "Knight",
+        "first": "Brian",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 462,
+      "form_year": "2001",
+      "transaction_number": "04990",
+      "buyer": {
+        "last": "Higgins Sr.",
+        "first": "Crystal",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 463,
+      "form_year": "2001",
+      "transaction_number": "04990",
+      "buyer": {
+        "last": "Higgins Sr.",
+        "first": "Crystal",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Mossberg",
+          "model": "MVP Patrol",
+          "serial": "49S66603",
+          "type": "Rifle",
+          "caliber": "9mm",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 464,
+      "form_year": "2001",
+      "transaction_number": "04990",
+      "buyer": {
+        "last": "Higgins Sr.",
+        "first": "Crystal",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 465,
+      "form_year": "2001",
+      "transaction_number": "04990",
+      "buyer": {
+        "last": "Higgins Sr.",
+        "first": "Crystal",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 466,
+      "form_year": "2005",
+      "transaction_number": "705722",
+      "buyer": {
+        "last": "Oconnor II",
+        "first": "Shelia",
+        "middle": "Daniel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 467,
+      "form_year": "2005",
+      "transaction_number": "705722",
+      "buyer": {
+        "last": "Oconnor II",
+        "first": "Shelia",
+        "middle": "Daniel"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Remington Arms",
+          "model": "870 Express",
+          "serial": "NDAZ887",
+          "type": "Shotgun",
+          "caliber": "20 Gauge",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 468,
+      "form_year": "2005",
+      "transaction_number": "705722",
+      "buyer": {
+        "last": "Oconnor II",
+        "first": "Shelia",
+        "middle": "Daniel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 469,
+      "form_year": "2005",
+      "transaction_number": "705722",
+      "buyer": {
+        "last": "Oconnor II",
+        "first": "Shelia",
+        "middle": "Daniel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 470,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Colt Manufacturing",
+          "model": "Mustang Plus II",
+          "serial": "7980-6084",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 471,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 472,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 473,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 474,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 475,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 476,
+      "form_year": "2022",
+      "transaction_number": "186506",
+      "buyer": {
+        "last": "Tran Jr.",
+        "first": "Matthew",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 477,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Charter Arms",
+          "model": "Off Duty",
+          "serial": "B2P3R2W9",
+          "type": "Revolver",
+          "caliber": ".22 LR",
+          "page": 1
+        },
+        {
+          "manufacturer": "Sturm Ruger & Co.",
+          "model": "LCP II",
+          "serial": "3W32TW6RXEF6",
+          "type": "Pistol",
+          "caliber": ".357 SIG",
+          "page": 1
+        },
+        {
+          "manufacturer": "Walther Arms",
+          "model": "CCP M2",
+          "serial": "MN2573",
+          "type": "Pistol",
+          "caliber": "9mm",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 478,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 479,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 480,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 481,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 482,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 483,
+      "form_year": "2022",
+      "transaction_number": "8509",
+      "buyer": {
+        "last": "Chandler III",
+        "first": "Larry",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 484,
+      "form_year": "2012",
+      "transaction_number": "28192",
+      "buyer": {
+        "last": "Mendez Sr.",
+        "first": "William",
+        "middle": "N."
+      },
+      "firearms": []
+    },
+    {
+      "page": 485,
+      "form_year": "2012",
+      "transaction_number": "28192",
+      "buyer": {
+        "last": "Mendez Sr.",
+        "first": "William",
+        "middle": "N."
+      },
+      "firearms": []
+    },
+    {
+      "page": 486,
+      "form_year": "2012",
+      "transaction_number": "28192",
+      "buyer": {
+        "last": "Mendez Sr.",
+        "first": "William",
+        "middle": "N."
+      },
+      "firearms": [
+        {
+          "manufacturer": "Savage Arms",
+          "model": "Model 110 Tactical",
+          "serial": "12C904590",
+          "type": "Pistol",
+          "caliber": "10mm Auto",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 487,
+      "form_year": "2012",
+      "transaction_number": "28192",
+      "buyer": {
+        "last": "Mendez Sr.",
+        "first": "William",
+        "middle": "N."
+      },
+      "firearms": []
+    },
+    {
+      "page": 488,
+      "form_year": "2012",
+      "transaction_number": "28192",
+      "buyer": {
+        "last": "Mendez Sr.",
+        "first": "William",
+        "middle": "N."
+      },
+      "firearms": []
+    },
+    {
+      "page": 489,
+      "form_year": "2012",
+      "transaction_number": "28192",
+      "buyer": {
+        "last": "Mendez Sr.",
+        "first": "William",
+        "middle": "N."
+      },
+      "firearms": []
+    },
+    {
+      "page": 490,
+      "form_year": "2016",
+      "transaction_number": "5759004",
+      "buyer": {
+        "last": "Miller III",
+        "first": "Jessica",
+        "middle": "Rachel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 491,
+      "form_year": "2016",
+      "transaction_number": "5759004",
+      "buyer": {
+        "last": "Miller III",
+        "first": "Jessica",
+        "middle": "Rachel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 492,
+      "form_year": "2016",
+      "transaction_number": "5759004",
+      "buyer": {
+        "last": "Miller III",
+        "first": "Jessica",
+        "middle": "Rachel"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kimber Manufacturing",
+          "model": "Eclipse Custom II",
+          "serial": "J3C1Z6T2",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 493,
+      "form_year": "2016",
+      "transaction_number": "5759004",
+      "buyer": {
+        "last": "Miller III",
+        "first": "Jessica",
+        "middle": "Rachel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 494,
+      "form_year": "2016",
+      "transaction_number": "5759004",
+      "buyer": {
+        "last": "Miller III",
+        "first": "Jessica",
+        "middle": "Rachel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 495,
+      "form_year": "2016",
+      "transaction_number": "5759004",
+      "buyer": {
+        "last": "Miller III",
+        "first": "Jessica",
+        "middle": "Rachel"
+      },
+      "firearms": []
+    },
+    {
+      "page": 496,
+      "form_year": "2008",
+      "transaction_number": "00842",
+      "buyer": {
+        "last": "Coleman Jr.",
+        "first": "Justin",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 497,
+      "form_year": "2008",
+      "transaction_number": "00842",
+      "buyer": {
+        "last": "Coleman Jr.",
+        "first": "Justin",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 498,
+      "form_year": "2008",
+      "transaction_number": "00842",
+      "buyer": {
+        "last": "Coleman Jr.",
+        "first": "Justin",
+        "middle": "NMN"
+      },
+      "firearms": [
+        {
+          "manufacturer": "Kahr Arms",
+          "model": "CM9",
+          "serial": "800FU0378",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        },
+        {
+          "manufacturer": "Sig Sauer",
+          "model": "P226 Legion",
+          "serial": "G4BZPTN3GLFZ",
+          "type": "Pistol",
+          "caliber": ".380 ACP",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 499,
+      "form_year": "2008",
+      "transaction_number": "00842",
+      "buyer": {
+        "last": "Coleman Jr.",
+        "first": "Justin",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 500,
+      "form_year": "2008",
+      "transaction_number": "00842",
+      "buyer": {
+        "last": "Coleman Jr.",
+        "first": "Justin",
+        "middle": "NMN"
+      },
+      "firearms": []
+    },
+    {
+      "page": 501,
+      "form_year": "2008",
+      "transaction_number": "00842",
+      "buyer": {
+        "last": "Coleman Jr.",
+        "first": "Justin",
+        "middle": "NMN"
+      },
+      "firearms": []
+    }
+  ]
+}
