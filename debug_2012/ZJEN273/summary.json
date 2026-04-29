@@ -1,0 +1,34 @@
+{
+  "pdf": "ZJEN273.pdf",
+  "truth": "ZJEN273",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        5,
+        546,
+        55
+      ],
+      "verify_status": "multi_band",
+      "verify_confidence": 0.75,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    },
+    {
+      "row_index": 1,
+      "box_in_block": [
+        0,
+        271,
+        546,
+        301
+      ],
+      "verify_status": "template_only",
+      "verify_confidence": 0.95,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    }
+  ]
+}

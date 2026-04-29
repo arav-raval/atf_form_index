@@ -55,5 +55,23 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2020",
+    "predicted_serials": [
+      "K180078"
+    ],
+    "ocr_raw_text": "K180078",
+    "ocr_lines": [
+      "K180078"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9775,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:48:33+00:00",
+    "ground_truth_serial": "K180078",
+    "serial_match": true
+  }
 }

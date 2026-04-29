@@ -129,5 +129,25 @@
     "examiner_name": "Stephen Wright",
     "examiner_brady_id": "447-81-6515",
     "examiner_written": true
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [
+      "PE",
+      "TY"
+    ],
+    "ocr_raw_text": "Pe\nty",
+    "ocr_lines": [
+      "Pe",
+      "ty"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9797,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:49:05+00:00",
+    "ground_truth_serial": "U-966892",
+    "serial_match": false
   }
 }

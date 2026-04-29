@@ -1,0 +1,34 @@
+{
+  "pdf": "15G36455.pdf",
+  "truth": "15G36455",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        13,
+        546,
+        56
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.892,
+      "ocr_text": "-",
+      "ocr_normalized": "",
+      "looks_serial": false
+    },
+    {
+      "row_index": 1,
+      "box_in_block": [
+        0,
+        271,
+        546,
+        301
+      ],
+      "verify_status": "template_only",
+      "verify_confidence": 0.95,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    }
+  ]
+}

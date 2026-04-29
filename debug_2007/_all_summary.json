@@ -1,0 +1,150 @@
+[
+  {
+    "pdf": "MD-37681.pdf",
+    "truth": "MD-37681",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          0,
+          474,
+          47
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.55,
+        "ocr_text": "S6 MD-37681 RE",
+        "ocr_normalized": "MD37681",
+        "looks_serial": true
+      }
+    ]
+  },
+  {
+    "pdf": "VMV383141.pdf",
+    "truth": "VMV383141",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          11,
+          474,
+          47
+        ],
+        "verify_status": "bleed_top",
+        "verify_confidence": 0.8,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "100UU6551.pdf",
+    "truth": "100UU6551",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          0,
+          474,
+          47
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.5,
+        "ocr_text": "1 X 1006691",
+        "ocr_normalized": "1006691",
+        "looks_serial": true
+      }
+    ]
+  },
+  {
+    "pdf": "1636-1445.pdf",
+    "truth": "1636-1445",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          0,
+          474,
+          32
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.589,
+        "ocr_text": "UPPRESSER - IDODEN/QUS",
+        "ocr_normalized": "UPPRESSERIDODENQUS",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "16W65321.pdf",
+    "truth": "16W65321",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          0,
+          474,
+          29
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.601,
+        "ocr_text": "1006381",
+        "ocr_normalized": "1006381",
+        "looks_serial": true
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          11,
+          474,
+          47
+        ],
+        "verify_status": "bleed_top",
+        "verify_confidence": 0.8,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "X5G0A7.pdf",
+    "truth": "X5G0A7",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          0,
+          474,
+          27
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.5,
+        "ocr_text": "AMOUNT AMOUNT",
+        "ocr_normalized": "AMOUNTAMOUNT",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          11,
+          474,
+          47
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  }
+]

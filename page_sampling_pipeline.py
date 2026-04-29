@@ -147,7 +147,7 @@ def pdf_page_count(pdf_path: Path) -> int:
 
 def build_page_inventory() -> list[PageSample]:
     """All (pdf, page) pairs for the labeled test PDF set."""
-    import classifier
+    from pipeline import classify as classifier
 
     samples: list[PageSample] = []
     for pdf_path, year in _discover_labeled_pdfs():
@@ -196,7 +196,7 @@ def run_page_sampling(
     silent: bool = True,
 ) -> list[tuple[PageSample, dict[str, Any]]]:
     """Run ``classify_single_page`` for each sample in order."""
-    import classifier
+    from pipeline import classify as classifier
 
     out: list[tuple[PageSample, dict[str, Any]]] = []
     for s in samples:
@@ -300,7 +300,7 @@ def format_metrics(m: dict[str, Any]) -> str:
 
 
 def main() -> int:
-    import classifier
+    from pipeline import classify as classifier
 
     p = argparse.ArgumentParser(description="Random page sampling + single-page classify")
     p.add_argument("--seed", type=int, default=42, help="RNG seed for shuffle")

@@ -55,5 +55,25 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2016",
+    "predicted_serials": [
+      "QUINOXU4U30P",
+      "JORM33104FORMULTINLEPURCHASESOFHANDOUNSG"
+    ],
+    "classifier_score": 0.9861,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "processed_at": "2026-04-28T19:44:12+00:00",
+    "ground_truth_serial": "0337-4030",
+    "serial_match": false,
+    "ocr_raw_text": "quinox U -4U30 P\nJorm33104ForMultinlePurchasesofHandounsg",
+    "ocr_lines": [
+      "quinox U -4U30 P",
+      "Jorm33104ForMultinlePurchasesofHandounsg"
+    ],
+    "ocr_method": "tesseract",
+    "verify_confidence": 1.0
+  }
 }

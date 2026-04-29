@@ -62,5 +62,29 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2012",
+    "predicted_serials": [
+      "ENSO4E4RSF",
+      "TK",
+      "I23U18337P",
+      "7EGONETWOTHREEETCDONOTUSENUMERALS31"
+    ],
+    "ocr_raw_text": "ENSO4E4-RS f\n\ntk\ni 23U18337 P\n7egonetwothreeetcDonotusenumerals 31",
+    "ocr_lines": [
+      "ENSO4E4-RS f",
+      "tk",
+      "i 23U18337 P",
+      "7egonetwothreeetcDonotusenumerals 31"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9866,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:45:51+00:00",
+    "ground_truth_serial": "JZN8010TRL",
+    "serial_match": false
+  }
 }

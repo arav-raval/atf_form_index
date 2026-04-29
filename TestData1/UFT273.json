@@ -128,5 +128,19 @@
     "permit_number": "UL737816",
     "permit_issued": "01/2015",
     "permit_expires": "07/2029"
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [],
+    "ocr_raw_text": "",
+    "ocr_lines": [],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9731,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:46:33+00:00",
+    "ground_truth_serial": "UFT273",
+    "serial_match": null
   }
 }

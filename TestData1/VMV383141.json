@@ -55,5 +55,23 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2007",
+    "predicted_serials": [
+      "VIMVS8314T"
+    ],
+    "ocr_raw_text": "VIMVS8314t -",
+    "ocr_lines": [
+      "VIMVS8314t -"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9939,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:46:41+00:00",
+    "ground_truth_serial": "VMV383141",
+    "serial_match": false
+  }
 }

@@ -55,5 +55,27 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2007",
+    "predicted_serials": [
+      "PI",
+      "VEAE",
+      "A"
+    ],
+    "ocr_raw_text": "Pi\nveAe\na",
+    "ocr_lines": [
+      "Pi",
+      "veAe",
+      "a"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9913,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:49:11+00:00",
+    "ground_truth_serial": "X5G0A7",
+    "serial_match": false
+  }
 }

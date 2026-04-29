@@ -127,5 +127,23 @@
     "transaction_number": null,
     "response_21c": "cancelled",
     "examiner_written": false
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [
+      "46976"
+    ],
+    "ocr_raw_text": "46976",
+    "ocr_lines": [
+      "46976"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9801,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:45:33+00:00",
+    "ground_truth_serial": "CEX46976",
+    "serial_match": false
   }
 }

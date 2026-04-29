@@ -134,5 +134,23 @@
     "transaction_number": "1723747636",
     "response_21c": "denied",
     "examiner_written": false
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [
+      "T7D69ROPI"
+    ],
+    "ocr_raw_text": "T7D69RO Pi",
+    "ocr_lines": [
+      "T7D69RO Pi"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9865,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:45:19+00:00",
+    "ground_truth_serial": "97D6980",
+    "serial_match": false
   }
 }

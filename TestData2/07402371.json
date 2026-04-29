@@ -116,5 +116,23 @@
       "answer": "YES"
     }
   ],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2001",
+    "predicted_serials": [
+      "JEPURCHASESOFHANDAGUNSSEEINSTRUCTIONTO"
+    ],
+    "ocr_raw_text": "JePurchasesOfHandagunsSeeInstructionto",
+    "ocr_lines": [
+      "JePurchasesOfHandagunsSeeInstructionto"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9825,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:46:56+00:00",
+    "ground_truth_serial": "07402371",
+    "serial_match": false
+  }
 }

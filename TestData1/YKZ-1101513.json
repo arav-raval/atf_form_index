@@ -129,5 +129,23 @@
     "examiner_name": "Lisa Paul",
     "examiner_brady_id": "080-40-2060",
     "examiner_written": true
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [
+      "YKZ1101513P"
+    ],
+    "ocr_raw_text": "YKZ-1101513 P",
+    "ocr_lines": [
+      "YKZ-1101513 P"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9882,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:46:43+00:00",
+    "ground_truth_serial": "YKZ-1101513",
+    "serial_match": false
   }
 }

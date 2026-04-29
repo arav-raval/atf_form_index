@@ -55,5 +55,27 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2012",
+    "predicted_serials": [
+      "QI",
+      "F",
+      "7EGONETWOTHREEETCDONOTUSENUMERALS31"
+    ],
+    "ocr_raw_text": "qi\nF\n7egonetwothreeetcDonotusenumerals 31",
+    "ocr_lines": [
+      "qi",
+      "F",
+      "7egonetwothreeetcDonotusenumerals 31"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9868,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:49:17+00:00",
+    "ground_truth_serial": "ZJEN273",
+    "serial_match": false
+  }
 }

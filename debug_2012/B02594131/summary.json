@@ -1,0 +1,48 @@
+{
+  "pdf": "B02594131.pdf",
+  "truth": "B02594131",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        4,
+        546,
+        53
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.987,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    },
+    {
+      "row_index": 1,
+      "box_in_block": [
+        0,
+        58,
+        546,
+        104
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.992,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    },
+    {
+      "row_index": 2,
+      "box_in_block": [
+        0,
+        271,
+        546,
+        301
+      ],
+      "verify_status": "template_only",
+      "verify_confidence": 0.95,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    }
+  ]
+}

@@ -55,5 +55,25 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2016",
+    "predicted_serials": [
+      "CT",
+      "JORM33104FORMULTINLEPURCHASESOFHANDOUNSG"
+    ],
+    "ocr_raw_text": "CT\nJorm33104ForMultinlePurchasesofHandounsg",
+    "ocr_lines": [
+      "CT",
+      "Jorm33104ForMultinlePurchasesofHandounsg"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9899,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:46:12+00:00",
+    "ground_truth_serial": "PJR-2717",
+    "serial_match": false
+  }
 }

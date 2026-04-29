@@ -139,7 +139,7 @@ def run_evaluation(
     Pass ``quiet_classifier=True`` to set the classifier logger to WARNING only
     (e.g. to cut noise under pytest); that also silences writes to ``classifier.log``.
     """
-    import classifier
+    from pipeline import classify as classifier
 
     if quiet_classifier:
         classifier.log.setLevel(logging.WARNING)

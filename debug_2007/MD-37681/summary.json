@@ -1,0 +1,20 @@
+{
+  "pdf": "MD-37681.pdf",
+  "truth": "MD-37681",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        0,
+        474,
+        47
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.55,
+      "ocr_text": "S6 MD-37681 RE",
+      "ocr_normalized": "MD37681",
+      "looks_serial": true
+    }
+  ]
+}

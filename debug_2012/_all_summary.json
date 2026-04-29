@@ -1,0 +1,486 @@
+[
+  {
+    "pdf": "15G36455.pdf",
+    "truth": "15G36455",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          13,
+          546,
+          56
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.892,
+        "ocr_text": "-",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "JZN8010TRL.pdf",
+    "truth": "JZN8010TRL",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          5,
+          546,
+          51
+        ],
+        "verify_status": "multi_band",
+        "verify_confidence": 0.75,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          62,
+          546,
+          107
+        ],
+        "verify_status": "multi_band",
+        "verify_confidence": 0.75,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 2,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "K2Y0F0R7K0.pdf",
+    "truth": "K2Y0F0R7K0",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          3,
+          546,
+          47
+        ],
+        "verify_status": "multi_band",
+        "verify_confidence": 0.75,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "TEN-0443516.pdf",
+    "truth": "TEN-0443516",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          8,
+          546,
+          57
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.97,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          53,
+          546,
+          104
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.996,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 2,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "025CE2234.pdf",
+    "truth": "025CE2234",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          13,
+          546,
+          58
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.87,
+        "ocr_text": "2",
+        "ocr_normalized": "2",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "9479-3836.pdf",
+    "truth": "9479-3836",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          0,
+          546,
+          46
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.935,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "9971Z2529.pdf",
+    "truth": "9971Z2529",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          13,
+          546,
+          53
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.914,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "B02594131.pdf",
+    "truth": "B02594131",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          4,
+          546,
+          53
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.987,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          58,
+          546,
+          104
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.992,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 2,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "KFZE243.pdf",
+    "truth": "KFZE243",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          9,
+          546,
+          60
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.955,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "MCYURMTRLNAH.pdf",
+    "truth": "MCYURMTRLNAH",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          13,
+          546,
+          61
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.968,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "NAL906.pdf",
+    "truth": "NAL906",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          270,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "NR02403.pdf",
+    "truth": "NR02403",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          10,
+          546,
+          51
+        ],
+        "verify_status": "multi_band",
+        "verify_confidence": 0.75,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          62,
+          546,
+          101
+        ],
+        "verify_status": "ok",
+        "verify_confidence": 0.894,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 2,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  },
+  {
+    "pdf": "ZJEN273.pdf",
+    "truth": "ZJEN273",
+    "rows": [
+      {
+        "row_index": 0,
+        "box_in_block": [
+          0,
+          5,
+          546,
+          55
+        ],
+        "verify_status": "multi_band",
+        "verify_confidence": 0.75,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      },
+      {
+        "row_index": 1,
+        "box_in_block": [
+          0,
+          271,
+          546,
+          301
+        ],
+        "verify_status": "template_only",
+        "verify_confidence": 0.95,
+        "ocr_text": "",
+        "ocr_normalized": "",
+        "looks_serial": false
+      }
+    ]
+  }
+]

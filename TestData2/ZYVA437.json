@@ -135,5 +135,19 @@
     "permit_number": "IU511583",
     "permit_issued": "07/2018",
     "permit_expires": "07/2029"
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [],
+    "ocr_raw_text": "",
+    "ocr_lines": [],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.985,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:49:22+00:00",
+    "ground_truth_serial": "ZYVA437",
+    "serial_match": null
   }
 }

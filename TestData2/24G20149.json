@@ -55,5 +55,25 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "1998",
+    "predicted_serials": [
+      "24620149BP",
+      "EDIIRCHACECSHNEHANDACIINGGAEAINECTRIIR"
+    ],
+    "ocr_raw_text": "24620149 BP\nEDIIRCHACECSHNEHANDACIINGGaeaInectriir",
+    "ocr_lines": [
+      "24620149 BP",
+      "EDIIRCHACECSHNEHANDACIINGGaeaInectriir"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9711,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:47:28+00:00",
+    "ground_truth_serial": "24G20149",
+    "serial_match": false
+  }
 }

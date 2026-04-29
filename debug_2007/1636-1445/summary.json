@@ -1,0 +1,20 @@
+{
+  "pdf": "1636-1445.pdf",
+  "truth": "1636-1445",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        0,
+        474,
+        32
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.589,
+      "ocr_text": "UPPRESSER - IDODEN/QUS",
+      "ocr_normalized": "UPPRESSERIDODENQUS",
+      "looks_serial": false
+    }
+  ]
+}

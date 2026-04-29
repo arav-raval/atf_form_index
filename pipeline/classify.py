@@ -1,26 +1,26 @@
+"""Stage 2 — Classify form version.
+
+SSIM template matching against ``FormTemplates/<year>/``. Each template folder's
+``form_config.json`` specifies ``firearm_rows.page`` — the reference page used
+for matching. The document's best SSIM across all pages vs. each template wins.
+"""
+
 import json
-import os
 import logging
+import os
+
 import numpy as np
 from PIL import Image
 from pdf2image import convert_from_path
 from skimage.metrics import structural_similarity as ssim
 
-# ── Config ───────────────────────────────────────────────────────────────────
-TEMPLATES_DIR    = "templates"
-IMG_SIZE         = (800, 1000)
+TEMPLATES_DIR = "templates"
+IMG_SIZE = (800, 1000)
 CONFIDENCE_THRESHOLD = 0.75
-_LOG_DIR         = os.path.dirname(os.path.abspath(__file__))
-LOG_FILE         = os.path.join(_LOG_DIR, "classifier.log")
-# Only rasterize these as templates (skip form_config.json, README, etc.)
-_TEMPLATE_EXTS   = {".pdf", ".tif", ".tiff", ".png", ".jpg", ".jpeg", ".webp", ".bmp"}
-# ─────────────────────────────────────────────────────────────────────────────
+_LOG_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+LOG_FILE = os.path.join(_LOG_DIR, "classifier.log")
+_TEMPLATE_EXTS = {".pdf", ".tif", ".tiff", ".png", ".jpg", ".jpeg", ".webp", ".bmp"}
 
-# ── Logging setup ─────────────────────────────────────────────────────────────
-# Do not rely on logging.basicConfig(): pytest (and other hosts) configure the
-# root logger first, so basicConfig becomes a no-op and no FileHandler is added.
-# Handlers on this module's logger work regardless, and propagate=False avoids
-# duplicate lines when the root logger also has handlers.
 _LOG_FMT = logging.Formatter(
     "%(asctime)s  %(levelname)-8s  %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
@@ -43,7 +43,6 @@ def _configure_logger() -> logging.Logger:
 
 
 log = _configure_logger()
-# ─────────────────────────────────────────────────────────────────────────────
 
 
 def _raster_to_array(img: Image.Image) -> np.ndarray:
@@ -51,7 +50,6 @@ def _raster_to_array(img: Image.Image) -> np.ndarray:
 
 
 def _firearm_page_from_config(form_dir: str) -> int:
-    """0-based page index from form_config.json firearm_rows.page (default 0)."""
     cfg_path = os.path.join(form_dir, "form_config.json")
     if not os.path.isfile(cfg_path):
         return 0
@@ -65,15 +63,10 @@ def _firearm_page_from_config(form_dir: str) -> int:
 
 
 def template_firearm_page(templates_dir: str, year_label: str) -> int:
-    """0-based ``firearm_rows.page`` for ``templates_dir/<year_label>/form_config.json``."""
     return _firearm_page_from_config(os.path.join(templates_dir, year_label))
 
 
 def load_template_page(path: str, page_0based: int) -> np.ndarray:
-    """
-    Load a single template page: for PDFs, page_0based is 0-based index.
-    For single-page images, page_0based must be 0.
-    """
     ext = os.path.splitext(path)[1].lower()
     if ext == ".pdf":
         p1 = page_0based + 1
@@ -94,12 +87,10 @@ def load_template_page(path: str, page_0based: int) -> np.ndarray:
 
 
 def load_document_page(path: str, page_0based: int) -> np.ndarray:
-    """Load one page of a document PDF or multi-page TIFF (same rules as template pages)."""
     return load_template_page(path, page_0based)
 
 
 def load_document_pages(path: str) -> list[np.ndarray]:
-    """Load every page of a PDF or multi-page TIFF as grayscale IMG_SIZE arrays."""
     ext = os.path.splitext(path)[1].lower()
     if ext == ".pdf":
         pages = convert_from_path(path, dpi=150)
@@ -120,8 +111,9 @@ def load_document_pages(path: str) -> list[np.ndarray]:
     return [_raster_to_array(img.copy())]
 
 
-def _best_ssim_across_pages(ref: np.ndarray, doc_pages: list[np.ndarray]) -> tuple[float, int]:
-    """Max SSIM(ref, page) over document pages; return (score, 0-based page index)."""
+def _best_ssim_across_pages(
+    ref: np.ndarray, doc_pages: list[np.ndarray]
+) -> tuple[float, int]:
     best = -1.0
     best_i = 0
     for i, pg in enumerate(doc_pages):
@@ -139,7 +131,6 @@ def _score_document_against_library(
     doc_pages: list[np.ndarray],
     library: dict,
 ) -> tuple[dict[str, float], dict[str, int]]:
-    """SSIM scores per label; label_best_page is 0-based index into doc_pages."""
     all_scores: dict[str, float] = {}
     label_best_page: dict[str, int] = {}
     for label, ref_images in library.items():
@@ -156,13 +147,6 @@ def _score_document_against_library(
 
 
 def build_template_library(templates_dir: str) -> dict:
-    """
-    Load reference pages from templates_dir.
-
-    Each subfolder is a label (e.g. year). ``form_config.json`` supplies
-    ``firearm_rows.page`` (0-based). That page is loaded in full from each
-    template file (PDF, image, …) in the folder.
-    """
     library: dict[str, list[np.ndarray]] = {}
     for form_name in sorted(os.listdir(templates_dir)):
         form_dir = os.path.join(templates_dir, form_name)
@@ -178,7 +162,9 @@ def build_template_library(templates_dir: str) -> dict:
             try:
                 refs.append(load_template_page(fpath, page_idx))
             except Exception as e:
-                log.warning(f"  Could not load template {form_name}/{fname} (page {page_idx}): {e}")
+                log.warning(
+                    f"  Could not load template {form_name}/{fname} (page {page_idx}): {e}"
+                )
         if refs:
             library[form_name] = refs
             log.info(
@@ -191,17 +177,6 @@ def build_template_library(templates_dir: str) -> dict:
 
 
 def classify(doc_path: str, library: dict, threshold: float = CONFIDENCE_THRESHOLD) -> dict:
-    """
-    Compare the document against all templates.
-
-    For each template year, each reference page (full page from firearm_rows.page)
-    is compared to **every** page of the test document; the best SSIM wins for that
-    reference, then the best across references wins for that label.
-
-    Returns:
-        label, score, status, all_scores, plus best_doc_page (0-based, same as
-        firearm_rows.page) for the winning label’s strongest match.
-    """
     log.info(f"Classifying: {doc_path}")
 
     try:
@@ -230,7 +205,10 @@ def classify(doc_path: str, library: dict, threshold: float = CONFIDENCE_THRESHO
             "num_doc_pages": 0,
         }
 
-    log.info(f"  Test document: {len(doc_pages)} page(s); matching full template page vs each page")
+    log.info(
+        f"  Test document: {len(doc_pages)} page(s); "
+        f"matching full template page vs each page"
+    )
 
     all_scores, label_best_page = _score_document_against_library(doc_pages, library)
 
@@ -276,14 +254,6 @@ def classify_single_page(
     *,
     silent: bool = False,
 ) -> dict:
-    """
-    Classify using only one page of ``doc_path`` (0-based index).
-
-    Use this for page-by-page streaming or random page sampling. For full
-    documents, prefer :func:`classify`.
-
-    When ``silent`` is True, skips per-call INFO logs (still logs ERROR).
-    """
     if not silent:
         log.info(f"Classifying single page: {doc_path}  [page index {page_0based}]")
 
@@ -322,9 +292,7 @@ def classify_single_page(
                 f"threshold {threshold}."
             )
         else:
-            log.info(
-                f"  Result: {best_label}  (score: {best_score:.4f})  [{status}]"
-            )
+            log.info(f"  Result: {best_label}  (score: {best_score:.4f})  [{status}]")
 
     return {
         "file": doc_path,
@@ -338,8 +306,9 @@ def classify_single_page(
     }
 
 
-def classify_batch(doc_paths: list, library: dict, threshold: float = CONFIDENCE_THRESHOLD) -> list:
-    """Classify a list of documents and print a summary table at the end."""
+def classify_batch(
+    doc_paths: list, library: dict, threshold: float = CONFIDENCE_THRESHOLD
+) -> list:
     results = [classify(p, library, threshold) for p in doc_paths]
 
     ok = [r for r in results if r["status"] == "OK"]
@@ -373,6 +342,22 @@ def classify_batch(doc_paths: list, library: dict, threshold: float = CONFIDENCE
     return results
 
 
+_library_cache: dict | None = None
+
+
+def classify_pdf(
+    pdf_path,
+    templates_dir,
+    threshold: float | None = None,
+) -> dict:
+    """Cached convenience wrapper used by :mod:`pipeline.orchestrator`."""
+    global _library_cache
+    if _library_cache is None:
+        _library_cache = build_template_library(str(templates_dir))
+    th = threshold if threshold is not None else CONFIDENCE_THRESHOLD
+    return classify(str(pdf_path), _library_cache, threshold=th)
+
+
 if __name__ == "__main__":
     import sys
 
@@ -380,7 +365,7 @@ if __name__ == "__main__":
 
     docs = sys.argv[1:]
     if not docs:
-        print("Usage: python classifier.py doc1.pdf doc2.tiff ...")
+        print("Usage: python -m pipeline.classify doc1.pdf doc2.tiff ...")
         sys.exit(1)
 
     classify_batch(docs, library)

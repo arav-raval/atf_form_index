@@ -1,0 +1,34 @@
+{
+  "pdf": "16W65321.pdf",
+  "truth": "16W65321",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        0,
+        474,
+        29
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.601,
+      "ocr_text": "1006381",
+      "ocr_normalized": "1006381",
+      "looks_serial": true
+    },
+    {
+      "row_index": 1,
+      "box_in_block": [
+        0,
+        11,
+        474,
+        47
+      ],
+      "verify_status": "bleed_top",
+      "verify_confidence": 0.8,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    }
+  ]
+}

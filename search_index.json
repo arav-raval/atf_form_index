@@ -1,0 +1,1225 @@
+{
+  "version": 2,
+  "by_serial": {
+    "J": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AGLN150.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AGLN150.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "AGLN150"
+      }
+    ],
+    "PO": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GFZL350.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GFZL350.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "GFZL350"
+      }
+    ],
+    "PE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/U-966892.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/U-966892.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "U-966892"
+      }
+    ],
+    "G": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/TEN-0443516.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/TEN-0443516.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "TEN-0443516"
+      }
+    ],
+    "6": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/L-2694.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/L-2694.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "L-2694"
+      }
+    ],
+    "QUINOXU4U30P": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0337-4030.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0337-4030.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "0337-4030"
+      }
+    ],
+    "JORM33104FORMULTINLEPURCHASESOFHANDOUNSG": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0337-4030.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0337-4030.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "0337-4030"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/041EU6605.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/041EU6605.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "041EU6605"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/164910064.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/164910064.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "164910064"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2472066.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2472066.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "2472066"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/970R41791.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/970R41791.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "970R41791"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GFZL350.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GFZL350.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "GFZL350"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JMGV781.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JMGV781.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "JMGV781"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/PJR-2717.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/PJR-2717.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "PJR-2717"
+      }
+    ],
+    "EI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/041EU6605.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/041EU6605.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "041EU6605"
+      }
+    ],
+    "Q": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0999441.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0999441.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "0999441"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2970-6550.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2970-6550.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "2970-6550"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/743007379.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/743007379.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "743007379"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/RH5787709.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/RH5787709.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "RH5787709"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/UMUX646.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/UMUX646.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "UMUX646"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/20G48825.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/20G48825.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "20G48825"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/23E02907.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/23E02907.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "23E02907"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/38L8BCKJRZNV.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/38L8BCKJRZNV.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "38L8BCKJRZNV"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NBX78582.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NBX78582.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "NBX78582"
+      }
+    ],
+    "RGONETWOTHREEETCDONOTUSENUMERALS1AT": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0999441.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/0999441.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "0999441"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2970-6550.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2970-6550.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "2970-6550"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/743007379.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/743007379.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "743007379"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/RH5787709.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/RH5787709.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "RH5787709"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/UMUX646.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/UMUX646.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "UMUX646"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/20G48825.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/20G48825.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "20G48825"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/23E02907.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/23E02907.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "23E02907"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/38L8BCKJRZNV.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/38L8BCKJRZNV.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "38L8BCKJRZNV"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NBX78582.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NBX78582.json",
+        "predicted_year": "2008",
+        "ground_truth_serial": "NBX78582"
+      }
+    ],
+    "1ONLTAEHLAZCENMCEOAC3": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/10E70721.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/10E70721.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "10E70721"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/862UC1503.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/862UC1503.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "862UC1503"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/806YH1789.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/806YH1789.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "806YH1789"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/TSA558.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/TSA558.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "TSA558"
+      }
+    ],
+    "13A08132": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/13A08132.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/13A08132.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "13A08132"
+      }
+    ],
+    "DHANRBLIFANCSMORTAFTHICTEANCAATIANJENMWAUPY": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/13A08132.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/13A08132.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "13A08132"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AC5621786.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AC5621786.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "AC5621786"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/SPYC329.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/SPYC329.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "SPYC329"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/ZTJ542.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/ZTJ542.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "ZTJ542"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/D2Z1J7H4R5.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/D2Z1J7H4R5.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "D2Z1J7H4R5"
+      }
+    ],
+    "158VM5869": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/158VM5869.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/158VM5869.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "158VM5869"
+      }
+    ],
+    "WALOFNNPDLEBE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/158VM5869.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/158VM5869.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "158VM5869"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/H7K7W3L9X7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/H7K7W3L9X7.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "H7K7W3L9X7"
+      }
+    ],
+    "QI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/15G36455.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/15G36455.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "15G36455"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/K2Y0F0R7K0.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/K2Y0F0R7K0.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "K2Y0F0R7K0"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/025CE2234.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/025CE2234.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "025CE2234"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NR02403.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NR02403.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "NR02403"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/ZJEN273.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/ZJEN273.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "ZJEN273"
+      }
+    ],
+    "7EGONETWOTHREEETCDONOTUSENUMERALS31": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/15G36455.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/15G36455.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "15G36455"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "JZN8010TRL"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/K2Y0F0R7K0.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/K2Y0F0R7K0.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "K2Y0F0R7K0"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/025CE2234.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/025CE2234.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "025CE2234"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9479-3836.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9479-3836.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "9479-3836"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9971Z2529.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9971Z2529.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "9971Z2529"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/KFZE243.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/KFZE243.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "KFZE243"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NAL906.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NAL906.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "NAL906"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/ZJEN273.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/ZJEN273.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "ZJEN273"
+      }
+    ],
+    "15N10608S": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/15N10608.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/15N10608.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "15N10608"
+      }
+    ],
+    "KWAVE164910064E": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/164910064.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/164910064.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "164910064"
+      }
+    ],
+    "2547427354RE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/254T427354.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/254T427354.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "254T427354"
+      }
+    ],
+    "EDIIRCHACECSHNEHANDACIINGGAEAINECTRIIR": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/254T427354.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/254T427354.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "254T427354"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/J-3252.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/J-3252.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "J-3252"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/M7F8B6.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/M7F8B6.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "M7F8B6"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/SJX66857.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/SJX66857.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "SJX66857"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/T0Y5J3F4U6.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/T0Y5J3F4U6.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "T0Y5J3F4U6"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/24G20149.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/24G20149.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "24G20149"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/3784-3262.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/3784-3262.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "3784-3262"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/673J6116.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/673J6116.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "673J6116"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "8777X19395"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BP0152.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BP0152.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "BP0152"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "C56381560"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/FZNA97B4X8N.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/FZNA97B4X8N.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "FZNA97B4X8N"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/P76884568.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/P76884568.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "P76884568"
+      }
+    ],
+    "JEPURCHASESOFHANDAGUNSSEEINSTRUCTIONTO": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2567076.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/2567076.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "2567076"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/5776347.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/5776347.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "5776347"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/EXPW361.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/EXPW361.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "EXPW361"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/064FD2576.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/064FD2576.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "064FD2576"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/07402371.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/07402371.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "07402371"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/0D3M0L5EL34.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/0D3M0L5EL34.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "0D3M0L5EL34"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/F19FKXHNHJ.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/F19FKXHNHJ.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "F19FKXHNHJ"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/GK663034.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/GK663034.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "GK663034"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/N40637320.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/N40637320.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "N40637320"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/V303947.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/V303947.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "V303947"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/YSP75XRGZ9.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/YSP75XRGZ9.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "YSP75XRGZ9"
+      }
+    ],
+    "375KN0808": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/375KN0808.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/375KN0808.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "375KN0808"
+      }
+    ],
+    "WTHENLOFANEPENEEPGHNEPE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/375KN0808.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/375KN0808.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "375KN0808"
+      }
+    ],
+    "MHADLOFMENEYENTFTHEBENNBNT": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/434503326.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/434503326.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "434503326"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/09Z0882.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/09Z0882.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "09Z0882"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/486S516987.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/486S516987.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "486S516987"
+      }
+    ],
+    "5016536": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/441VA7153.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/441VA7153.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "441VA7153"
+      }
+    ],
+    "LEELAZCENMCEOAC3": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/441VA7153.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/441VA7153.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "441VA7153"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9452N264201.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9452N264201.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "9452N264201"
+      }
+    ],
+    "TEVU8FE2326": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/548FE2326.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/548FE2326.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "548FE2326"
+      }
+    ],
+    "AE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/548FE2326.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/548FE2326.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "548FE2326"
+      }
+    ],
+    "862UC1503": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/862UC1503.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/862UC1503.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "862UC1503"
+      }
+    ],
+    "GISTANDARD970R41791P": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/970R41791.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/970R41791.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "970R41791"
+      }
+    ],
+    "T7D69ROPI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/97D6980.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/97D6980.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "97D6980"
+      }
+    ],
+    "1ELEOENENEYANNETFTHEEBENNNBINNE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/9879-2690.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/9879-2690.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "9879-2690"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AGLN150.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AGLN150.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "AGLN150"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/L-2694.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/L-2694.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "L-2694"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/P19TEW7LWB.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/P19TEW7LWB.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "P19TEW7LWB"
+      }
+    ],
+    "AGO186": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AC5621786.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/AC5621786.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "AC5621786"
+      }
+    ],
+    "46976": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/CEX46976.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/CEX46976.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "CEX46976"
+      }
+    ],
+    "FI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GD859165.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GD859165.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "GD859165"
+      }
+    ],
+    "APENAEUSOL8565I": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GD859165.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GD859165.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "GD859165"
+      }
+    ],
+    "P2C2A2": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GFZL350.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/GFZL350.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "GFZL350"
+      }
+    ],
+    "REJ3252PI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/J-3252.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/J-3252.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "J-3252"
+      }
+    ],
+    "JMGV781F": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JMGV781.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JMGV781.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "JMGV781"
+      }
+    ],
+    "ENSO4E4RSF": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "JZN8010TRL"
+      }
+    ],
+    "TK": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "JZN8010TRL"
+      }
+    ],
+    "I23U18337P": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/JZN8010TRL.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "JZN8010TRL"
+      }
+    ],
+    "R": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/K2Y0F0R7K0.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/K2Y0F0R7K0.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "K2Y0F0R7K0"
+      }
+    ],
+    "62PA2WRONNE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/M7F8B6.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/M7F8B6.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "M7F8B6"
+      }
+    ],
+    "JMD37681T": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/MD-37681.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/MD-37681.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "MD-37681"
+      }
+    ],
+    "CT": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/PJR-2717.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/PJR-2717.json",
+        "predicted_year": "2016",
+        "ground_truth_serial": "PJR-2717"
+      }
+    ],
+    "9512785": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/S39572785.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/S39572785.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "S39572785"
+      }
+    ],
+    "OF7SJX6E57": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/SJX66857.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/SJX66857.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "SJX66857"
+      }
+    ],
+    "OLT2FUU64": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/T0Y5J3F4U6.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/T0Y5J3F4U6.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "T0Y5J3F4U6"
+      }
+    ],
+    "7EGONETWOTHREEETCDONOTUSENUMERALS3": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/TEN-0443516.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/TEN-0443516.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "TEN-0443516"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/B02594131.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/B02594131.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "B02594131"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/MCYURMTRLNAH.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/MCYURMTRLNAH.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "MCYURMTRLNAH"
+      },
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NR02403.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NR02403.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "NR02403"
+      }
+    ],
+    "VIMVS8314T": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/VMV383141.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/VMV383141.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "VMV383141"
+      }
+    ],
+    "YKZ1101513P": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData1/YKZ-1101513.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData1/YKZ-1101513.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "YKZ-1101513"
+      }
+    ],
+    "O": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/064FD2576.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/064FD2576.json",
+        "predicted_year": "2001",
+        "ground_truth_serial": "064FD2576"
+      }
+    ],
+    "ADITMQ2": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/09Z0882.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/09Z0882.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "09Z0882"
+      }
+    ],
+    "PUPERGBAUDSSZ": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/09Z0882.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/09Z0882.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "09Z0882"
+      }
+    ],
+    "AIQOW6SS1K": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/100UU6551.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/100UU6551.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "100UU6551"
+      }
+    ],
+    "COVL": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/1636-1445.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/1636-1445.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "1636-1445"
+      }
+    ],
+    "WOW003T": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/16W65321.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/16W65321.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "16W65321"
+      }
+    ],
+    "V5": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/1792729.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/1792729.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "1792729"
+      }
+    ],
+    "LEELAYCOMCOAIC": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/1792729.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/1792729.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "1792729"
+      }
+    ],
+    "1982012": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/19S20112.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/19S20112.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "19S20112"
+      }
+    ],
+    "24620149BP": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/24G20149.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/24G20149.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "24G20149"
+      }
+    ],
+    "ALNDOPNNEENNETOPTHEBEENBINNEEE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/359344866.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/359344866.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "359344866"
+      }
+    ],
+    "TECOMBAT37843262F": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/3784-3262.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/3784-3262.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "3784-3262"
+      }
+    ],
+    "4868516987": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/486S516987.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/486S516987.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "486S516987"
+      }
+    ],
+    "SYH89": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/806YH1789.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/806YH1789.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "806YH1789"
+      }
+    ],
+    "D87919395S": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "8777X19395"
+      }
+    ],
+    "TH6OG35DE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "8777X19395"
+      }
+    ],
+    "122D2950F": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/8777X19395.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "8777X19395"
+      }
+    ],
+    "TIBEY282NG832E7": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9452N264201.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9452N264201.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "9452N264201"
+      }
+    ],
+    "QNGASPERGI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9479-3836.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9479-3836.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "9479-3836"
+      }
+    ],
+    "CL": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9971Z2529.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/9971Z2529.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "9971Z2529"
+      }
+    ],
+    "QL": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/B02594131.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/B02594131.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "B02594131"
+      }
+    ],
+    "LANDARD7275W6872": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BJM21497.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BJM21497.json",
+        "predicted_year": "2023",
+        "ground_truth_serial": "BJM21497"
+      }
+    ],
+    "IP": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BP0152.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BP0152.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "BP0152"
+      }
+    ],
+    "BP": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BP0152.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/BP0152.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "BP0152"
+      }
+    ],
+    "C56381560": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "C56381560"
+      }
+    ],
+    "PNON3Z02CCSSLO": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "C56381560"
+      }
+    ],
+    "PRAJ388P": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/C56381560.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "C56381560"
+      }
+    ],
+    "QTACHCALFEWA7EXSY": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/FZNA97B4X8N.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/FZNA97B4X8N.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "FZNA97B4X8N"
+      }
+    ],
+    "YG701585": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/G-701585.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/G-701585.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "G-701585"
+      }
+    ],
+    "HANBIFFANNPIHEPEONNY": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/G-701585.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/G-701585.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "G-701585"
+      }
+    ],
+    "GH3MDYFFIAE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/GH3MDWFFM7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/GH3MDWFFM7.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "GH3MDWFFM7"
+      }
+    ],
+    "PHEANBIFANSPMNETFTHIETENNONNTINNANPNUP": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/GH3MDWFFM7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/GH3MDWFFM7.json",
+        "predicted_year": "2022",
+        "ground_truth_serial": "GH3MDWFFM7"
+      }
+    ],
+    "H7K7W3L9X7": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/H7K7W3L9X7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/H7K7W3L9X7.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "H7K7W3L9X7"
+      }
+    ],
+    "K180078": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/K180078.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/K180078.json",
+        "predicted_year": "2020",
+        "ground_truth_serial": "K180078"
+      }
+    ],
+    "PESG": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/KFZE243.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/KFZE243.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "KFZE243"
+      }
+    ],
+    "RYF": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/MCYURMTRLNAH.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/MCYURMTRLNAH.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "MCYURMTRLNAH"
+      }
+    ],
+    "GQ": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NAL906.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/NAL906.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "NAL906"
+      }
+    ],
+    "44PHII4S08K": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/P76884568.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/P76884568.json",
+        "predicted_year": "1998",
+        "ground_truth_serial": "P76884568"
+      }
+    ],
+    "T3558": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/TSA558.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/TSA558.json",
+        "predicted_year": "1985",
+        "ground_truth_serial": "TSA558"
+      }
+    ],
+    "TY": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/U-966892.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/U-966892.json",
+        "predicted_year": "2005",
+        "ground_truth_serial": "U-966892"
+      }
+    ],
+    "PI": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/X5G0A7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/X5G0A7.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "X5G0A7"
+      }
+    ],
+    "VEAE": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/X5G0A7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/X5G0A7.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "X5G0A7"
+      }
+    ],
+    "A": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/X5G0A7.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/X5G0A7.json",
+        "predicted_year": "2007",
+        "ground_truth_serial": "X5G0A7"
+      }
+    ],
+    "F": [
+      {
+        "pdf_path": "/Users/aravraval/Documents/atf_form_index/TestData2/ZJEN273.pdf",
+        "json_path": "/Users/aravraval/Documents/atf_form_index/TestData2/ZJEN273.json",
+        "predicted_year": "2012",
+        "ground_truth_serial": "ZJEN273"
+      }
+    ]
+  }
+}

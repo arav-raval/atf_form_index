@@ -1,0 +1,20 @@
+{
+  "pdf": "100UU6551.pdf",
+  "truth": "100UU6551",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        0,
+        474,
+        47
+      ],
+      "verify_status": "ok",
+      "verify_confidence": 0.5,
+      "ocr_text": "1 X 1006691",
+      "ocr_normalized": "1006691",
+      "looks_serial": true
+    }
+  ]
+}

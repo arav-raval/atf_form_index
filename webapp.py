@@ -78,15 +78,25 @@ def create_app():
   {% if error %}
   <p class="err">{{ error }}</p>
   {% endif %}
-  {% if entry %}
-  <p class="meta">
-    Predicted year: <strong>{{ entry.predicted_year|e }}</strong>
-    · Ground truth (if any): <strong>{{ entry.ground_truth|e }}</strong>
-  </p>
-  <p class="meta">
-    <a class="dl" href="{{ entry.pdf_url|e }}">Open PDF</a>
-  </p>
-  <iframe class="pdf-frame" title="PDF" src="{{ entry.viewer_url|e }}"></iframe>
+  {% if matches %}
+    {% if matches|length > 1 %}
+    <p class="meta">{{ matches|length }} matching documents.</p>
+    {% endif %}
+    {% for entry in matches %}
+    <p class="meta">
+      Matched indexed serial: <strong>{{ entry.matched_serial|e }}</strong>
+      {% if entry.match_type == 'exact' %}
+        <span style="color:#0a0;">(exact)</span>
+      {% else %}
+        <span style="color:#a80;">(near-match: OCR confusion)</span>
+      {% endif %}
+      <br>
+      Predicted year: <strong>{{ entry.predicted_year|e }}</strong>
+      · Ground truth (if any): <strong>{{ entry.ground_truth|e }}</strong>
+      · <a class="dl" href="{{ entry.pdf_url|e }}">Open PDF</a>
+    </p>
+    <iframe class="pdf-frame" title="PDF" src="{{ entry.viewer_url|e }}"></iframe>
+    {% endfor %}
   {% endif %}
   <p class="meta" style="margin-top:2rem;font-size:0.8rem;color:#888;">
     Index: {{ index_path|e }} — ingest PDFs with <code>python document_pipeline.py ingest</code> (from repo root)
@@ -103,34 +113,44 @@ def create_app():
     def search():
         q = (request.args.get("q") or "").strip()
         error = None
-        entry = None
+        matches: list[dict] = []
         if q:
             from document_pipeline import load_search_index
-            from serial_extract import normalize_serial
+            from pipeline import fuzzy_search
+            from pipeline.recognize import normalize_serial
 
             nq = normalize_serial(q)
             idx = load_search_index(SEARCH_INDEX)
-            raw = (idx.get("by_serial") or {}).get(nq)
-            if not raw:
-                error = f"No indexed document with normalized serial “{nq}”. Run offline ingest first."
+            by_serial = idx.get("by_serial") or {}
+            fuzzy_matches = fuzzy_search.search(q, by_serial)
+
+            if not fuzzy_matches:
+                error = (
+                    f"No indexed document matches “{nq}” (exact or near-match). "
+                    "Run offline ingest first."
+                )
             else:
-                pdf_path = raw.get("pdf_path") or ""
-                sp = _safe_pdf_path(pdf_path)
-                if not sp:
-                    error = "PDF path in index is not allowed or missing."
-                else:
-                    tok = _path_to_token(sp)
-                    entry = {
-                        "predicted_year": raw.get("predicted_year", ""),
-                        "ground_truth": raw.get("ground_truth_serial") or "—",
-                        "viewer_url": url_for("view_pdf", token=tok),
-                        "pdf_url": url_for("download_pdf", token=tok),
-                    }
+                for fm in fuzzy_matches:
+                    for raw in fm.refs:
+                        sp = _safe_pdf_path(raw.get("pdf_path") or "")
+                        if not sp:
+                            continue
+                        tok = _path_to_token(sp)
+                        matches.append({
+                            "predicted_year": raw.get("predicted_year", ""),
+                            "ground_truth": raw.get("ground_truth_serial") or "—",
+                            "matched_serial": fm.indexed_serial,
+                            "match_type": fm.reason,
+                            "viewer_url": url_for("view_pdf", token=tok),
+                            "pdf_url": url_for("download_pdf", token=tok),
+                        })
+                if not matches:
+                    error = "PDF paths in the index are not allowed or missing."
         return render_template_string(
             HTML,
             q=q,
             error=error,
-            entry=entry,
+            matches=matches,
             index_path=str(SEARCH_INDEX),
         )
 

@@ -152,5 +152,12 @@
     "combined": true,
     "month_x": 494,
     "y": 737
+  },
+  "serial_block": {
+    "page": 0,
+    "x": 289.75,
+    "y": 586.88,
+    "width": 104.56,
+    "height": 34.1
   }
 }

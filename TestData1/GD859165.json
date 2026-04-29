@@ -129,5 +129,25 @@
     "examiner_name": "Jill Chaney",
     "examiner_brady_id": "463-14-9156",
     "examiner_written": true
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [
+      "FI",
+      "APENAEUSOL8565I"
+    ],
+    "ocr_raw_text": "Fi\na Penaeus ol8565 i",
+    "ocr_lines": [
+      "Fi",
+      "a Penaeus ol8565 i"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.991,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:45:38+00:00",
+    "ground_truth_serial": "GD859165",
+    "serial_match": false
   }
 }

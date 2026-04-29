@@ -129,5 +129,23 @@
     "examiner_name": "Patricia Campos",
     "examiner_brady_id": "516-70-3805",
     "examiner_written": true
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [
+      "15N10608S"
+    ],
+    "ocr_raw_text": "15N10608 S",
+    "ocr_lines": [
+      "15N10608 S"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.986,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:44:34+00:00",
+    "ground_truth_serial": "15N10608",
+    "serial_match": false
   }
 }

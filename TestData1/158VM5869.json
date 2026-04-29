@@ -55,5 +55,25 @@
     }
   ],
   "yes_no_answers": [],
-  "nics": {}
+  "nics": {},
+  "processing": {
+    "predicted_year": "2020",
+    "predicted_serials": [
+      "158VM5869",
+      "WALOFNNPDLEBE"
+    ],
+    "ocr_raw_text": "158VM5869\nWALoFnnPdlebe",
+    "ocr_lines": [
+      "158VM5869",
+      "WALoFnnPdlebe"
+    ],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9849,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:44:28+00:00",
+    "ground_truth_serial": "158VM5869",
+    "serial_match": true
+  }
 }

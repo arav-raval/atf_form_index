@@ -1,0 +1,20 @@
+{
+  "pdf": "NAL906.pdf",
+  "truth": "NAL906",
+  "rows": [
+    {
+      "row_index": 0,
+      "box_in_block": [
+        0,
+        270,
+        546,
+        301
+      ],
+      "verify_status": "template_only",
+      "verify_confidence": 0.95,
+      "ocr_text": "",
+      "ocr_normalized": "",
+      "looks_serial": false
+    }
+  ]
+}

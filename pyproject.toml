@@ -1,0 +1,19 @@
+[project]
+name = "atf-form-index"
+version = "0.1.0"
+description = "ATF firearm form classification and serial number extraction pipeline"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "Pillow>=10.0",
+    "pdf2image>=1.16",
+    "scikit-image>=0.22",
+    "pytesseract>=0.3.10",
+    "flask>=3.0",
+    "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]

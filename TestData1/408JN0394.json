@@ -129,5 +129,19 @@
     "examiner_name": "Claudia Boyle",
     "examiner_brady_id": "688-37-2828",
     "examiner_written": true
+  },
+  "processing": {
+    "predicted_year": "2005",
+    "predicted_serials": [],
+    "ocr_raw_text": "",
+    "ocr_lines": [],
+    "ocr_method": "tesseract",
+    "classifier_score": 0.9834,
+    "classifier_status": "OK",
+    "pipeline_status": "OK",
+    "verify_confidence": 1.0,
+    "processed_at": "2026-04-28T19:44:57+00:00",
+    "ground_truth_serial": "408JN0394",
+    "serial_match": null
   }
 }
