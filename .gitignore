@@ -1,0 +1,31 @@
+# OS / editor cruft
+.DS_Store
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs / debug outputs
+classifier.log
+crop_debug/
+crops_debug/
+classifier_threshold_search.json
+
+# Large input datasets (committed separately or generated on demand)
+Version 2 Datasets/
+
+# Generated training/eval outputs
+verifier_data/
+verifier_data_v2/
+ocr_finetune_data/
+
+# Trained model checkpoints (large; rebuild via training scripts)
+*.pt
+*.pkl
+trocr_finetuned/
+
+# Cached features
+verifier_vit_features.npz
