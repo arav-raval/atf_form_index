@@ -1,0 +1,403 @@
+{
+  "total_pages": 46,
+  "total_forms": 23,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2016"
+    },
+    {
+      "page": 2,
+      "form_year": "2016"
+    },
+    {
+      "page": 3,
+      "form_year": "2016"
+    },
+    {
+      "page": 4,
+      "form_year": "2016"
+    },
+    {
+      "page": 5,
+      "form_year": "2016"
+    },
+    {
+      "page": 6,
+      "form_year": "2016"
+    },
+    {
+      "page": 7,
+      "form_year": "2016"
+    },
+    {
+      "page": 8,
+      "form_year": "2016"
+    },
+    {
+      "page": 9,
+      "form_year": "2016"
+    },
+    {
+      "page": 10,
+      "form_year": "2016"
+    },
+    {
+      "page": 11,
+      "form_year": "2016"
+    },
+    {
+      "page": 12,
+      "form_year": "2016"
+    },
+    {
+      "page": 13,
+      "form_year": "2016"
+    },
+    {
+      "page": 14,
+      "form_year": "2016"
+    },
+    {
+      "page": 15,
+      "form_year": "2016"
+    },
+    {
+      "page": 16,
+      "form_year": "2016"
+    },
+
+    {
+      "page": 17,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "66B166715",
+          "page": 1
+        },
+        {
+          "serial": "JFJ7395",
+          "page": 1
+        },
+        {
+          "serial": "HG142474",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 19,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABJ954328",
+          "page": 1
+        },
+        {
+          "serial": "BRAZ798",
+          "page": 1
+        },
+        {
+          "serial": "20CB29179",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 21,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABK986116",
+          "page": 1
+        },
+        {
+          "serial": "ABJ954226",
+          "page": 1
+        },
+        {
+          "serial": "20AT33818",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 23,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "BRDA826",
+          "page": 1
+        },
+        {
+          "serial": "AEUA735",
+          "page": 1
+        },
+        {
+          "serial": "AEXH581",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 25,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "FCR9447",
+          "page": 1
+        },
+        {
+          "serial": "FCR7835",
+          "page": 1
+        },
+        {
+          "serial": "FCV7502",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 27,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABK033375",
+          "page": 1
+        },
+        {
+          "serial": "ABK033464",
+          "page": 1
+        },
+        {
+          "serial": "ABK033329",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 29,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABK032996",
+          "page": 1
+        },
+        {
+          "serial": "ABK033572",
+          "page": 1
+        },
+        {
+          "serial": "ABK033537",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 31,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "PB0343020",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 33,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABL179769",
+          "page": 1
+        },
+        {
+          "serial": "ABL179346",
+          "page": 1
+        },
+        {
+          "serial": "ABL182113",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 35,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "JHN1441",
+          "page": 1
+        },
+        {
+          "serial": "JHN3126",
+          "page": 1
+        },
+        {
+          "serial": "JHN1891",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 37,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABM279891",
+          "page": 1
+        },
+        {
+          "serial": "384-00274",
+          "page": 1
+        },
+        {
+          "serial": "20BH25248",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 39,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "20BH25261",
+          "page": 1
+        },
+        {
+          "serial": "BY589337",
+          "page": 1
+        },
+        {
+          "serial": "384-00402",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 41,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABH318181",
+          "page": 1
+        },
+        {
+          "serial": "T06Z0-Z0JJ01332",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 43,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "T6429-21S06144",
+          "page": 1
+        },
+        {
+          "serial": "ACG052390",
+          "page": 1
+        },
+        {
+          "serial": "1C056315",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "form_year": "2020"
+    },
+
+    {
+      "page": 45,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "66B166715",
+          "page": 1
+        },
+        {
+          "serial": "JFJ7395",
+          "page": 1
+        },
+        {
+          "serial": "HG142474",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "form_year": "2020"
+    }
+  ]
+}

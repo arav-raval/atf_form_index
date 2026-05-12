@@ -1,0 +1,44 @@
+{
+  "total_pages": 6,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "BPX09084",
+          "page": 1
+        },
+        {
+          "serial": "DTI-A000461",
+          "page": 1
+        },
+        {
+          "serial": "bben714",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "form_year": "2020"
+    },
+    {
+      "page": 3,
+      "form_year": "2020"
+    },
+    {
+      "page": 4,
+      "form_year": "2020"
+    },
+     {
+      "page": 5,
+      "form_year": "2020"
+    },
+     {
+      "page": 6,
+      "form_year": "2020"
+    }
+  ]
+}

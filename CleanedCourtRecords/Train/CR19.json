@@ -1,0 +1,44 @@
+{
+  "total_pages": 6,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2008"
+    },
+    {
+      "page": 2,
+      "form_year": "2008"
+    },
+    {
+      "page": 3,
+      "form_year": "2008",
+      "firearms": [
+        {
+          "serial": "F181316K",
+          "page": 3
+        },
+        {
+          "serial": "F181335K",
+          "page": 3
+        },
+        {
+          "serial": "F181332K",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "form_year": "2008"
+    },
+     {
+      "page": 5,
+      "form_year": "2008"
+    },
+     {
+      "page": 6,
+      "form_year": "2008"
+    }
+  ]
+}

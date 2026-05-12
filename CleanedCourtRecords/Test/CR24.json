@@ -1,0 +1,48 @@
+{
+  "total_pages": 6,
+  "total_forms": 3,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2005",
+      "firearms": [
+        {
+          "serial": "D72587",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "form_year": "2005"
+    },
+    {
+      "page": 3,
+      "form_year": "2005"
+    },
+    {
+      "page": 4,
+      "form_year": "2005",
+      "firearms": [
+        {
+          "serial": "KG446958",
+          "page": 2
+        }
+      ]
+    },
+     {
+      "page": 5,
+      "form_year": "2005"
+    },
+     {
+      "page": 6,
+      "form_year": "2005",
+      "firearms": [
+        {
+          "serial": "Fm4953-76",
+          "page": 2
+        }
+      ]
+    }
+  ]
+}

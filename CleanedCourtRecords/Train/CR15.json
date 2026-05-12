@@ -1,0 +1,24 @@
+{
+  "total_pages": 2,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2001"
+    },
+    {
+      "page": 2,
+      "form_year": "2001",
+      "firearms": [
+        {
+          "serial": "AFI440354",
+          "page": 2
+        },
+         {
+          "serial": "D852879M",
+          "page": 2
+        }
+      ]
+    }
+  ]
+}

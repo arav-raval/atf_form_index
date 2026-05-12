@@ -1,0 +1,305 @@
+{
+  "year": "2020",
+  "image_only": false,
+  "page_size": [
+    612,
+    792
+  ],
+  "firearm_rows": {
+    "page": 0,
+    "max": 3,
+    "columns": {
+      "manufacturer": 40,
+      "model": 240,
+      "serial": 379,
+      "type": 500,
+      "caliber": 547
+    },
+    "row_y": [
+      225,
+      244,
+      263
+    ]
+  },
+  "num_firearms": {
+    "page": 0,
+    "x": 38,
+    "y": 310
+  },
+  "trans_number": {
+    "page": 0,
+    "x": 510,
+    "y": 135
+  },
+  "buyer_name": {
+    "page": 0,
+    "last_x": 34,
+    "first_x": 222,
+    "middle_x": 415,
+    "y": 361
+  },
+  "address": {
+    "page": 0,
+    "street_x": 35,
+    "city_x": 225,
+    "state_x": 400,
+    "zip_x": 430,
+    "county_x": 496,
+    "y": 407
+  },
+  "birth_place": {
+    "page": 0,
+    "x": 48,
+    "y": 450
+  },
+  "height": {
+    "page": 0,
+    "ft_x": 285,
+    "in_x": 285,
+    "ft_y": 432,
+    "in_y": 448
+  },
+  "weight": {
+    "page": 0,
+    "x": 328,
+    "y": 444
+  },
+  "sex": {
+    "page": 0,
+    "male_y": 433,
+    "female_y": 443,
+    "nonbinary_y": 455,
+    "x": 370
+  },
+  "dob": {
+    "page": 0,
+    "month_x": 440,
+    "day_x": 480,
+    "year_x": 535,
+    "y": 447
+  },
+  "ssn": {
+    "page": 0,
+    "x": 42,
+    "y": 484
+  },
+  "yes_no": [
+    {
+      "page": 0,
+      "x": 549,
+      "y": 616
+    },
+    {
+      "page": 0,
+      "x": 574,
+      "y": 653
+    },
+    {
+      "page": 0,
+      "x": 574,
+      "y": 683
+    },
+    {
+      "page": 0,
+      "x": 574,
+      "y": 706
+    },
+    {
+      "page": 0,
+      "x": 574,
+      "y": 730
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 47
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 62
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 76
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 99
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 125
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 138
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 151
+    },
+    {
+      "page": 1,
+      "x": 573,
+      "y": 164
+    }
+  ],
+  "signature": {
+    "page": 1,
+    "x": 42,
+    "y": 280
+  },
+  "cert_date": {
+    "page": 1,
+    "month_x": 421,
+    "day_x": 477,
+    "year_x": 534,
+    "y": 282
+  },
+  "firearm_cat": {
+    "page": 1,
+    "y": 332,
+    "pistol_x": 45,
+    "rifle_x": 100,
+    "other_x": 176
+  },
+  "id_info": {
+    "page": 1,
+    "issuer_x": 27,
+    "number_x": 220,
+    "exp_month_x": 412,
+    "exp_day_x": 467,
+    "exp_year_x": 517,
+    "y": 400
+  },
+  "nics": {
+    "page": 1,
+    "month_x": 33,
+    "day_x": 88,
+    "year_x": 142,
+    "y": 550,
+    "proceed_x": 53,
+    "proceed_y": 594
+  },
+  "dealer": {
+    "page": 2,
+    "x": 332,
+    "name_y": 225,
+    "street_y": 245,
+    "city_y": 265,
+    "ffl_y": 280,
+    "ffl_x": 332
+  },
+  "seller": {
+    "page": 2,
+    "x": 45,
+    "y": 420
+  },
+  "transfer_date": {
+    "page": 2,
+    "month_x": 465,
+    "day_x": 504,
+    "year_x": 545,
+    "y": 425
+  },
+  "transferor_sig": {
+    "page": 2,
+    "x": 250,
+    "y": 420
+  },
+  "recert_sig": {
+    "page": 2,
+    "x": 34,
+    "y": 157
+  },
+  "recert_date": {
+    "page": 2,
+    "day_x": 515,
+    "month_x": 467,
+    "year_x": 550,
+    "y": 157
+  },
+  "ethnicity_race": {
+    "page": 0,
+    "hispanic_x": 35,
+    "hispanic_y": 509,
+    "not_hispanic_x": 35,
+    "not_hispanic_y": 525,
+    "race_xs": [
+      148,
+      292,
+      473,
+      148,
+      297
+    ],
+    "race_ys": [
+      509,
+      509,
+      509,
+      525,
+      525
+    ]
+  },
+  "continuation": {
+    "path": "Continuation.pdf",
+    "rows_per_sheet": 26,
+    "total_max": 29,
+    "columns": {
+      "manufacturer": 50,
+      "model": 230,
+      "serial": 350,
+      "type": 478,
+      "caliber": 550
+    },
+    "row_ys": [
+      269,
+      287,
+      305,
+      323,
+      341,
+      359,
+      377,
+      395,
+      413,
+      431,
+      448,
+      467,
+      485,
+      502,
+      520,
+      538,
+      556,
+      573,
+      591,
+      609,
+      627,
+      644,
+      662,
+      680,
+      698,
+      715
+    ],
+    "trans_number": {
+      "x": 27,
+      "y": 130
+    },
+    "date": {
+      "month_x": 422,
+      "day_x": 478,
+      "year_x": 528,
+      "y": 130
+    },
+    "buyer_name": {
+      "last_x": 27,
+      "first_x": 233,
+      "middle_x": 427,
+      "y": 175
+    }
+  }
+}

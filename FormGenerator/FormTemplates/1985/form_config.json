@@ -1,0 +1,176 @@
+{
+  "year": "1985",
+  "image_only": false,
+  "page_size": [
+    590,
+    772
+  ],
+  "firearm_rows": {
+    "page": 0,
+    "max": 2,
+    "columns": {
+      "manufacturer": 417,
+      "model": 167,
+      "serial": 310,
+      "type": 49,
+      "caliber": 233
+    },
+    "row_y": [
+      599,
+      618
+    ]
+  },
+  "trans_number": {
+    "page": 0,
+    "x": 452,
+    "y": 63
+  },
+  "buyer_name": {
+    "page": 0,
+    "combined": true,
+    "last_x": 56,
+    "y": 127
+  },
+  "address": {
+    "page": 0,
+    "combined": true,
+    "street_x": 57,
+    "y": 162
+  },
+  "birth_place": {
+    "page": 0,
+    "x": 475,
+    "y": 177
+  },
+  "height": {
+    "page": 0,
+    "combined": true,
+    "ft_x": 393,
+    "ft_y": 127
+  },
+  "weight": {
+    "page": 0,
+    "x": 462,
+    "y": 127
+  },
+  "sex": {
+    "page": 0,
+    "male_y": 122,
+    "female_y": 135,
+    "x": 333
+  },
+  "dob": {
+    "page": 0,
+    "month_x": 386,
+    "day_x": 415,
+    "year_x": 438,
+    "y": 185
+  },
+  "race_text": {
+    "page": 0,
+    "x": 530,
+    "y": 127
+  },
+  "yes_no": [
+    {
+      "page": 0,
+      "x": 280,
+      "y": 232,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 280,
+      "y": 278,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 550,
+      "y": 239,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 550,
+      "y": 256,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 550,
+      "y": 279,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 550,
+      "y": 302,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 550,
+      "y": 329,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 550,
+      "y": 348,
+      "answer": true
+    }
+  ],
+  "signature": {
+    "page": 0,
+    "x": 49,
+    "y": 412
+  },
+  "cert_date": {
+    "page": 0,
+    "combined": true,
+    "month_x": 462,
+    "y": 412
+  },
+  "id_info": {
+    "page": 0,
+    "issuer_x": 52,
+    "number_x": 310,
+    "y": 515
+  },
+  "dealer": {
+    "page": 0,
+    "x": 57,
+    "name_y": 657,
+    "street_y": 669,
+    "city_y": 680,
+    "ffl_y": 657,
+    "ffl_x": 360
+  },
+  "seller": {
+    "page": 0,
+    "x": 49,
+    "y": 730
+  },
+  "transfer_date": {
+    "page": 0,
+    "combined": true,
+    "month_x": 494,
+    "y": 737
+  },
+  "known_to_me_chk": {
+    "page": 0,
+    "x": 217,
+    "y": 446
+  },
+  "identified_by_chk": {
+    "page": 0,
+    "x": 217,
+    "y": 454
+  },
+  "transferor_title": {
+    "page": 0,
+    "x": 276,
+    "y": 737
+  }
+}

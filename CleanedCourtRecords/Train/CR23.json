@@ -1,0 +1,20 @@
+{
+  "total_pages": 2,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2023",
+      "firearms": [
+        {
+          "serial": "ADAT232",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "form_year": "2023"
+    }
+  ]
+}

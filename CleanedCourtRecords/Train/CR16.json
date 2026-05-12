@@ -1,0 +1,28 @@
+{
+  "total_pages": 3,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2016"
+    },
+    {
+      "page": 2,
+      "form_year": "2016"
+    },
+    {
+      "page": 3,
+      "form_year": "2016",
+      "firearms": [
+        {
+          "serial": "CFM856US",
+          "page": 3
+        },
+         {
+          "serial": "BHVE236",
+          "page": 3
+        }
+      ]
+    }
+  ]
+}

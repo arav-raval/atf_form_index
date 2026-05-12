@@ -1,0 +1,36 @@
+{
+  "total_pages": 2,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2020"
+    },
+    {
+      "page": 2,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "C227719",
+          "page": 7
+        },
+         {
+          "serial": "FDE3915",
+          "page": 7
+        },
+         {
+          "serial": "FDM9525",
+          "page": 7
+        },
+         {
+          "serial": "BUTH893",
+          "page": 7
+        },
+         {
+          "serial": "C227730",
+          "page": 7
+        }
+      ]
+    }
+  ]
+}

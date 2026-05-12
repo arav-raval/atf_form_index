@@ -1,0 +1,66 @@
+{
+  "total_pages": 7,
+  "total_forms": 1,
+  "pages": [
+    {
+      "page": 1,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "ABK986116",
+          "page": 1
+        },
+        {
+          "serial": "ABJ954226",
+          "page": 1
+        },
+        {
+          "serial": "20AT33818",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "form_year": "2020"
+    },
+    {
+      "page": 3,
+      "form_year": "2020"
+    },
+    {
+      "page": 4,
+      "form_year": "2020"
+    },
+    {
+      "page": 5,
+      "form_year": "2020"
+    },
+    {
+      "page": 6,
+      "form_year": "2020"
+    },
+    {
+      "page": 7,
+      "form_year": "2020",
+      "firearms": [
+        {
+          "serial": "20AT33615",
+          "page": 7
+        },
+        {
+          "serial": "T6429-20U10510",
+          "page": 7
+        },
+        {
+          "serial": "T6429-20U10509",
+          "page": 7
+        },
+        {
+          "serial": "MV0523351",
+          "page": 7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "year": "2007",
+  "image_only": false,
+  "page_size": [
+    612,
+    792
+  ],
+  "firearm_rows": {
+    "page": 1,
+    "max": 3,
+    "columns": {
+      "manufacturer": 60,
+      "model": 210,
+      "serial": 314,
+      "type": 423,
+      "caliber": 514
+    },
+    "row_y": [
+      671,
+      690,
+      710
+    ]
+  },
+  "trans_number": {
+    "page": 0,
+    "x": 532,
+    "y": 130
+  },
+  "buyer_name": {
+    "page": 0,
+    "last_x": 44,
+    "first_x": 240,
+    "middle_x": 402,
+    "y": 187
+  },
+  "address": {
+    "page": 0,
+    "street_x": 46,
+    "city_x": 224,
+    "state_x": 452,
+    "zip_x": 504,
+    "county_x": 392,
+    "y": 242
+  },
+  "birth_place": {
+    "page": 0,
+    "x": 44,
+    "y": 278
+  },
+  "ssn": {
+    "page": 0,
+    "x": 43,
+    "y": 310
+  },
+  "height": {
+    "page": 0,
+    "ft_x": 284,
+    "in_x": 289,
+    "ft_y": 268,
+    "in_y": 284
+  },
+  "weight": {
+    "page": 0,
+    "x": 323,
+    "y": 272
+  },
+  "sex": {
+    "page": 0,
+    "x": 398,
+    "male_y": 267,
+    "female_y": 284
+  },
+  "dob": {
+    "page": 0,
+    "month_x": 416,
+    "day_x": 464,
+    "year_x": 519,
+    "y": 287
+  },
+  "yes_no": [
+    {
+      "page": 0,
+      "x": 520,
+      "y": 388,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 419,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 440,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 461,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 478,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 498,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 518,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 535,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 558,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 575,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 589,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 605,
+      "answer": true
+    },
+    {
+      "page": 0,
+      "x": 520,
+      "y": 630,
+      "answer": true
+    }
+  ],
+  "signature": {
+    "page": 1,
+    "x": 46,
+    "y": 153
+  },
+  "cert_date": {
+    "page": 1,
+    "combined": true,
+    "month_x": 468,
+    "y": 150
+  },
+  "recert_sig": {
+    "page": 1,
+    "x": 40,
+    "y": 610
+  },
+  "recert_date": {
+    "page": 1,
+    "month_x": 416,
+    "day_x": 468,
+    "year_x": 516,
+    "y": 610
+  },
+  "firearm_cat": {
+    "page": 1,
+    "y": 196,
+    "pistol_x": 60,
+    "rifle_x": 148,
+    "other_x": 252
+  },
+  "id_info": {
+    "page": 1,
+    "issuer_x": 46,
+    "number_x": 227,
+    "exp_month_x": 410,
+    "exp_day_x": 457,
+    "exp_year_x": 506,
+    "y": 250
+  },
+  "nics": {
+    "page": 1,
+    "month_x": 220,
+    "y": 355,
+    "proceed_x": 72,
+    "proceed_y": 398,
+    "combined": true
+  },
+  "dealer": {
+    "page": 2,
+    "x": 50,
+    "name_y": 93,
+    "street_y": 105,
+    "city_y": 117,
+    "ffl_y": 105,
+    "ffl_x": 347
+  },
+  "seller": {
+    "page": 2,
+    "x": 44,
+    "y": 220
+  },
+  "transfer_date": {
+    "page": 2,
+    "month_x": 505,
+    "y": 220,
+    "combined": true
+  },
+  "race": {
+    "page": 0,
+    "positions": [
+      [
+        62,
+        340
+      ],
+      [
+        230,
+        340
+      ],
+      [
+        398,
+        356
+      ],
+      [
+        232,
+        356
+      ],
+      [
+        398,
+        340
+      ]
+    ],
+    "hisp_pos": [
+      62,
+      356
+    ]
+  },
+  "citizenship": {
+    "page": 0,
+    "us_x": 58,
+    "us_y": 676,
+    "other_x": 199,
+    "other_y": 676,
+    "specify_x": 270
+  },
+  "state_of_residence": {
+    "page": 0,
+    "x": 203,
+    "y": 647
+  },
+  "transferor_title": {
+    "page": 2,
+    "x": 400,
+    "y": 224
+  },
+  "transferor_sig": {
+    "page": 2,
+    "x": 225,
+    "y": 220
+  }
+}
