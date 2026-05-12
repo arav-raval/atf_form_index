@@ -13,19 +13,37 @@ classifier.log
 crop_debug/
 crops_debug/
 classifier_threshold_search.json
+debug_*/
+annotation_smoketest/
+deskew_smoketest/
 
 # Large input datasets (committed separately or generated on demand)
 Version 2 Datasets/
+MasterTraining/
+MasterTesting/
+SerialSets/
+TestSerialSet/
+Serial Error Pages/
+Classifier Package/
+TestData1/
+TestData2/
+Datasets/
 
 # Generated training/eval outputs
 verifier_data/
 verifier_data_v2/
 ocr_finetune_data/
+ocr_synth_data/
+ocr_synth_data_10k/
+ocr_combined_data/
+ocr_combined_data_10k/
 
 # Trained model checkpoints (large; rebuild via training scripts)
 *.pt
 *.pkl
 trocr_finetuned/
+trocr_finetuned_10k/
+trocr_finetuned_combined/
 
 # Cached features
-verifier_vit_features.npz
+*.npz

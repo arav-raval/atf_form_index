@@ -25,7 +25,7 @@ _CROP_DPI = 200
 # Extra margin (pt) added to every side of the serial block crop — both for
 # annotated boxes and the fallback computation. Bump this if OCR is losing
 # edge characters; drop it if captions/neighbors are bleeding in.
-_BLOCK_PAD = 8.0
+_BLOCK_PAD = 1.0
 
 # Fallback-only padding (used when no serial_block annotation exists).
 _PAD_X = 4.0

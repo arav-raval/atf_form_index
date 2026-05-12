@@ -19,12 +19,15 @@ class RowResult:
     serial_normalized: str = ""
     looks_serial: bool = False
     ocr_method: str = ""
+    # Top-N alternative OCR hypotheses (each {text, normalized, score}).
+    # Includes the top-1 (which is also serial_raw / serial_normalized).
+    ocr_hypotheses: list[dict] = field(default_factory=list)
 
     @property
     def admitted(self) -> bool:
         """True when this row contributes to the search index."""
         return (
-            self.verify_status == "ok"
+            self.verify_status in ("ok", "ml_vit")
             and bool(self.serial_normalized)
             and self.looks_serial
         )

@@ -89,6 +89,7 @@ def run(
             row.serial_normalized = rec["normalized"]
             row.looks_serial = bool(rec["looks_serial"])
             row.ocr_method = rec["method"]
+            row.ocr_hypotheses = rec.get("hypotheses", [])
 
         result.rows.append(row)
 

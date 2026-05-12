@@ -1,13 +1,22 @@
 """Stage 2 — Classify form version.
 
-SSIM template matching against ``FormTemplates/<year>/``. Each template folder's
-``form_config.json`` specifies ``firearm_rows.page`` — the reference page used
-for matching. The document's best SSIM across all pages vs. each template wins.
+Two backends, picked at call time:
+  1. ConvNeXt-Tiny page classifier (``best_model.pt`` + ``label_map.pkl`` at
+     repo root). Per-page (year, page_within_form) prediction with a
+     ``discard`` class for non-form pages. Trained from scratch, not a
+     template-matching heuristic. Preferred when the checkpoint exists.
+  2. SSIM template matching against ``FormTemplates/<year>/``. Used when no
+     ConvNeXt checkpoint is present.
+
+Both backends operate on the **raw rasterized page** — no Sauvola
+preprocessing. Preprocessing is applied later (stage 3) before
+localization / verification.
 """
 
 import json
 import logging
 import os
+from pathlib import Path
 
 import numpy as np
 from PIL import Image
@@ -250,12 +259,23 @@ def classify_single_page(
     doc_path: str,
     page_0based: int,
     library: dict,
-    threshold: float = CONFIDENCE_THRESHOLD,
+    threshold: float | None = None,
     *,
     silent: bool = False,
 ) -> dict:
     if not silent:
         log.info(f"Classifying single page: {doc_path}  [page index {page_0based}]")
+
+    # Prefer ConvNeXt when available
+    if _convnext_available():
+        th = threshold if threshold is not None else CONVNEXT_THRESHOLD
+        result = _classify_single_page_convnext(doc_path, page_0based, th)
+        if result is not None:
+            return result
+
+    # SSIM fallback
+    if threshold is None:
+        threshold = CONFIDENCE_THRESHOLD
 
     try:
         one = load_document_page(doc_path, page_0based)
@@ -344,13 +364,271 @@ def classify_batch(
 
 _library_cache: dict | None = None
 
+# ---------------------------------------------------------------------------
+# ConvNeXt backend
+# ---------------------------------------------------------------------------
+
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+# ConvNeXt checkpoint lives in ``Classifier Package/`` (the original
+# training output dir). Falls back to repo root for either file if
+# someone copies them up.
+_CONVNEXT_PKG_DIR = _REPO_ROOT / "Classifier Package"
+_CONVNEXT_MODEL_PATH = _CONVNEXT_PKG_DIR / "best_model.pt"
+if not _CONVNEXT_MODEL_PATH.is_file():
+    _CONVNEXT_MODEL_PATH = _REPO_ROOT / "best_model.pt"
+_CONVNEXT_LABELS_PATH = _CONVNEXT_PKG_DIR / "label_map.pkl"
+if not _CONVNEXT_LABELS_PATH.is_file():
+    _CONVNEXT_LABELS_PATH = _REPO_ROOT / "label_map.pkl"
+_CONVNEXT_CACHE: dict | None = None
+# ConvNeXt's intrinsic decision threshold on the top-class softmax probability.
+# Below this we mark UNSURE.
+CONVNEXT_THRESHOLD = 0.50
+
+
+def _convnext_available() -> bool:
+    return _CONVNEXT_MODEL_PATH.is_file() and _CONVNEXT_LABELS_PATH.is_file()
+
+
+def _try_load_convnext() -> dict | None:
+    """Lazily load ConvNeXt + label map. Cached. Returns None if torch isn't
+    installed or files are missing."""
+    global _CONVNEXT_CACHE
+    if _CONVNEXT_CACHE is not None:
+        return _CONVNEXT_CACHE
+    if not _convnext_available():
+        return None
+    try:
+        import pickle
+        import torch
+        import torch.nn as nn
+        from torchvision import transforms
+        from torchvision.models import convnext_tiny
+    except ImportError:
+        return None
+    try:
+        with open(_CONVNEXT_LABELS_PATH, "rb") as f:
+            meta = pickle.load(f)
+        idx_to_label = meta["idx_to_label"]
+        num_classes = len(idx_to_label)
+
+        model = convnext_tiny(weights=None)
+        in_features = model.classifier[2].in_features
+        model.classifier[2] = nn.Sequential(
+            nn.Dropout(p=0.0),
+            nn.Linear(in_features, num_classes),
+        )
+        ckpt = torch.load(_CONVNEXT_MODEL_PATH, map_location="cpu", weights_only=True)
+        model.load_state_dict(ckpt["model_state"])
+        model.eval()
+        device = torch.device("mps" if torch.backends.mps.is_available()
+                              else "cuda" if torch.cuda.is_available()
+                              else "cpu")
+        model.to(device)
+
+        IMAGE_SIZE = 224
+        tx = transforms.Compose([
+            transforms.Resize((IMAGE_SIZE, IMAGE_SIZE)),
+            transforms.ToTensor(),
+            transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225]),
+        ])
+        _CONVNEXT_CACHE = {
+            "model": model,
+            "tx": tx,
+            "idx_to_label": idx_to_label,
+            "device": device,
+            "num_classes": num_classes,
+        }
+        log.info(
+            f"  ConvNeXt classifier loaded ({num_classes} classes) on {device}"
+        )
+        return _CONVNEXT_CACHE
+    except Exception as e:
+        log.warning(f"  ConvNeXt load failed: {e}")
+        return None
+
+
+def _convnext_predict(img: Image.Image) -> dict:
+    """Predict on a single PIL image. Returns the same dict shape as the SSIM
+    classifier, with extra ``page_within_form`` field."""
+    import torch
+    import torch.nn.functional as F
+
+    cache = _try_load_convnext()
+    if cache is None:
+        return None  # caller falls back to SSIM
+
+    rgb = img.convert("RGB")
+    tensor = cache["tx"](rgb).unsqueeze(0).to(cache["device"])
+    with torch.no_grad():
+        probs = F.softmax(cache["model"](tensor), dim=1)[0]
+    top = int(probs.argmax().item())
+    top_score = float(probs[top].item())
+    label_obj = cache["idx_to_label"][top]
+
+    def _parse(lbl):
+        """Returns (year, page_type) where page_type is 'serial' /
+        'continuation' / None. Handles both string labels
+        ('2016_serial', 'discard') and legacy tuple labels (('2016', 3))."""
+        if lbl == "discard":
+            return None, None
+        if isinstance(lbl, str):
+            if "_" in lbl:
+                year, page_type = lbl.rsplit("_", 1)
+                return year, page_type
+            return lbl, None
+        if isinstance(lbl, tuple) and len(lbl) >= 2:
+            return str(lbl[0]), lbl[1]
+        return None, None
+
+    year, page_type = _parse(label_obj)
+    is_discard = label_obj == "discard"
+
+    # Per-year max-prob (ignoring page_type), for SSIM-shape compatibility.
+    per_year: dict[str, float] = {}
+    for idx, lbl in cache["idx_to_label"].items():
+        y, _pt = _parse(lbl)
+        if y is None:
+            continue
+        s = float(probs[idx].item())
+        if y not in per_year or s > per_year[y]:
+            per_year[y] = round(s, 4)
+
+    return {
+        "label": year,
+        "score": round(top_score, 4),
+        "page_within_form": page_type,
+        "is_discard": is_discard,
+        "all_scores": per_year,
+    }
+
+
+def _classify_pdf_convnext(pdf_path: str, threshold: float) -> dict | None:
+    """ConvNeXt-backed equivalent of ``classify``. Predicts every page,
+    picks the (page, year) with the highest non-discard confidence as the
+    document's classification."""
+    cache = _try_load_convnext()
+    if cache is None:
+        return None
+    try:
+        if pdf_path.lower().endswith(".pdf"):
+            pages = convert_from_path(pdf_path, dpi=150)
+        else:
+            pages = [Image.open(pdf_path)]
+    except Exception as e:
+        log.error(f"  Failed to load document for ConvNeXt: {e}")
+        return {
+            "file": pdf_path,
+            "label": None, "score": 0.0, "status": "ERROR",
+            "all_scores": {}, "best_doc_page": None, "num_doc_pages": 0,
+        }
+    if not pages:
+        return {
+            "file": pdf_path,
+            "label": None, "score": 0.0, "status": "ERROR",
+            "all_scores": {}, "best_doc_page": None, "num_doc_pages": 0,
+        }
+
+    best_page_idx = 0
+    best_year: str | None = None
+    best_score = 0.0
+    page_within_form: int | None = None
+    all_scores_agg: dict[str, float] = {}
+    for i, pg in enumerate(pages):
+        pred = _convnext_predict(pg)
+        if pred is None:
+            continue
+        # Aggregate per-year scores across pages by max
+        for y, s in pred["all_scores"].items():
+            if y not in all_scores_agg or s > all_scores_agg[y]:
+                all_scores_agg[y] = s
+        # Pick the page+label with the highest non-discard score
+        if not pred["is_discard"] and pred["score"] > best_score:
+            best_score = pred["score"]
+            best_year = pred["label"]
+            best_page_idx = i
+            page_within_form = pred["page_within_form"]
+
+    status = "OK" if best_score >= threshold else "UNSURE"
+    return {
+        "file": pdf_path,
+        "label": best_year,
+        "score": best_score,
+        "status": status,
+        "all_scores": all_scores_agg,
+        "best_doc_page": best_page_idx,
+        "num_doc_pages": len(pages),
+        "page_within_form": page_within_form,
+        "backend": "convnext",
+    }
+
+
+def _classify_single_page_convnext(
+    pdf_path: str, page_0based: int, threshold: float,
+) -> dict | None:
+    cache = _try_load_convnext()
+    if cache is None:
+        return None
+    try:
+        if pdf_path.lower().endswith(".pdf"):
+            p1 = page_0based + 1
+            pages = convert_from_path(pdf_path, dpi=150,
+                                      first_page=p1, last_page=p1)
+        else:
+            pages = [Image.open(pdf_path)]
+    except Exception as e:
+        log.error(f"  ConvNeXt page load failed: {e}")
+        return {
+            "file": pdf_path,
+            "label": None, "score": 0.0, "status": "ERROR",
+            "all_scores": {}, "best_doc_page": page_0based,
+            "num_doc_pages": 1, "page_0based": page_0based,
+        }
+    if not pages:
+        return {
+            "file": pdf_path,
+            "label": None, "score": 0.0, "status": "ERROR",
+            "all_scores": {}, "best_doc_page": page_0based,
+            "num_doc_pages": 1, "page_0based": page_0based,
+        }
+    pred = _convnext_predict(pages[0])
+    if pred is None:
+        return None
+
+    label = pred["label"] if not pred["is_discard"] else None
+    score = pred["score"]
+    status = "OK" if (label and score >= threshold) else "UNSURE"
+    return {
+        "file": pdf_path,
+        "label": label,
+        "score": score,
+        "status": status,
+        "all_scores": pred["all_scores"],
+        "best_doc_page": page_0based,
+        "num_doc_pages": 1,
+        "page_0based": page_0based,
+        "page_within_form": pred["page_within_form"],
+        "is_discard": pred["is_discard"],
+        "backend": "convnext",
+    }
+
 
 def classify_pdf(
     pdf_path,
     templates_dir,
     threshold: float | None = None,
 ) -> dict:
-    """Cached convenience wrapper used by :mod:`pipeline.orchestrator`."""
+    """Cached convenience wrapper used by :mod:`pipeline.orchestrator`.
+
+    Prefers the ConvNeXt backend when available; falls back to SSIM template
+    matching. ``threshold`` is interpreted by the active backend (ConvNeXt
+    uses softmax probability; SSIM uses ``CONFIDENCE_THRESHOLD``).
+    """
+    if _convnext_available():
+        th = threshold if threshold is not None else CONVNEXT_THRESHOLD
+        result = _classify_pdf_convnext(str(pdf_path), th)
+        if result is not None:
+            return result
+    # SSIM fallback
     global _library_cache
     if _library_cache is None:
         _library_cache = build_template_library(str(templates_dir))
